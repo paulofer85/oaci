@@ -1,0 +1,89 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:58 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:35 GMT
+ETag: "1296-493fc71ac46c0"
+Accept-Ranges: bytes
+Content-Length: 4758
+Content-Range: bytes 0-4757/4758
+Keep-Alive: timeout=3, max=71
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>La planta motriz</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">LA PLANTA MOTRIZ </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"> Cuando acabamos el motor  y lo probamos, observamos que  pod&iacute;a desarrollar 16 HP durante algunos segundos, pero que la potencia  r&aacute;pidamente deca&iacute;a, y al cabo de un minuto se quedaba en s&oacute;lo 12 HP. Ignorando  lo que un motor de ese tama&ntilde;o deb&iacute;a desarrollar, est&aacute;bamos muy satisfechos con  esas prestaciones. Nuestra experiencia posterior demostr&oacute; que s&oacute;lo hab&iacute;amos conseguido la  mitad de la potencia que deber&iacute;amos haber tenido.</p>
+      <p align="center"><img src="images/ilustraciones/wright_motor.jpg" width="500" height="337" border="1" /></p>
+      <p align="center" class="smallText">El motor de 4 cilindros en l&iacute;nea dise&ntilde;ado por los hermanos Wright y construido por M. C. Taylor </p>
+      <p align="justify">Con 12 HP en nuestras manos, consideramos que nos  podriamos permitir que el peso de m&aacute;quina y piloto&nbsp; ascendiera a 340 &oacute; 360 Kg, y todav&iacute;a tendr&iacute;amos un exceso de  potencia como el que hab&iacute;amos previsto en la primera estimaci&oacute;n de 250 Kg.</p>
+    <p align="justify"> Antes de salir para nuestro campo en Kitty Hawk,  probamos la cadena tractora para las h&eacute;lices en nuestra tienda de Dayton, y la  encontramos satisfactoria. Observamos, sin embargo, que nuestros primeros ejes  propulsores, construidos con tubo de acero de calibre grueso, no eran lo  suficientemente fuertes como para soportar el funcionamiento irregular del  motor de gasolina&nbsp; con h&eacute;lices ligeras,  a pesar de que habr&iacute;an sido capaces de transmitir una potencia uniforme tres o  cuatro veces mayor. As&iacute; que construimos un nuevo juego de ejes de tubo  m&aacute;s grueso, que fueron probados pensando que ser&iacute;an sobradamente fuertes.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

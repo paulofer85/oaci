@@ -1,0 +1,99 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:39 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:39 GMT
+ETag: "1722-493fc71e94fc0"
+Accept-Ranges: bytes
+Content-Length: 5922
+Content-Range: bytes 0-5921/5922
+Keep-Alive: timeout=3, max=42
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Zero: Introducci&oacute;n</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="zero.html"><img src="images/logos_cabeceras/cabecera_zero.jpg" width="266" height="120" border="0" align="left" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">INTRODUCCI&Oacute;N</div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="center" class="pageName">CARACTER&Iacute;STICAS DE  VUELO DEL CAZA JAPON&Eacute;S ZERO</p>
+      <p align="center"><img src="images/ilustraciones/Zero.jpg" width="400" height="327" border="1" /></p>
+      <p align="center" class="smallText">Mitsubishi A6M Zeke (Zero) </p>
+      <p align="justify">Este documento recoge los resultados de las pruebas de  prestaciones del caza Zero compar&aacute;ndolo con los cazas en servicio en los  Estados Unidos y es complementario al Resumen Informativo de Inteligencia N&ordm;  59.</p>
+      <p align="center">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *</p>
+      <p align="justify">Los vuelos de prueba han sido realizados por pilotos de  los Estados Unidos para investigar las prestaciones y la maniobrabilidad del  caza japon&eacute;s Zero (Zeke) en comparaci&oacute;n con los P-38F, P-39D-1, P-40F, P-51,  F4F-4 y F4U-1.</p>
+      <p align="justify">Todas la pruebas se  llevaron a cabo en San Diego. Las comparaciones con los cazas de la Fuerza  A&eacute;rea se realizaron por representantes del Grupo de Pruebas en Tierra de las  Fuerzas A&eacute;reas del Ej&eacute;rcito procedentes del aer&oacute;dromo de Eglin. Pilotos de la  Marina completaron las comparativas con el F4F-4 y el F4U-1.</p>
+      <p align="justify">El avi&oacute;n japon&eacute;s  utilizado en los tests es del tipo Zero Mark I, caza embarcado, Modelo 2. Los  detalles descriptivos de este avi&oacute;n est&aacute;n incluidos en el Resumen Informativo  de Inteligencia N&ordm; 59, Direcci&oacute;n del Servicio de Inteligencia, Cuartel General  de las Fuerzas A&eacute;reas de los Estados Unidos. Se incluye un breve resumen de  algunas caracter&iacute;sticas principales para situar los comentarios de los  oficiales del Grupo de Pruebas de Tierra, y para complementar el Resumen  anterior.</p>
+      <p align="justify">Las conclusiones y  recomendaciones son las opiniones emitidas por los oficiales de pruebas y los  pilotos que realizaron los test. Esas opiniones est&aacute;n reflejadas en todo el  informe, pero en ning&uacute;n momento deben considerarse como directivas o  instrucciones operacionales.</p>
+      <p align="justify">Anexadas al final del  Resumen, hay 15 p&aacute;ginas de fotograf&iacute;as que muestran los instrumentos y los  controles de la cabina del caza Zero, junto a una serie de instant&aacute;neas del  avi&oacute;n en vuelo y en tierra.</p>
+      <p align="justify">Se exponen en las  siguientes p&aacute;ginas extractos de los informes del Grupo de Pruebas y de la  Marina.</p>
+      <p align="left">&nbsp;</p>
+      <p align="center">EXTRACTOS DEL INFORME  DEL <br />
+        GRUPO DE PRUEBAS DE  TIERRA DE LAS FUERZAS A&Eacute;REAS<br />
+    Aer&oacute;dromo de Eglin,  Florida</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="zero.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

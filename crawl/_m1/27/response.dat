@@ -1,0 +1,512 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:36 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:51:56 GMT
+ETag: "5998-493fc6f592f00"
+Accept-Ranges: bytes
+Content-Length: 22936
+Content-Range: bytes 0-22935/22936
+Keep-Alive: timeout=3, max=79
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19971010::extensions to HTML 4.0//EN" "hmpro4.dtd"> 
+ 
+<HTML>
+ 
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252"> 
+<TITLE>Catalogue of ICAO Airfields</TITLE>
+<base target="_top">
+<style>
+<!--
+TD {
+	FONT-SIZE: 16px; COLOR: #99cc99; FONT-FAMILY: Verdana, arial, helvetica, serif
+}
+.menuitem {
+	PADDING-RIGHT: 5px; BORDER-TOP: #f2f1f2 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 10pt; PADDING-BOTTOM: 7px; CURSOR: hand; PADDING-TOP: 7px; BORDER-BOTTOM: #adacad 1px solid; FONT-FAMILY: MS Sans Serif
+}
+.style2 {font-size: small}
+-->
+</style>
+<meta name="Microsoft Theme" content="sandston 011">
+</HEAD>
+
+<BODY background="../_themes/sandston/stonbk.jpg" bgcolor="#FFFFFF" text="#000000" link="#993300" vlink="#CC6633" alink="#660000"><!--mstheme--><font face="Arial, Helvetica"><!--mstheme--></font><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="746" id="AutoNumber2">
+  <tr>
+    <td width="100%"><!--mstheme--><font face="Arial, Helvetica"><!--mstheme--></font><table border="0" cellspacing="0" style="border-collapse: collapse" width="700" id="AutoNumber4" cellpadding="0">
+      <tr>
+        <td width="100%"><!--mstheme--><font face="Arial, Helvetica">&nbsp;
+</font>
+        <H1 ALIGN="CENTER"><font color="#800000" face="Arial, Helvetica">Lista mundial de c&oacute;digos OACI</font></H1>
+        <H1 ALIGN="CENTER"><em><font color="#800000" face="Arial, Helvetica"><a href="mailto:bones@mcb.net" class="style2">por John Woodside</a> </font></em></H1>
+        <font face="Arial, Helvetica">&nbsp;</font>
+        <P align="justify" style="margin-left: 11; margin-right: 11"><font face="Arial, Helvetica"><b><font color="#000080" size="2">Las p&aacute;ginas siguientes proporcionan una lista completa de los c&oacute;digos de identificaci&oacute;n OACI de los aeropuertos de todo el mundo. No es una lista completa porque no aparecen aquellos asignados por otros entes aeron&aacute;uticos distintos de la OACI (Oficinas meteorol&oacute;gicas, administraciones, mandos militares, autoridades aeron&aacute;uticas, etc.). </font></b></font></P>
+        <font face="Arial, Helvetica">
+<P align="justify" style="margin-left: 11; margin-right: 11">
+<b>
+<font color="#000080" size="2">Cada registro de aer&oacute;dromo muestra: </font></b></P>
+</font>
+        <P align="justify" style="margin-left: 11; margin-right: 11">
+<font color="#FF0000" size="2" face="Arial, Helvetica"><b>C&oacute;digo OACI | Nombre del aer&oacute;dromo | Latitud | Longitud 
+| 
+Altitud | Longitud de la pista m&aacute;s larga (pies).</b></font></P>
+        
+        <P align="justify" style="margin-left: 11; margin-right: 11">
+<font face="Arial, Helvetica"><b>
+<font color="#000080" size="2">La disponibilidad de la informaci&oacute;n var&iacute;a seg&uacute;n el pa&iacute;s, y por lo tanto se observar&aacute;n algunas lagunas que todav&iacute;a requieren completarse. Hay pocos datos de China, Rusia y de algunos pa&iacute;ses de Oriente Medio, as&iacute; como de algunas &aacute;reas de &Aacute;frica y Asia. </font></b></font></P>
+<P align="justify" style="margin-left: 11; margin-right: 11">
+<font face="Arial, Helvetica"><b><font size="2" color="#800000">Notas:</font></b></font></P>
+<P align="justify" style="margin-left: 11; margin-right: 11">
+<font face="Arial, Helvetica"><b><font size="2" color="#800000">1. Los datos de Lat/Long se limitan a grados y minutos. Esto proporciona una exactitud de posici&oacute;n aproximada de +/- 1 NM. <br>
+2. Los aer&oacute;dromos que han sido retirados recientemente de los documentos de la OACI se muestran en </font>
+<font size="2" color="#FF0000">ROJO</font><font size="2" color="#800000">. Algunos de esos aer&oacute;dromos desaparecer&aacute;n, pero otros s&oacute;lo han perdido su identificador OACI y permanecen en servicio. <br>
+3. Los datos de estas p&aacute;ginas no est&aacute;n garantizados. Siempre pueden colarse errores tipogr&aacute;ficos. Unos pocos c&oacute;digos introducidos no son genuinos identificadores OACI, pero se refieren a aer&oacute;dromos reales.</font></b></font></P>
+<P ALIGN="center" style="margin-left: 11; margin-right: 11"><FONT color="#000080" SIZE="3" face="Arial, Helvetica"><U><B>Descripci&oacute;n de las tablas de aer&oacute;dromos OACI</B></U></FONT></P>
+<P align="justify" style="margin-left: 11; margin-right: 11">
+<font color="#000080" size="2" face="Arial, Helvetica">Se han dividido los datos en 13 p&aacute;ginas para mantener su tama&ntilde;o manejable. A&uacute;n as&iacute;, el tama&ntilde;o de algunas p&aacute;ginas es grande (sobre 1,7 Mb). </font></P>
+<P align="justify" style="margin-left: 11; margin-right: 11"><font color="#000080" size="2" face="Arial, Helvetica">L&aacute;s p&aacute;ginas est&aacute;n ordenadas por identificativo OACI (no por nombre de aer&oacute;dromo). Eso clasifica las p&aacute;ginas seg&uacute;n las regiones mostradas a continuaci&oacute;n.</font></P>
+<P align="justify" style="margin-left: 11; margin-right: 11">&nbsp;</P></td>
+      </tr>
+    </table><!--mstheme--><font face="Arial, Helvetica"><!--mstheme--></font></td>
+  </tr>
+</table><!--mstheme--><font face="Arial, Helvetica">
+<CENTER>
+<div align="left">
+  <!--mstheme-->
+  <TABLE BORDER="2" CELLPADDING="7" CELLSPACING="1" width="700" bordercolordark="#333333" bordercolorlight="#666666">
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-AD.htm" target="_self">
+<font color="#000080">
+C&oacute;digos OACI - AAAA a DZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<FONT COLOR="#800000" size="3"><B>SW Pac&iacute;fico </B><BR>
+<B>C&iacute;rculo &Aacute;rtico</B><BR>
+<B>Canad&aacute;</B><BR>
+<B> &Aacute;frica Oeste </B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Solomon Islands <B>(AG)</B><BR>
+Nauru <B>(AN)</B>, <BR>
+Papua New Guinea <B>(AY)</B><BR>
+----------------------------------<BR>
+Greenland <B>(BG)</B>, <BR>
+Iceland <B>(BI)</B><BR>
+----------------------------------- <BR>
+Canada <B>(CY, CZ)</B><BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Algeria <B>(DA)</B>, <BR>
+Benin <B>(DB)</B>, <BR>
+Burkina Faso <B>(DF)</B>, <BR>
+Ghana<B> (DG)</B>, <BR>
+Ivory Coast <B>(DI)</B>, <BR>
+Nigeria <B>(DN)</B>, <BR>
+Niger <B>(DR)</B>, <BR>
+Tunisia <B>(DT)</B>, <BR>
+Togo <B>(DX)</B>.</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><font size="3"><A HREF="ICAO-E.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - EAAA a EZZZ</font></A>  </font></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>Norte de Europa</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Belgium <B>(EB)</B>, <BR>
+Germany <B>(ED, ET)</B>, <BR>
+Estonia <B>(EE)</B>, <BR>
+Finland <B>(EF)</B>, <BR>
+United Kingdom <B>(EG)</B>, <BR>
+Netherlands <B>(EH)</B>, <BR>
+Ireland <B>(EI)</B>, <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Denmark <B>(EK)</B>, <BR>
+Luxembourg <B>(EL)</B>, <BR>
+Norway <B>(EN)</B>, <BR>
+Poland <B>(EP)</B>, <BR>
+Sweden <B>(ES)</B>, <BR>
+Latvia <B>(EV)</B>, <BR>
+Lithuania <B>(EY)</B>.</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><b><font size="3"><A HREF="ICAO-F.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - FAAA a FVZZ</font></A><font color="#000080"> <BR>
+</font>
+</font></b>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>&Aacute;frica</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">South Africa (<B>FA</B>), <BR>
+Botswana (<B>FB</B>), <BR>
+Congo (<B>FC</B>), <BR>
+Swaziland (<B>FD</B>), <BR>
+Central African Republic (<B>FE</B>), <BR>
+Ecuatorial Guinea (<B>FG</B>), <BR>
+Ascension (<B>FH</B>), <BR>
+Mauritius (<B>FI</B>), <BR>
+Cameroon (<B>FK</B>), <BR>
+Zambia (<B>FL</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Comoros (<B>FM</B>), <BR>
+Reunion (<B>FM), </B><BR>
+Madagascar (<B>FM</B>), <BR>
+Angola (<B>FN</B>), <BR>
+Gabon (<B>FO</B>), <BR>
+Sao Tome (<B>FP</B>), <BR>
+Mozambique (<B>FQ</B>), <BR>
+Seychelles (<B>FS</B>), <BR>
+Chad (<B>FT</B>), <BR>
+Zimbabwe (<B>FV</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><b><font size="3"><A HREF="ICAO-GH.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - FWAA a HZZZ</font></A><font color="#000080"> <BR>
+</font>
+</font></b>
+<BR>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>&Aacute;frica</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Malawi (<B>FW</B>), <BR>
+Lesotho (<B>FX</B>), <BR>
+Namibia (<B>FY</B>), <BR>
+Congo (<B>FZ</B>).<BR>
+Mali (<B>GA</B>), <BR>
+Gambia (<B>GB</B>), <BR>
+Canary Isles (<B>GC</B>), <BR>
+Spain (<B>GE</B>), <BR>
+Sierra Leone (<B>GF</B>), <BR>
+Guinee-Bissau (<B>GG</B>), <BR>
+Liberia (<B>GL</B>), <BR>
+Morocco (<B>GM</B>), <BR>
+Senegal (<B>GO</B>), <BR>
+Mauritanie (<B>GQ</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">W. Sahara (<B>GS</B>), <BR>
+Guinea (<B>GU</B>), <BR>
+Cape Verde (<B>GV</B>).<BR>
+Ethiopia (<B>HA</B>), <BR>
+Burundi (<B>HB</B>), <BR>
+Somalia (<B>HC</B>), <BR>
+Djibouti (<B>HD</B>), <BR>
+Egypt (<B>HE</B>), <BR>
+Eritrea (<B>HH</B>), <BR>
+Kenya (<B>HK</B>), <BR>
+Libya (<B>HL</B>), <BR>
+Rwanda (<B>HR</B>), <BR>
+Sudan (<B>HS</B>), <BR>
+Tanzania (<B>HT</B>), <BR>
+Uganda (<B>HU</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><b><font size="3"><A HREF="ICAO-K1.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - KAAA a KKZZ</font></A><font color="#000080"> <BR>
+</font>
+</font></b>
+<BR>
+<FONT COLOR="#800000"><B>USA</B></FONT><BR>
+<BR>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">USA (<B>KA to KK</B>)</font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Nota: Algunos aer&oacute;dromos estadounidenses no han sido publicados por la OACI. En ese caso, se incluyen en gris claro.</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-K2.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - KLAA a KZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>USA</B></FONT><BR>
+<BR>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">USA (<B>KL to KZ</B>)</font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><!--mstheme-->
+  <font color="#336666" size="2">Nota: Algunos aer&oacute;dromos estadounidenses no han sido publicados por la OACI. En ese caso, se incluyen en gris claro.</font></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-L.htm" target="_self">
+<font color="#000080">Codigos OACI - LAAA a LZZZ</font></A><font color="#000080"> </font> </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>Europa Sur </B></FONT></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Albania (<B>LA</B>), <BR>
+Bulgaria (<B>LB</B>), <BR>
+Cyprus (<B>LC</B>), <BR>
+Spain (<B>LE</B>), <BR>
+France (<B>LF</B>), <BR>
+Greece (<B>LG), </B><BR>
+Hungary (<B>LH</B>), <BR>
+Italy (<B>LI</B>), <BR>
+Slovenia (<B>LJ</B>), <BR>
+Czech Republic (<B>LK</B>), <BR>
+Israel (<B>LL</B>), <BR>
+Malta (<B>LM</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Monaco (<B>LN</B>), <BR>
+Austria (<B>LO</B>), <BR>
+Portugal (<B>LP</B>), <BR>
+Bosnia (<B>LQ</B>), <BR>
+Romania (<B>LR</B>), <BR>
+Switzerland (<B>LS</B>), <BR>
+Turkey (<B>LT</B>), <BR>
+Moldova (<B>LU</B>), <BR>
+Macedonia (<B>LW</B>), <BR>
+Gibraltar (<B>LX</B>), <BR>
+Yugoslavia (<B>LY</B>), <BR>
+Slovakia (<B>LZ</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-MN.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - MAAA a NZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>Am&eacute;rica Central </B><BR>
+<BR>
+<B>Pac&iacute;fico Sur </B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Turks and Caicos Isles (<B>MB</B>), <BR>
+Dominican Republic (<B>MD</B>), <BR>
+Guatemala (<B>MG</B>), <BR>
+Honduras (<B>MH</B>), <BR>
+Jamaica (<B>MK</B>), <BR>
+Mexico (<B>MM</B>), <BR>
+Nicaragua (<B>MN</B>), <BR>
+Panama (<B>MP</B>), <BR>
+Costa Rica (<B>MR</B>), <BR>
+El Salvador (<B>MS</B>), <BR>
+Haiti (<B>MT</B>), <BR>
+Cuba (<B>MU</B>), <BR>
+Caymans (<B>MW</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Bahamas (<B>MY</B>), <BR>
+Belize (<B>MZ</B>).<BR>
+-------------------------------<BR>
+Cook Isles (<B>NC</B>), <BR>
+Fiji (<B>NF</B>), <BR>
+Tonga (<B>NF</B>), <BR>
+Kiribati (<B>NG</B>), <BR>
+Tuvalu (<B>NG</B>), <BR>
+Niui (<B>NI</B>), <BR>
+Wallis (<B>NL</B>), <BR>
+Samoa (<B>NS</B>), <BR>
+Polynesia (<B>NT</B>), <BR>
+Vanuatu (<B>NV</B>), <BR>
+New Caledonia (<B>NW</B>), <BR>
+New Zealand (<B>NZ</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme-->
+  <p><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-O.htm" target="_self">
+    <font color="#000080">C&oacute;digos OACI - OAAA a OZZZ</font></A> </FONT></B>
+        <font color="#000080"><BR>
+        </font>
+        </font></p>
+  <p><font face="Arial, Helvetica"><FONT COLOR="#800000"><B>Oriente Medio </B></FONT></font></p></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Afganistan (<B>OA</B>), <BR>
+Bahrain (<B>OB</B>), <BR>
+Saudi Arabia (<B>OE</B>), <BR>
+Iran (<B>OI</B>),<BR>
+Jordan (<B>OJ</B>), <BR>
+Kuwait (<B>OK</B>), <BR>
+Lebanon (<B>OL</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">United Arab Emirates (<B>OM</B>), <BR>
+Oman (<B>OO</B>), <BR>
+Pakistan (<B>OP</B>), <BR>
+Iraq (<B>OR</B>), <BR>
+Syria (<B>OS</B>), <BR>
+Qatar (<B>OT</B>), <BR>
+Yemen (<B>OY</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-PR.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - PAAA a RZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>Pac&iacute;fico Norte </B><BR>
+<BR>
+<B>Pac&iacute;fico Oriental Rim</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Alaska (<B>PA</B>), <BR>
+Marianas (<B>PG</B>), <BR>
+Hawaii (<B>PH</B>), <BR>
+Johnston I (<B>PJ</B>), <BR>
+Marshall I (<B>PK</B>), <BR>
+Kiribati (<B>PL</B>), <BR>
+Midway (<B>PM</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Micronesia (<B>PT</B>), <BR>
+Wake (<B>PW</B>).<BR>
+----------------------------------<BR>
+China (<B>RC</B>), <BR>
+Japan (<B>RJ</B> +<B>RO</B>), <BR>
+Korea (<B>RK</B>), <BR>
+Philippines (<B>RP</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><a href="ICAO-S1.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - SAAA a SEZZ</font></a>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>Am&eacute;rica del Sur </B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Argentina (<B>SA</B>), <BR>
+Brazil (<B>SB</B>), <BR>
+Chile (<B>SC</B>), <BR>
+Ecuador (<B>SE</B>), <BR>
+<BR>
+</font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2"> <BR>
+&nbsp;</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><a href="ICAO-S2.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - SFAA a SZZZ</font></a>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>Am&eacute;rica del Sur </B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Falklands (<B>SF</B>), <BR>
+Paraguay (<B>SG</B>), <BR>
+Colombia (<B>SK</B>), <br>
+Bolivia (<B>SL</B>), <BR>
+Suriname (<B>SM</B>), </font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Fr Guyana (<B>SO</B>), <BR>
+Peru (<B>SP</B>), <BR>
+Uruguay (<B>SU</B>), <BR>
+Venezuela (<B>SV</B>), <BR>
+Guyana (<B>SY</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-TU.htm" target="_self">
+<font color="#000080">C&oacute;digos - TAAA a UZZZ</font></A> </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<FONT COLOR="#800000"><B>Caribe</B><BR>
+<BR>
+<B>Federaci&oacute;n Rusa</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Antigua (<B>TA</B>), <BR>
+Barbados (<B>TB</B>), <BR>
+Dominica (<B>TD</B>) <BR>
+Fr. Antilles (<B>TF</B>), <BR>
+Grenada (<B>TG</B>), <BR>
+Virgins (<B>TI</B>, <B>TU</B>), <BR>
+Puerto Rico (<B>TJ</B>), <BR>
+St Kitts (<B>TK</B>), <BR>
+St Lucia (<B>TL</B>), <BR>
+Aruba (<B>TN</B>), <BR>
+Neth. Antillies (<B>TN</B>), <BR>
+Anguilla (<B>TQ</B>), <BR>
+Montserrat (<B>TR</B>), <BR>
+Trinidad and Tobago (<B>TT</B>), <BR>
+St Vincent (<B>TV</B>), <BR>
+Bermuda (<B>TX</B>).<BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Kazakstan + Kyrgyzstan (<B>UA</B>), <BR>
+Azerbaijan (<B>UB</B>), <BR>
+Armenia + Georgia (<B>UG</B>), <BR>
+Ukraine (<B>UK</B>), <BR>
+Belarus (<B>UM</B>), <BR>
+Tadjikistan + Turkmenistan + Uzbekistan (<B>UT</B>), <BR>
+Russian Federation (<B>UE</B>, <B>UH</B>, <B>UI</B>, <B>UL</B>, <B>UM</B>,
+<B>UN</B>, <B>UO</B>, <B>UR</B>, <B>US</B>, <B>UU</B>, <B>UW</B>).</font><!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-VW.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - VAAA a WZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<BR>
+<strong><font color="#800000">Lejano Oriente </font></strong>
+</font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">India (<B>VA</B>, <B>VE</B>, <B>VI</B>,
+<B>VO</B>), <BR>
+Sri Lanka (<B>VC</B>), <BR>
+Cambodia (<B>VD</B>), <BR>
+Bangladesh (<B>VG</B>), <BR>
+Hong Kong (<B>VH</B>), <BR>
+Lao (<B>VL</B>), <BR>
+Macao (<B>VM</B>), <BR>
+Nepal (<B>VN</B>), <BR>
+Bhutan (<B>VQ</B>), <BR>
+Maldives (<B>VR</B>), <BR>
+</font>
+<!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Thailand (<B>VT</B>), <BR>
+Vietnam (<B>VV</B>), <BR>
+Myanmar (<B>VY</B>).<BR>
+---------------------------------<BR>
+Indonesia (<B>WA</B>,<B>WI</B>, <B>WR</B>), <BR>
+Brunei (<B>WB</B>), <BR>
+Malaysia (<B>WB</B>), <BR>
+Malaysia Peninsular (<B>WM</B>), <BR>
+East Timor (<B>WP</B>),<BR>
+Singapore (<B>WS</B>) </font> <!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-Y.htm" target="_self">
+<font color="#000080">C&oacute;digos - YAAA a YZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>Australia</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">Australia (<B>Y</B>)</font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica">&nbsp;<!--mstheme--></font></TD>
+</TR>
+<TR>
+<TD ALIGN="CENTER" WIDTH="279"><!--mstheme--><font face="Arial, Helvetica"><B><FONT SIZE="3"><A HREF="ICAO-Z.htm" target="_self">
+<font color="#000080">C&oacute;digos OACI - ZAAA a ZZZZ</font></A>  </FONT></B>
+<font color="#000080"><BR>
+</font>
+<BR>
+<FONT COLOR="#800000"><B>China</B></FONT><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="179"><!--mstheme--><font face="Arial, Helvetica"><font color="#336666" size="2">China (<B>Z</B>)</font><!--mstheme--></font></TD>
+<TD ALIGN="LEFT" WIDTH="226"><!--mstheme--><font face="Arial, Helvetica">&nbsp;<!--mstheme--></font></TD>
+</TR>
+</TABLE><!--mstheme--><font face="Arial, Helvetica">
+</div>
+</CENTER>
+<!--mstheme-->
+<table border="0" cellpadding="0" cellspacing="1" width="710" id="AutoNumber3">
+  <tr>
+    <td width="100%"><!--mstheme--><font face="Arial, Helvetica">
+<CENTER>
+<!--mstheme-->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="710" id="AutoNumber5">
+  <tr>
+    <td width="100%"><!--mstheme--><font face="Arial, Helvetica"><!--msthemeseparator--><p align="center">&nbsp;</p>
+<P ALIGN="CENTER"><I> <B><FONT SIZE="3" COLOR="#006666">Lista de datos de aer&oacute;dromos  - 
+&Uacute;ltima actualizaci&oacute;n: 13/10/2000 </FONT></B></I></P>
+  
+    <P ALIGN="CENTER"><FONT SIZE="-1"><I> <A HREF="mailto:bones@mcb.net">por
+John Woodside</A></I> </FONT></P>
+
+    <p><p>&nbsp;<!--mstheme-->
+    </td>
+  </tr>
+</table><!--mstheme--><font face="Arial, Helvetica">
+</CENTER>
+    <!--mstheme--></td>
+  </tr>
+</table><!--mstheme--><font face="Arial, Helvetica"><!--mstheme--></font></BODY>
+</HTML>

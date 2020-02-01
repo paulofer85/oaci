@@ -1,0 +1,145 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:52 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:47:06 GMT
+ETag: "1ff2-493fc5e102280"
+Accept-Ranges: bytes
+Content-Length: 8178
+Content-Range: bytes 0-8177/8178
+Keep-Alive: timeout=3, max=64
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_fw190.jpg" alt="" name="Cabecera_menu" width="224" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="207" id="navigation">
+      <tr>
+        <td width="207"><img src="images/logos_cabeceras/tit_fw190.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="207" align="left"><a href="fw190_historia.html" class="navText">Historia y desarrollo </a></td>
+      </tr>
+      <tr>
+        <td width="207"><a href="fw190_vuelosprueba.html" target="" class="navText">Los vuelos de prueba  </a></td>
+      </tr>
+      <tr>
+        <td width="207"><a href="fw190_variantes.html" class="navText">La variantes </a></td>
+      </tr>
+      <tr>
+        <td width="207"><a href="maquinas.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <div align="center"><br />
+  &nbsp;<br />
+  &nbsp;<img src="images/ilustraciones/fw190_portada.jpg" width="180" height="424" border="1" /><br />
+  &nbsp;<br />
+  &nbsp;  </div>
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="338" height="761" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="37" colspan="3" class="pageName"><div align="left" class="pageName">
+              <div align="center">Focke-Wulf 190 </div>
+            </div></td>
+          </tr>
+          <tr>
+            <td colspan="3"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          
+          <tr>
+            <td width="14" height="700" class="bodyText"><p align="justify">&nbsp;</p>
+            <a href="Templates/mustang.html"></a></td>
+            <td class="bodyText"><p align="center"><img src="images/ilustraciones/fw190portada.jpg" width="300" height="187" border="1" /></p>
+              <p align="justify">Cuando en 1937 la Luftwaffe buscaba un futuro sustituto para el famoso Messerschmitt Bf 109, el jefe de dise&ntilde;o de Focke-Wulf Kurt Tank, ofreci&oacute; un modelo revolucionario y avanzad&iacute;simo tecnol&oacute;gicamente. Destacaba su motor radial, algo estrafalario para la &eacute;poca y que contrari&oacute; al Ministerio del Aire alem&aacute;n, pero que finalmente acept&oacute; debido a la escasez de motores en l&iacute;nea.</p>
+              <p align="justify">Tank se emple&oacute; a fondo: optimizado al m&aacute;ximo aerodin&aacute;micamente, equipado con multitud de sistemas el&eacute;ctricos autom&aacute;ticos, el p&aacute;jaro &quot;exterminador&quot;, como &eacute;l lo llamaba, representaba lo &uacute;ltimo en interceptor de combate cuando apareci&oacute; en 1942. Superaba con creces a su hom&oacute;logo ingl&eacute;s, el Spitfire V, y fue un quebradero de cabeza para la RAF hasta que aparecieron modelos equivalentes en el bando aliado.</p>
+            <p align="justify">El capit&aacute;n Eric Brown fue uno de los pocos pilotos brit&aacute;nicos que pilot&oacute; un Fw 190. &Eacute;sta es su historia y la del &quot;p&aacute;jaro exterminador&quot; de Kurt Tank. Este relato es una traducci&oacute;n de un art&iacute;culo suyo publicado en el ejemplar de octubre de 2000 de <a href="http://www.flightjournal.com/" target="_blank">Flight Journal</a> bajo el t&iacute;tulo &quot;Flying Fw 190, Kurt Tank's Butcher Bird&quot;. </p></td>
+            <td width="11" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="40" colspan="3" class="bodyText"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          
+          <tr>
+            <td height="39" colspan="3" class="bodyText">&nbsp;</td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">&nbsp;</p>
+		  <p align="justify" class="subHeader">ERIC &quot;WINKLE&quot; BROWN</p>
+		  <p align="justify" class="smallText">El autor de este art&iacute;culo es el capit&aacute;n de la RAF Eric Brown, afamado piloto de pruebas brit&aacute;nico que ostenta el r&eacute;cord Guinness de piloto con un mayor n&uacute;mero de aeronaves diferentes voladas, con 487.</p>
+		  <p align="justify" class="smallText">Nacido en 1919, vol&oacute; por primera vez a los 18 a&ntilde;os y despu&eacute;s de la II&ordf; GM lider&oacute; el &quot;Enemy Aircraft Flight&quot;, un grupo de &eacute;lite de la RAF que se encargaba de volar y evaluar los aparatos enemigos. El 3 de diciembre de 1945 realiz&oacute; el primer aterrizaje de un reactor sobre la cubierta de un portaaviones, con un De Havilland Sea Vampire sobre el HMS Ocean. </p>
+		  <p align="justify" class="smallText">Retirado despu&eacute;s de 31 a&ntilde;os de servicio, es autor de numerosos libros y art&iacute;culos sobre aviaci&oacute;n.</p>
+		  <p align="justify" class="smallText">Este relato es uno de ellos. </p>
+		  <p align="justify" class="smallText">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+1+

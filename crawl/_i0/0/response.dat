@@ -1,0 +1,35 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:09 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Sat, 27 Apr 2013 16:13:19 GMT
+ETag: "11f0-4db59ee0945c0"
+Accept-Ranges: bytes
+Content-Length: 4592
+Content-Range: bytes 0-4591/4592
+Keep-Alive: timeout=3, max=64
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Meteorolog&iacute;a</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0" id="navigation">
+  <tr>
+    <td width="288">&nbsp;<img src="images/logos_cabeceras/tit_meteo.png" width="140" height="30" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9" height="121"><form action="http://www.aviadores.eu/meteo.php" method="post" name="OACI" target="contenido" id="OACI"

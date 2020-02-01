@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'ilustraciones', 'dir': 'c0', 'linked': 2, 'url': 'http://www.aviadores.net/images/ilustraciones/', 'fetched': true, 'code': 404, 'len': 196, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': true, 'child_cnt': 399, 'issue_cnt': [ 0, 1, 0, 0, 0 ], 'sig': 0xe0036f07 },
+  { 'dupe': false, 'type': 4, 'name': 'logos_cabeceras', 'dir': 'c1', 'linked': 2, 'url': 'http://www.aviadores.net/images/logos_cabeceras/', 'fetched': true, 'code': 404, 'len': 196, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': true, 'child_cnt': 27, 'issue_cnt': [ 2, 0, 0, 0, 0 ], 'sig': 0xa97a04bd },
+  { 'dupe': false, 'type': 4, 'name': 'piezas', 'dir': 'c2', 'linked': 2, 'url': 'http://www.aviadores.net/images/piezas/', 'fetched': true, 'code': 404, 'len': 196, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': true, 'child_cnt': 7, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x5edaa211 }
+];

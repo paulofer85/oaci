@@ -1,0 +1,111 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:39 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:38 GMT
+ETag: "15b8-493fc71da0d80"
+Accept-Ranges: bytes
+Content-Length: 5560
+Content-Range: bytes 0-5559/5560
+Keep-Alive: timeout=3, max=78
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Conclusiones</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="zero.html"><img src="images/logos_cabeceras/cabecera_zero.jpg" alt="" name="Imagen_Cabecera" width="266" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">CONCLUSIONES Y RECOMENDACIONES </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><span class="pageName">1.CONCLUSIONES:
+      </span>
+      <p align="justify">El caza Zero, debido a su  baja carga alar, tiene una maniobrabilidad superior a todos nuestros tipos de  aviones en servicio.</p>
+      <p align="justify">Para combatir con &eacute;xito a  este avi&oacute;n, es necesario mantener una velocidad indicada superior a 300 millas  por hora.</p>
+      <p align="justify">Para desarrollar t&aacute;cticas  contra el Zero, deber&iacute;an tenerse en cuenta dos factores:</p>
+      <div align="justify">
+        <ol>
+          <li>La  pobre capacidad de alabeo del Zero a alta velocidad.</li>
+          <li>La  imposibilidad del motor del Zero para funcionar bajo aceleraciones negativas</li>
+        </ol>
+      </div>
+      <p align="justify">Las prestaciones del  motor del Zero son superiores a las de los tipos actualmente en servicio que no  est&aacute;n dotados de turbocompresor. Esta superioridad se constata por el hecho de  que se puede mantener la m&aacute;xima presi&oacute;n de admisi&oacute;n desde el nivel del mar  hasta 16.000 pies.</p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify" class="pageName">2. RECOMENDACIONES:</p>
+      <p align="justify">Todos los pilotos que  vayan a actuar en los teatros en los que el Zero vaya a estar presente, deben  ser instru&iacute;dos en lo siguiente:</p>
+      <div align="justify">
+        <ol>
+          <li>Nunca  intentar un combate cerrado con un Zero.</li>
+          <li>Nunca  maniobrar con un Zero a velocidades indicadas inferiores a 300 millas por hora,  a no ser que se est&eacute; situado directamente detr&aacute;s de &eacute;l.</li>
+          <li>Nunca  seguir a un Zero en un ascenso a baja velocidad. Los modelos en servicio  entrar&aacute;n en p&eacute;rdida justo en el &aacute;ngulo de ascenso en el que el Zero alcanza su  velocidad de m&aacute;xima maniobrabilidad. En ese momento, para el Zero es muy  factible completar un rizo y quedarse en posici&oacute;n trasera atacante.</li>
+        </ol>
+      </div>
+      <p align="justify">Los aviones usados contra  el Zero deben ser lo m&aacute;s ligeros posible y todo su equipamiento no  absolutamente necesario para el combate debe ser retirado.</p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify" class="pageName">3. T&Aacute;CTICAS OFENSIVAS Y  DEFENSIVAS</p>
+    <p align="justify">La caracter&iacute;stica m&aacute;s  importante a considerar en el desarrollo de t&aacute;cticas exitosas contra el Zero  son su dificultad de alabeo a alta velocidad y el fallo de su motor bajo  aceleraciones negativas.</p>
+    <p align="justify">&nbsp;</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="zero.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

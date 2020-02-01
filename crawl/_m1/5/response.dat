@@ -1,0 +1,100 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:23 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:17 GMT
+ETag: "1a4d-49401983f3540"
+Accept-Ranges: bytes
+Content-Length: 6733
+Content-Range: bytes 0-6732/6733
+Keep-Alive: timeout=3, max=52
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Home Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+<body>
+<table width="678" height="1743" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  
+
+ <tr>
+    <td width="69" height="1743" valign="top" bgcolor="#E9E9E9"> <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+            <p align="center" class="T&iacute;tuloTexto">FABRICANTES</p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="1656" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+            
+            
+            <tr>
+              <td valign="top" bordercolorlight="#808080" width="682" bgcolor="#E9E9E9" bordercolordark="#ffffff" height="1654"><center>
+              </center>
+                  <p align="justify">&nbsp;</p>
+                  <p align="justify"><strong><a href="http://www.cirrusdesign.com/default.aspx" class="T&iacute;tuloTexto">Cirrus   Design</a></strong> </p>
+                  <p align="justify" class="bodyText">La firma fundada en 1984 que ha triunfado con la serie SR y ahora   habla de t&uacute; a t&uacute; a los grandes como Cessna y Piper. </p>
+                  <p align="justify"><strong><a href="http://www.diamondair.com/mainpage.php" class="T&iacute;tuloTexto">Diamond   Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">Los fabricantes de las famosas Katana. Otra nueva f&aacute;brica que se   ha hecho un lugar merecido en el mundo de la Aviaci&oacute;n Deportiva. </p>
+                  <p align="justify"><strong><a href="http://www.socata.eads.net/1024/en/Homepage.html" class="T&iacute;tuloTexto">EADS-SOCATA</a></strong> </p>
+                  <p align="justify" class="bodyText">Los principales fabricantes de Aviaci&oacute;n General franceses, ahora   integrados en el grupo EADS. </p>
+                  <p align="justify"><strong><a href="http://www.libertyaircraft.com/" class="T&iacute;tuloTexto">Liberty   Aerospace</a></strong> </p>
+                  <p align="justify" class="bodyText">La firma australiana que construye el XL2, un biplaza de &uacute;ltima   generaci&oacute;n. </p>
+                  <p align="justify" class="T&iacute;tuloTexto"><a href="http://www.lycoming.textron.com/"><strong>Lycoming   Engines</strong></a> </p>
+                  <p align="justify" class="bodyText">Un cl&aacute;sico estadounidense en la fabricaci&oacute;n de motores para   aviones ligeros. </p>
+                  <p align="justify"><strong><a href="http://www.newpiper.com/" class="T&iacute;tuloTexto">Piper Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">Uno de los grandes. </p>
+                  <p align="justify" class="T&iacute;tuloTexto"><strong><a href="http://www.vansaircraft.com/" class="T&iacute;tuloTexto">Vans   Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">Fabricante de la exitosa serie de kits RV, con m&aacute;s de 5.000   volando en todo el mundo. </p>
+                  <p align="justify"><strong><a href="http://www.cessna.com/" class="T&iacute;tuloTexto">Cessna</a></strong> </p>
+                  <p align="justify" class="bodyText">Otro gigante por excelencia. Acaba de comprar Columbia y est&aacute;   ampliando su cat&aacute;logo. </p>
+                  <p align="justify"><strong><a href="http://www.tcmlink.com/fiDDefault.aspx" class="T&iacute;tuloTexto">Teledyne   Continental Motors</a></strong> </p>
+                  <p align="justify" class="bodyText">El otro grande de los motores ligeros norteamericanos. </p>
+                  <p align="justify"><strong><a href="http://www.exploreraircraft.com/" class="T&iacute;tuloTexto">Explorer   Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">Producen la serie STOL 500T y 750T, monoturbinas. </p>
+                  <p align="justify" class="T&iacute;tuloTexto"><a href="http://www.avtechgroup.com/index.asp"><strong>ATG</strong></a> </p>
+                  <p align="justify" class="bodyText">Curioso fabricante de Colorado que comercializa el Javelin Mk-10 y   Mk-20, un reactor biplaza en versi&oacute;n ejecutiva y de entrenamiento   militar. </p>
+                  <p align="justify"><strong><a href="http://www.aviataircraft.com/" class="T&iacute;tuloTexto">Aviat   Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">El Husky, la Pitts y el Eagle salen de sus factor&iacute;as. </p>
+                  <p align="justify"><strong><a href="http://www.mooney.com/" class="T&iacute;tuloTexto">Mooney</a></strong> </p>
+                  <p align="justify" class="bodyText">La velocidad de sus monomotores es su se&ntilde;a de identidad. Otro de   los grandes. </p>
+                  <p align="justify"><strong><a href="http://www.lancair.com/" class="T&iacute;tuloTexto">Lancair</a></strong> </p>
+                  <p align="justify" class="bodyText">Otro fabricante con las prestaciones de sus aviones como   estandarte. </p>
+                  <p align="justify"><strong><a href="http://www.rans.com/" class="T&iacute;tuloTexto">Rans</a></strong> </p>
+                  <p align="justify" class="bodyText">Afamado fabricante de ultraligeros norteamericano, y ahora tambi&eacute;n   de LSA's. </p>
+                  <p align="justify"><strong><a href="http://www.murphyair.com/murphyair/entry-2.html" class="T&iacute;tuloTexto">Murphy   Aircraft</a></strong> </p>
+                  <p align="justify" class="bodyText">Fabricante norteamericano de kits para aviones ligeros: Renegade,   Maverick, Yukon, etc. </p>
+                  <p>&nbsp;</p>
+                <p align="center"><img src="images/piezas/pie_relato.gif" width="500" height="30" /></p>
+                </td>
+            </tr>
+            
+            
+            
+          </table>          </td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

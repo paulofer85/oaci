@@ -1,0 +1,168 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:07 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:02 GMT
+ETag: "1e9d-493fc6fb4bc80"
+Accept-Ranges: bytes
+Content-Length: 7837
+Content-Range: bytes 0-7836/7837
+Keep-Alive: timeout=3, max=91
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_maquinas.gif" alt="" name="Cabecera_menu" width="330" height="120" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="216" id="navigation">
+      <tr>
+        <td width="216"><img src="images/logos_cabeceras/tit_maquinas.gif" alt="" name="Titulo_menu" width="100" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td align="left"><a href="informe.html" class="navText">Aviones ligeros en Espa&ntilde;a  </a></td>
+      </tr>
+      <tr>
+        <td width="216" align="left"><a href="dornierdox.html" class="navText">Dornier Do X </a></td>
+      </tr>
+      <tr>
+        <td width="216"><a href="fairchild24.html" target="" class="navText">Fairchild F24 </a></td>
+      </tr>
+      <tr>
+        <td><a href="fisherxp75.html" class="navText">Fisher XP-75 Eagle </a></td>
+      </tr>
+      <tr>
+        <td><a href="fw190.html" class="navText">Focke-Wulf 190 </a></td>
+      </tr>
+      <tr>
+        <td width="216"><a href="clippers_panam.html" class="navText">Los hidros de Pan Am </a></td>
+      </tr>
+      <tr>
+        <td><a href="fournier.html" class="navText">Ren&eacute; Fournier </a></td>
+      </tr>
+      <tr>
+        <td width="216"><a href="zero.html" class="navText">Mitsubishi A6M Zero </a></td>
+      </tr>
+      <tr>
+        <td><a href="rafmuseo.html" class="navText">Museo de la RAF en Londres  </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang.html" class="navText">P-51 Mustang </a></td>
+      </tr>
+      <tr>
+        <td><a href="index.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="334" height="463" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="5" class="pageName"><div align="left" class="pageName">REN&Eacute; FOURNIER </div></td>
+          </tr>
+          <tr>
+            <td height="12" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="166" colspan="2" class="bodyText"><p align="justify">Ren&eacute; Fournier abandon&oacute; su carrera de ceramista, poeta y violinista por un sue&ntilde;o: construir aviones baratos, sencillos, robustos y al alcance de todos. Y lo consigui&oacute;. </p></td>
+            <td width="27" class="bodyText">&nbsp;</td>
+            <td width="157" class="bodyText"><a href="fournier.html"><img src="images/ilustraciones/rf3logo.jpg" width="150" height="101" border="1" /></a></td>
+            <td width="3" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="5" colspan="5" class="pageName">FAIRCHILD F24 </td>
+          </tr>
+          <tr>
+            <td height="13" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="5" height="78" class="bodyText"><p align="justify">&nbsp;</p></td>
+            <td width="153" class="bodyText"><a href="fairchild24.html"><img src="images/ilustraciones/F24logo.jpg" width="150" height="113" border="1" /></a></td>
+            <td height="78" class="bodyText">&nbsp;</td>
+            <td height="78" colspan="2" class="bodyText"><p align="justify">Fiable, resistente, c&oacute;modo, bello y elegante. Fue el transporte m&aacute;s   &quot;chic&quot; para estrellas de Hollywood como Tyrone Power o Robert Taylor. Pero   tambi&eacute;n un excelente avi&oacute;n cuyo dise&ntilde;o a toda prueba le ha hecho sobrevivir   hasta nuestros d&iacute;as. </p></td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+      </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p>&nbsp;</p>
+		  <p align="justify"><span class="subHeader">FISHER XP-75 </span><br />
+		    Se construy&oacute; a base de secciones de otros aviones. Deb&iacute;a ser un caza revolucionario. Fue un completo fracaso. </p>
+		  <p align="justify"><span class="subHeader">LA SERIE RF </span><br />
+		    Ren&eacute; Fournier, un autodidacta amante de la Aviaci&oacute;n, emprendi&oacute; la construcci&oacute;n de su serie RF de motoveleros y cre&oacute; un nuevo est&aacute;ndar. </p>
+		  <p align="justify"><span class="subHeader">DORNIER DO-X </span><br />
+		    El hidro gigante de Claude Dornier que se adelant&oacute; a su tiempo. A&uacute;n as&iacute;, se construyeron tres y completaron viajes &eacute;picos.</p>
+		  <p align="justify">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" --><!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

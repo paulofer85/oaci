@@ -1,0 +1,198 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:39 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:39 GMT
+ETag: "2f6d-493fc71e94fc0"
+Accept-Ranges: bytes
+Content-Length: 12141
+Content-Range: bytes 0-12140/12141
+Keep-Alive: timeout=3, max=88
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Zero: descripci&oacute;n</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="zero.html"><img src="images/logos_cabeceras/cabecera_zero.jpg" alt="" name="Imagen_Cabecera" width="266" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">DESCRIPCI&Oacute;N DEL AVI&Oacute;N </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify" class="pageName">4. DESCRIPCI&Oacute;N GENERAL</p>
+      <p align="center" class="pageName"><img src="images/ilustraciones/Zero_A6Mtipo0modelo52.jpg" width="500" height="301" border="1" class="bodyText" /></p>
+      <p align="center" class="smallText">Mitsubishi A6M Tipo 0 Modelo 52 </p>
+      <p align="justify">El caza Zero es un  monoplano monomotor de ala baja y un asiento, construido totalmente en metal,  con remaches enrasados y superficies de control con recubrimiento textil. El  avi&oacute;n est&aacute; construido enteramente de una pieza. El remplazo de cualquier parte  de la estructura del avi&oacute;n requiere un trabajo de reparaci&oacute;n de taller con  maquinaria para remachar.</p>
+      <p align="justify">El fuselaje es de  construcci&oacute;n semi monocasco. El material usado es mucho m&aacute;s ligero que el que  se usa en los modelos en servicio en los EEUU. El recubrimiento del fuselaje es  de un espesor de 0,021 pulgadas.</p>
+      <p align="justify">El tren principal se  activa hidr&aacute;ulicamente y se retrae 90&ordm; hacia el interior de la l&iacute;nea de vuelo.  La rueda de cola es totalmente retr&aacute;ct&iacute;l, pero no se puede bloquear ni dirigir.  Se mantiene fija en posici&oacute;n recta cuando est&aacute; extendida mediante dos cables de  contenci&oacute;n.</p>
+      <p align="justify">Los flaps de las alas son  peque&ntilde;os pero adecuados.</p>
+      <p align="justify">Las aletas de  refrigeraci&oacute;n del motor y del radiador de aceite se operan manualmente.</p>
+      <p align="justify">Los alerones son muy  grandes y se asemejan al los de Tipo Fries.</p>
+      <p align="justify">El avi&oacute;n est&aacute; motorizado  con un motor radial de doble corona de catorce 14 cilindros refrigerado por  aire con una potencia estimada de 900 HP a 16.000 pies. Est&aacute; provisto de tres  tanques no auto-sellantes. Dos tanques de 54 galones cada uno y un tanque de 37  galones de capacidad en el fuselaje. El motor est&aacute; equipado de un ventilador de  una etapa y de alg&uacute;n m&eacute;todo para regular la presi&oacute;n de admisi&oacute;n, pero los  detalles exactos de funcionamiento son desconocidos en este momento. Est&aacute;  equipado con una h&eacute;lice hidr&aacute;ulica de velocidad constante de tres palas. El  motor monta un carburador de tipo flotador por depresi&oacute;n.</p>
+      <p align="justify">El peso del avi&oacute;n a plena  carga militar es de 5.555 libras (2.516 Kg).</p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify" class="pageName">5. CABINA</p>
+      <p align="justify">La visibilidad de la  cabina en todas direcciones es excelente. La &uacute;nica restricci&oacute;n es un estrecho  soporte justo detr&aacute;s de la cabeza del piloto.</p>
+      <p align="justify">Todos los controles de  vuelo son convencionales. Se emplea barra de tim&oacute;n en vez de pedales  individuales. Dispone de frenos operados hidraulicamente.</p>
+      <p align="justify">Todos los controles de  vuelo y del motor est&aacute;n bien situados en la cabina, muy a mano del piloto. El  piloto, sentado normalmente, puede alcanzar sin dificultad todos los controles  necesarios para conducir el avi&oacute;n y disparar las armas.</p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify" class="pageName">6. CARACTER&Iacute;STICAS DE VUELO</p>
+      <p align="justify">Los grandes alerones  hacen que la aeronave sea muy maniobrable a velocidades indicadas&nbsp; inferiores a 300 mph. Por encima de 300 mph  de indicada, es virtualmente imposible realizar un giro de 180&ordm;.</p>
+      <p align="justify">La velocidad de alabeo  del Zero es tan r&aacute;pida de derecha a izquierda que de izquierda a derecha.</p>
+      <p align="justify">Una extraordinaria  caracter&iacute;stica del Zero es su alta capacidad de trepada. Esta trepada puede ser  casi vertical y puede mantenerse desde los 1.500 pies hasta los 2.000 pies  dependiendo de la velocidad inicial. <u>Esto no debe considerarse como una  indicaci&oacute;n de su velocidad de ascenso.</u></p>
+      <p align="justify">El Zero no tiene una  velocidad de ascenso particularmente alta, como indican las siguientes tablas  de prestaciones.</p>
+      <h1 align="center" class="bodyText">TABLAS DE PRESTACIONES</h1>
+      <p align="justify">Estas tablas muestran los resultados calibrados obtenidos  por la Marina despu&eacute;s de la serie de pruebas.</p>
+      <div align="justify">
+        <table border="1" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="144" valign="top"><p align="center">ALTURA (pies)</p></td>
+            <td width="204" valign="top"><p align="center">VELOCIDAD M&Aacute;XIMA    (mph)</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">Nivel del mar</p></td>
+            <td width="204" valign="top"><p align="center">270</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">5.000</p></td>
+            <td width="204" valign="top"><p align="center">287</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">10.000</p></td>
+            <td width="204" valign="top"><p align="center">305</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">*16.000</p></td>
+            <td width="204" valign="top"><p align="center">326</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">20.000</p></td>
+            <td width="204" valign="top"><p align="center">321,5</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">25.000</p></td>
+            <td width="204" valign="top"><p align="center">315</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">30.000</p></td>
+            <td width="204" valign="top"><p align="center">306</p></td>
+          </tr>
+        </table>
+      </div>
+      <p align="justify">&nbsp;</p>
+      <div align="justify">
+        <table border="1" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="144" valign="top"><p align="center">ALTURA (pies)</p></td>
+            <td width="204" valign="top"><p align="center">VELOCIDAD ASCENSO    (ft/min)</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">Nivel del mar</p></td>
+            <td width="204" valign="top"><p align="center">2750</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">15.000</p></td>
+            <td width="204" valign="top"><p align="center">2380</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">20.000</p></td>
+            <td width="204" valign="top"><p align="center">1810</p></td>
+          </tr>
+          <tr>
+            <td width="144" valign="top"><p align="center">30.000</p></td>
+            <td width="204" valign="top"><p align="center">850</p></td>
+          </tr>
+        </table>
+      </div>
+      <p align="center" class="smallText">(*) Altitud cr&iacute;tica</p>
+      <p align="justify">Techo de servicio: (aprox.) 38.500 ft</p>
+      <p align="justify">El Zero es muy estable y tiene unas excelentes  caracter&iacute;sticas de p&eacute;rdida.</p>
+      <p align="justify">El ala no tiene tendencia a caer cuando se alcanza la  p&eacute;rdida.</p>
+      <p align="justify">Se experimenta un ligero flutter en la cola a 313 mph de  indicada. No se ha determinado definitivamente si es un punto flaco del modelo  o de este avi&oacute;n en particular.</p>
+      <p align="justify">El despegue es muy r&aacute;pido. El avi&oacute;n se va al aire con muy  poca intervenci&oacute;n del piloto.</p>
+      <p align="justify">El Zero aterriza con una velocidad indicada de  aproximaci&oacute;n de 85 mph; la velocidad indicada estimada de aterrizaje es de 55  mph. La aeronave es muy f&aacute;cil de aterrizar y no tiene tendencia a hacer  trompos.</p>
+      <p align="justify">Los informes de la Marina reportan las siguientes  velocidades de p&eacute;rdida:</p>
+      <div align="justify">
+        <table border="1" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="192" valign="top"><p align="center">CONFIGURACI&Oacute;N</p></td>
+            <td width="127" valign="top"><p align="center">CON MOTOR</p></td>
+            <td width="101" valign="top"><p align="center">SIN MOTOR</p></td>
+          </tr>
+          <tr>
+            <td width="192" valign="top"><p align="center">Tren replegado</p></td>
+            <td width="127" valign="top"><p align="center">74 mph</p></td>
+            <td width="101" valign="top"><p align="center">78 mph</p></td>
+          </tr>
+          <tr>
+            <td width="192" valign="top"><p align="center">Tren desplegado y full flaps</p></td>
+            <td width="127" valign="top"><p align="center">61 mph</p></td>
+            <td width="101" valign="top"><p align="center">69 mph</p></td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+      </div>
+    </td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="zero.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,112 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:12 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:14 GMT
+ETag: "17a8-493fc706bd780"
+Accept-Ranges: bytes
+Content-Length: 6056
+Content-Range: bytes 0-6055/6056
+Keep-Alive: timeout=3, max=91
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">JAR-FCL </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><center>
+              <p align="center" class="navText">JAR-FCL1: Licencias para miembros de la tripulaci&oacute;n (Aviones)</p>
+              </center></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1Indice1.pdf">JAR-FCL1: &Iacute;ndice </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1SUBA.pdf">JAR-FCL1 SUBPARTE A: Requisitos generales </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1SUBB.pdf">JAR-FCL1 SUBPARTE B: Alumno Piloto (Avi&oacute;n) </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1SUBC.pdf">JAR-FCL1 SUBPARTE C: Licencia Piloto Privado (Avi&oacute;n) </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1SUBE.pdf">JAR-FCL1 SUBPARTE E: Habilitaci&oacute;n de Vuelo Instrumental (Avi&oacute;n)</a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1SUBF.pdf">JAR-FCL1 SUBPARTE F: Habilitaciones de clase y tipo (Avi&oacute;n)</a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1english.pdf">JAR-FCL1 completa en ingl&eacute;s </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><div align="center"><span class="navText">JAR-FCL3: Licencias de la tripulaci&oacute;n (Requisitos m&eacute;dicos)</span></div></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL3SUBA.pdf">JAR-FCL3 SUBPARTE A: Requisitos generales</a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL3SUBC.pdf">JAR-FCL3 SUBPARTE C: Requisitos m&eacute;dicos clase 2</a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL3SUBapendices.pdf">JAR-FCL3: ap&eacute;ndices a las subpartes B y C </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL3english.pdf">JAR-FCL3 completa en ingl&eacute;s </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><div align="center"><span class="navText">JAR-FCL: Temarios </span></div></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCLSilabus.pdf">JAR-FCL: Temario Piloto Privado (Avi&oacute;n) </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCLSilabusinstrumental.pdf">JAR-FCL: Temario Habilitaci&oacute;n de Vuelo Instrumental</a></td>
+          </tr>
+          
+          
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+              <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

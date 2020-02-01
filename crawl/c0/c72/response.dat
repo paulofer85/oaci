@@ -1,0 +1,76 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:12 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:14 GMT
+ETag: "df9-493fc706bd780"
+Accept-Ranges: bytes
+Content-Length: 3577
+Content-Range: bytes 0-3576/3577
+Keep-Alive: timeout=3, max=68
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">MANTENIMIENTO</p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="250" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="30" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><p><a title="Real Decreto 2876/1982" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/CIRCULARES_DOCUMEN/MATRICULACION/rd2876_1982.htm',this);" href="normativa/mantenimiento_aeronaves2.pdf">Reglamento de Base 2042/2003 </a>, en el que se basa JAR-145.</p>              </td>
+          </tr>
+          <tr>
+            <td height="50" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText">
+              <p><a href="http://ad.easa.europa.eu:80/">Directivas de Aeronavegabilidad de EASA </a>, las directivas que EASA emite sobre los diferentes aviones o componentes para velar por su seguridad y corregir defectos.</p>
+            </td>
+          </tr>
+          <tr>
+            <td height="30" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/REGLAMENTO(CE)216-2009.pdf">Reglamento de Base 216/2008</a>, por el que se crea la Agencia Europea de Seguridad A&eacute;rea. </td>
+          </tr>
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/EscritoParteMNTAC.pdf">Oficio 58/31</a> del 22 de septiembre de 2009 donde se anuncia la entrada en vigor de la parte M del Reglamento 2042/2003 para todas las aeronaves que NO realizan transporte a&eacute;reo comercial, a excepci&oacute;n de las incluidas en el Anexo II del Reglamento 216/2008. </td>
+          </tr>
+          
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+                <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

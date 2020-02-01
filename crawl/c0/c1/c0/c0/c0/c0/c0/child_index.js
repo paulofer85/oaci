@@ -1,0 +1,4 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'CIRCULARES_DOCUMEN', 'dir': 'c0', 'linked': 1, 'url': 'http://www.aviadores.net/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/CIRCULARES_DOCUMEN/', 'fetched': true, 'code': 404, 'len': 196, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': false, 'child_cnt': 3, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x60e1c638 },
+  { 'dupe': false, 'type': 4, 'name': 'LEGISLACION', 'dir': 'c1', 'linked': 1, 'url': 'http://www.aviadores.net/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/LEGISLACION/', 'fetched': true, 'code': 404, 'len': 196, 'decl_mime': 'text/html', 'sniff_mime': '[none]', 'cset': 'iso-8859-1', 'missing': true, 'csens': false, 'child_cnt': 2, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x8d9998c1 }
+];

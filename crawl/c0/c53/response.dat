@@ -1,0 +1,173 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:35 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Wed, 18 Oct 2017 17:08:12 GMT
+ETag: "207f-55bd548de816f"
+Accept-Ranges: bytes
+Content-Length: 8319
+Content-Range: bytes 0-8318/8319
+Keep-Alive: timeout=3, max=97
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link rel="shortcut icon" href="http://www.aviadores.eu/images/logos_cabeceras/favicon.ico" />
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_aviadores.jpg" alt="" name="Cabecera_menu" width="360" height="120" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="174" id="navigation">
+      <tr>
+        <td width="174"><img src="images/logos_cabeceras/tit_aviadores.gif" width="100" height="30" /></td>
+      </tr>
+      <tr>
+        <td width="174" align="left"><a href="maquinas.html" class="navText">m&aacute;quinas</a></td>
+      </tr>
+      <tr>
+        <td><a href="pilotaje.html" target="" class="navText">pilotaje </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="wright.html" target="" class="navText">historia</a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="meteo.html" class="navText">meteorolog&iacute;a</a></td>
+      </tr>
+      <tr>
+        <td><a href="galeria.html" target="" class="navText">galer&iacute;as im&aacute;genes </a></td>
+      </tr>
+      
+      <tr>
+        <td width="174"><a href="enlaces.html" class="navText">enlaces</a></td>
+      </tr>
+      
+      <tr>
+        <td width="174"><a href="mailto:webmaster@aviadores.eu" class="navText">contacto</a></td>
+      </tr>
+    </table>
+     <div align="center"><a href="galeria_stearman.html"><img src="images/ilustraciones/dc3_portada.jpg" width="127" height="255" vspace="70" border="1" /></a>&nbsp; </div>
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="20" class="pageName"><div align="left" class="pageName">EL ORIGEN DE TODO </div></td>
+          </tr>
+          <tr>
+            <td height="12"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td class="bodyText"><table width="332" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="144"><div align="center"><a href="wright.html"><img src="images/ilustraciones/wright_primerintento_mini.jpg" width="150" height="109" border="1" /></a></div></td>
+                <td width="21">&nbsp;</td>
+                <td width="167" class="bodyText"><div align="justify">
+                  <p>Hace m&aacute;s de cien a&ntilde;os, dos hermanos aficionados a la mec&aacute;nica encendieron la llama que ha perdurado hasta hoy. Ellos mismos explican c&oacute;mo consiguieron cambiar la Historia el 17 de diciembre de 1903 en Kitty Hawk, Carolina del Norte. </p>
+                </div></td>
+              </tr>
+            </table>              </td>
+          </tr>
+          <tr>
+            <td height="10" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="5" class="pageName">TECNOLOG&Iacute;A JAPONESA </td>
+          </tr>
+          <tr>
+            <td height="13"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="140" class="bodyText"><table width="321" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="149"><div align="justify">El Zero impresion&oacute; a los norteamericanos cuando irrumpi&oacute; en el Pac&iacute;fico en 1941. No hab&iacute;a ant&iacute;doto contra &eacute;l en el arsenal de la USAF. Descubre por qu&eacute;. </div></td>
+                <td width="13">&nbsp;</td>
+                <td width="159"><div align="center"><a href="zero.html"><img src="images/ilustraciones/Zero_mini.jpg" width="150" height="123" border="1" /></a></div></td>
+              </tr>
+            </table>              </td>
+          </tr>
+          <tr>
+            <td height="10" class="bodyText">&nbsp;</td>
+          </tr>
+      </table>
+       <a href="clippers_panam.html"><img src="images/ilustraciones/clippers_Sikorsky_S42_mini.jpg" width="363" height="238" border="1" /></a>
+      <div align="center">
+        <p class="smallText">Sikorsky S-42 </p>
+      </div>
+    <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify">&nbsp;</p>
+		  <p align="justify"><span class="subHeader">M&Aacute;QUINAS</span><br />
+		    Historias y relatos sobre las m&aacute;quinas que vuelan o han   volado a lo largo de la Historia de la Aviaci&oacute;n.</p>
+		  <p align="justify"><span class="subHeader">PILOTAJE </span><br />
+		    Temas de pilotaje: t&eacute;cnicas, formaci&oacute;n, ideas b&aacute;sicas...   todo para  no dejar de aprender.</p>
+		  <p align="justify"><span class="subHeader">METEOROLOG&Iacute;A </span><br />
+		    METAR, TAFOR de cualquier aeropuerto del mundo, mapas, previsiones, fotograf&iacute;as de sat&eacute;lite y mucho m&aacute;s... </p>
+		  <p><span class="subHeader">ENLACES </span><br />
+		    Enlaces aeron&aacute;uticos agrupados por temas y comentados.</p>
+		  <p>&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"><a href="http://www.aviadores.eu/phpBB3/index.php" target="_blank"><img src="images/logos_cabeceras/101airborne.gif" alt="" name="logoforo" width="30" height="44" vspace="40" border="0" id="logoforo" /></a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

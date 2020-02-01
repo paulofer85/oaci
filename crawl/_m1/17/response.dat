@@ -1,0 +1,178 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:14 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Tue, 02 Nov 2010 14:44:41 GMT
+ETag: "304f-49412f6fde840"
+Accept-Ranges: bytes
+Content-Length: 12367
+Content-Range: bytes 0-12366/12367
+Keep-Alive: timeout=3, max=84
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_galeria.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Breitling hist&oacute;ricos en Reus</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+body {
+	background-color: #6A0000;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="galeria.html"><img src="images/logos_cabeceras/cabecera_breitling.jpg" alt="" name="Imagen_Cabecera" width="238" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" hspace="70" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="34" colspan="3"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">LOS HIST&Oacute;RICOS DE BREITLING EN REUS (2000)  </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td width="50">&nbsp;</td>
+    <td width="488">&nbsp;</td>
+    <td width="50">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><!-- InstanceBeginEditable name="Tabla_imagenes" -->
+      <table width="750" border="0" align="center" cellpadding="0" cellspacing="10">
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling1.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling1.jpg" width="150" height="100" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling2.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling2.jpg" width="150" height="101" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling3.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling3.jpg" width="150" height="100" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling4.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling4.jpg" width="150" height="106" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Supermarine Spitfire IX </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle cabina Spitfire IX </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Supermarine Spitfire IX </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Motor en marcha Spitfire IX </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling5.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling5.jpg" width="150" height="106" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling6.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling6.jpg" width="150" height="100" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling7.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling7.jpg" width="150" height="101" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling8.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling8.jpg" width="150" height="91" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista trasera Spifire IX  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Sukhoi Su 26 Breitling Eagles </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Cabina Su 29  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Sukhoi Su 29 Breitling Eagles </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling9.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling9.jpg" width="150" height="101" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling10.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling10.jpg" width="150" height="98" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling11.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling11.jpg" width="150" height="97" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling12.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling12.jpg" width="150" height="99" border="0" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle motor Su 29 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">North American P-51D Mustang </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">P-51D Mustang &quot;Miss L &quot; </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle morro P-51D Mustang </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling14.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling14.jpg" width="150" height="101" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling15.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling15.jpg" width="150" height="100" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling16.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling16.jpg" width="150" height="106" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling17.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling17.jpg" width="150" height="106" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle cabina P-51D Mustang </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle cabina P-40E Kittyhawk </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Perfil Curtiss P-40E Kittyhawk </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Motor en marcha P-40E </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling18.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling18.jpg" width="150" height="106" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling19.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling19.jpg" width="150" height="101" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling20.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling20.jpg" width="150" height="99" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_breitling21.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling21.jpg" width="150" height="99" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista trasera FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle cabina FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Chance Vought FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Chance Vought FG-1D Corsair</div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling22.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling22.jpg" width="150" height="107" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling23.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling23.jpg" width="150" height="99" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling24.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling24.jpg" width="150" height="106" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling25.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling25.jpg" width="150" height="100" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle ra&iacute;z alar FG-1D </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Frontal FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Detalle motor FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Corsair en Reus </div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling26.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling26.jpg" width="150" height="98" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_breitling27.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_breitling27.jpg" width="150" height="99" border="1" /></a></div></td>
+          <td class="Letrapieblanca">&nbsp;</td>
+          <td class="Letrapieblanca">&nbsp;</td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Trasera FG-1D Corsair </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Arrancando el R2800 </div></td>
+          <td class="Letrapieblanca"><div align="center">Foto 19</div></td>
+          <td class="Letrapieblanca"><div align="center">Foto 20 </div></td>
+        </tr>
+      </table>
+    <!-- InstanceEndEditable --></td>
+    <td>&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="galeria.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

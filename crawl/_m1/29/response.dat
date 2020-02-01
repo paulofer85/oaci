@@ -1,0 +1,119 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:08 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:00 GMT
+ETag: "3017-493fc6f963800"
+Accept-Ranges: bytes
+Content-Length: 12311
+Content-Range: bytes 0-12310/12311
+Keep-Alive: timeout=3, max=85
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Las Avionetas</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="informe.html"><img src="images/logos_cabeceras/cabecera_avionetas.jpg" alt="" name="Imagen_Cabecera" width="263" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">LAS AVIONETAS </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify">El parque de aviones con un MTOW entre 450  y 1.500 Kg, era en  julio de 2007 de 1.477 aparatos, lo que supone un 24 % del parque aeron&aacute;utico  espa&ntilde;ol. Es decir, una cuarta parte de las aeronaves que vuelan en nuestro pa&iacute;s  son avionetas, contra un 35 % que suponen los ultraligeros.</p>
+      <p align="center"><img src="images/ilustraciones/informe_piperPA28.jpg" width="500" height="333" border="1" /></p>
+      <p align="center" class="smallText">Piper PA-28 Cherokee </p>
+      <p align="justify">Piper es el rey de los aviones ligeros en Espa&ntilde;a, y el  modelo PA-28 en todas sus variantes, es el n&uacute;mero uno del r&aacute;nking de  matr&iacute;culas, con 254 unidades. Muy conocido por los pilotos recreativos de todo  el mundo, el modelo PA-28 comprende las variantes Cherokee, Archer, Arrow y  Warrior, y se trata de un monomotor de ala baja, tren fijo triciclo (excepto el  modelo Arrow, en el que es retr&aacute;ctil), con capacidad para cuatro personas  incluyendo el piloto. Sus caracter&iacute;sticas de robustez, estabilidad y f&aacute;cil  pilotaje ha hecho que triunfe en todo el mundo. Sus motorizaciones van desde  los 150 hasta los 200 CV.</p>
+      <p align="center"><a href="images/ilustraciones/informe_graficoavionetas.jpg" target="_blank"><img src="images/ilustraciones/informe_graficoavionetas_500.gif" width="520" height="249" border="0" /></a></p>
+      <p align="center" class="smallText">Los 25 primeros fabricantes de avionetas en Espa&ntilde;a (haz click para ampliar) </p>
+      <p align="justify">El segundo fabricante, a 56 aviones de distancia, es Cessna,  la conocida f&aacute;brica de Wichita (Kansas). Su buque insignia en Espa&ntilde;a es la  Cessna 172, el avi&oacute;n m&aacute;s fabricado de toda la Historia de la Aviaci&oacute;n, con  35.000 unidades. Su silueta de ala alta arriostrada y tren triciclo es  frecuente en los aeropuertos deportivos de todo el mundo. Con m&uacute;ltiples  versiones y motorizaciones, ha sido construida bajo licencia en Francia por  Reims Aviation.</p>
+      <p align="center"><img src="images/ilustraciones/informe_cessna172.jpg" width="500" height="383" border="1" /></p>
+      <p align="center" class="smallText">Cessna 172 Skyhawk </p>
+      <p align="justify">Los dos siguientes fabricantes en la lista son franceses, y en  realidad son el mismo: Morane Saulnier y SOCATA. SOCATA agrup&oacute; en 1966 a varios  constructores civiles de aeronaves en Francia, y entre ellos la producci&oacute;n de  todos los modelos Morane Saulnier. El avi&oacute;n representativo de MS y SOCATA en  Espa&ntilde;a es el Rally, un monomotor de ala baja y tren triciclo, con versiones  biplazas, triplazas y cuatriplazas y motores de 100 a 180 CV. El modelo naci&oacute;  como Morane Saulnier serie 800 y a partir de 1966 se fabric&oacute; como SOCATA Rally.  Un total de 103 Rally est&aacute;n matriculadas en nuestro pa&iacute;s.</p>
+      <p align="center"><img src="images/ilustraciones/informe_ms893.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">Morane Saulnier MS-893 Rally </p>
+      <p align="justify">Otro representante franc&eacute;s sigue en el ranking: Jodel, la  sociedad formada por Jean Delemontez y Eduard Joly despu&eacute;s de la Segunda Guerra  Mundial. Para reactivar la aviaci&oacute;n ligera y la formaci&oacute;n de pilotos en  Francia, el gobierno emprende un programa de subvenciones a la construcci&oacute;n de  aviones ligeros nacionales en el que incluye los modelos de Jodel. Al biplaza  D11 le seguir&iacute;an el D112, D117 producidos por la Sociedad Aeron&aacute;utica Normanda,  y posteriormente el&nbsp; D120, D119  producidos por Avions Wassmer. Jodel funcionaba como un gabinete de ingenier&iacute;a  que vend&iacute;a dise&ntilde;os a f&aacute;bricas de Francia y fuera de ella. En Espa&ntilde;a los aviones  Jodel fueron construidos por la f&aacute;brica Aero Difusi&oacute;n, de Santander, que  produjo el modelo D112 y el D1190, una versi&oacute;n mejorada del D119. De 1963 a  1974 se fabricaron 120 D112, D1190F y D1190S.</p>
+      <p align="center"><img src="images/ilustraciones/informe_jodelD1190.jpg" width="500" height="295" border="1" /></p>
+      <p align="center" class="smallText">Jodel D-1190 Compostela, fabricada en Santander (Espa&ntilde;a) por Aero Difusi&oacute;n </p>
+      <p align="justify">Actualmente, en Espa&ntilde;a est&aacute;n matriculadas un total de 51  Jodel, y el modelo predominante es el D1190 Compostela, monoplano de ala baja y  tren cl&aacute;sico, construido en madera y equipado con un motor Continental C-90 de  90 HP, biplaza lado a lado. Su ala en dos secciones, una de ellas con diedro,  le dan un aspecto caracter&iacute;stico.</p>
+      <p align="justify">CASA, con su modelo 1131E, la versi&oacute;n fabricada en Espa&ntilde;a de  la B&uuml;cker Jungmann Bu-131A, es el siguiente fabricante. La B&uuml;cker Jungmann es  un cl&aacute;sico de la aviaci&oacute;n europea de los a&ntilde;os 30 y 40, y se puede considerar un  avi&oacute;n hist&oacute;rico de los que 47 aparecen matriculados. Curiosamente, es el quinto  modelo de avioneta m&aacute;s numeroso, algo notable, si se tiene en cuenta que es un  dise&ntilde;o de 1934. </p>
+      <p align="center"><img src="images/ilustraciones/informe_CASA1131E.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">CASA 1131E, versi&oacute;n espa&ntilde;ola bajo licencia de la legendaria B&uuml;cker Jungmann </p>
+      <p align="justify">Obra de Carl B&uuml;cker y Anders Anderson, se convirti&oacute; en el  entrenador primario de la Luftwaffe en los a&ntilde;os 30 y 40, y se construy&oacute; bajo  licencia en Espa&ntilde;a, Checoslovaquia, Suiza, Hungr&iacute;a y Jap&oacute;n. Es Espa&ntilde;a fue el  entrenador b&aacute;sico del ej&eacute;rcito hasta 1968.</p>
+      <p align="justify">Biplano con estructura met&aacute;lica recubierta de tela, biplaza  t&aacute;ndem y con tren cl&aacute;sico, en Espa&ntilde;a CASA lo equip&oacute; con un robusto motor  propio, el Tigre, con versiones de 100, 125 y 150 CV.</p>
+      <p align="justify">Cuando el Ej&eacute;rcito del Aire lo dio de baja como entrenador,  muchas unidades estaban todav&iacute;a operativas, y fueron cedidas a aeroclubs  civiles sin coste alguno con la condici&oacute;n de que se mantuvieran en vuelo.</p>
+      <p align="center"><img src="images/ilustraciones/informe_toptenavionetas.jpg" width="520" height="272" /></p>
+      <p align="center" class="smallText">El &quot;Top ten&quot; de las avionetas en Espa&ntilde;a </p>
+      <p align="justify">A principios de los 80, la empresa B&uuml;cker Prado S.L., ha  recuperado en Albacete el mantenimiento y la fabricaci&oacute;n de la 1131 con su  motor original Tigre, y sirve a clientes de todo el mundo.</p>
+      <p align="justify">AISA es el s&eacute;ptimo fabricante por n&uacute;mero de aparatos  matriculados, 34. De ellos, el modelo predominante es el I-11B &ldquo;Vespa&rdquo;, un  biplaza lado a lado de madera y tren cl&aacute;sico, que iba a equipar a los aeroclubs  espa&ntilde;oles en 1952. La DGAC encarga 70 unidades, pero un incendio de la factor&iacute;a  de AISA en Carabanchel destruy&oacute; 40 reci&eacute;n acabadas, y de las 30 restantes, 7  fueron a parar a aeroclubs y otras 23 fueron adquiridas por el Ej&eacute;rcito del  Aire, con la intenci&oacute;n de convertirla en el sustituto de la B&uuml;cker Jungmann.  Pero el I-11B era un avi&oacute;n dise&ntilde;ado para turismo, y no se desenvolvi&oacute; bien como  entrenador militar. Finalmente, las unidades de I-11B militares, designadas  L8C, se dedicaron a tareas de enlace, y a partir de 1966 se cedieron a  aeroclubs.</p>
+      <p align="center"><img src="images/ilustraciones/informe_aisaI11B.jpg" width="477" height="320" border="1" /></p>
+      <p align="center" class="smallText">Aisa I-11B &quot;Vespa&quot; </p>
+      <p align="justify">Robin es el &uacute;ltimo de los &ldquo;ocho magn&iacute;ficos&rdquo;. Avions Robin  surge de la asociaci&oacute;n de Jean Delemontez con Pierre Robin. Crean la serie de  aviones DR entre 1957 y 1972, que suponen la culminaci&oacute;n de las ideas de dise&ntilde;o  de Delemontez, y los modelos m&aacute;s modernos y potentes, del DR100 al DR400.</p>
+      <p align="center"><img src="images/ilustraciones/informe_robinDR400.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">Robin DR400 </p>
+      <p align="justify">En Espa&ntilde;a hay matriculados 10 DR400, monoplanos ala baja de  madera, tren triciclo y cuatro plazas, que conserva el ala en semidiedro t&iacute;pica  de las Jodel. Es un avi&oacute;n r&aacute;pido, f&aacute;cil de volar y muy noble, motorizado con  Lycoming de 180 HP.</p>
+      <p align="center"><img src="images/ilustraciones/informe_consolidatedfleet2.jpg" width="500" height="333" border="1" /></p>
+      <p align="center" class="smallText">La avioneta m&aacute;s antigua matriculada en Espa&ntilde;a, la Consolidated Fleet 2, de la FIO, constru&iacute;da en 1930 </p>
+    <p align="justify">La antig&uuml;edad media del parque de avionetas es de 31 a&ntilde;os, y  el avi&oacute;n m&aacute;s antiguo matriculado en Espa&ntilde;a es un Consolidated Fleet 2, de 1930  y propiedad de la FIO, con la venerable edad de 78 a&ntilde;os.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="informe.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

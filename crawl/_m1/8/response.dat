@@ -1,0 +1,69 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:19 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:18 GMT
+ETag: "d7d-49401984e7780"
+Accept-Ranges: bytes
+Content-Length: 3453
+Content-Range: bytes 0-3452/3453
+Keep-Alive: timeout=3, max=55
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Enlaces</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">ENLACES AERON&Aacute;UTICOS </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="345" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="90" colspan="4" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><center>
+              <p align="justify" class="bodyText">Selecciona alguno de los temas del men&uacute; de la izquierda y aparecer&aacute; una selecci&oacute;n de enlaces comentados que iremos completando y actualizando.</p>
+              <p align="justify" class="T&iacute;tuloTexto">&nbsp; </p>
+            </center></td>
+          </tr>
+          <tr>
+            <td width="134" height="99" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center"><a href="http://www.nzwarbirds.org.nz/" target="contenido"><img src="images/ilustraciones/icono_warNZ.jpg" width="120" height="86" border="0" /></a></div></td>
+            <td width="134" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center"><a href="http://www.aviacionulm.com/menu.html" target="contenido"><img src="images/ilustraciones/icono_aviacionulm.jpg" width="120" height="86" border="0" /></a></div></td>
+            <td width="134" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center"><a href="http://www.cirrusdesign.com/default.aspx" target="contenido"><img src="images/ilustraciones/icono_cirrus.jpg" width="120" height="86" border="0" /></a></div></td>
+            <td width="135" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center"><a href="http://www.airliners.net/" target="contenido"><img src="images/ilustraciones/icono_airliners.jpg" width="120" height="86" border="0" /></a></div></td>
+          </tr>
+          <tr>
+            <td height="100" colspan="4" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+              <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

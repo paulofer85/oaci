@@ -1,0 +1,94 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:08 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:00 GMT
+ETag: "17f4-493fc6f963800"
+Accept-Ranges: bytes
+Content-Length: 6132
+Content-Range: bytes 0-6131/6132
+Keep-Alive: timeout=3, max=91
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>El Estudio</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="informe.html"><img src="images/logos_cabeceras/cabecera_estudio.gif" alt="" name="Imagen_Cabecera" width="222" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">EL ESTUDIO </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify">El presente informe es un an&aacute;lisis de la base de datos de  matr&iacute;culas publicada en la web del Ministerio de Fomento de Espa&ntilde;a. En ella se  recogen todos los aviones matriculados en Espa&ntilde;a desde 1951 hasta julio  de 2007. Es interesante estudiar los datos referentes a la Aviaci&oacute;n Deportiva  en nuestro pa&iacute;s para ver su composici&oacute;n y su evoluci&oacute;n a lo largo del tiempo,  as&iacute; como su importancia en el conjunto de la Aviaci&oacute;n Espa&ntilde;ola.</p>
+      <p align="justify">Se desconoce el estado de vuelo de los aviones y su  ubicaci&oacute;n, pero la informaci&oacute;n da una idea clara de los aparatos que han  marcado &eacute;pocas y del volumen de ventas.</p>
+      <p align="justify">En julio de 2007, en Espa&ntilde;a hab&iacute;an matriculados 3.661  aviones ligeros (MTOW &lt; 1.500 Kg) del total de 6.155 aeronaves  registradas en la base de datos de matr&iacute;culas del Ministerio de Fomento.</p>
+      <p align="justify">Es decir, el 60 % de los aviones que est&aacute;n registrados en  Espa&ntilde;a son aparatos ligeros. De ellos, 2.184, es decir, otra vez el 60 %, son  ultraligeros y el 40 % avionetas. En este c&oacute;mputo no est&aacute;n inclu&iacute;dos los globos  y veleros.</p>
+      <p align="center"><a href="images/ilustraciones/informe_ULM_AG.gif" target="_blank"><img src="images/ilustraciones/informe_ULM_AG_500.gif" width="500" height="265" border="1" /></a></p>
+      <p align="center" class="smallText">Importancia de la Aviaci&oacute;n General y Deportiva en el conjunto del parque aeron&aacute;utico espa&ntilde;ol (click para ampliar) </p>
+      <p align="justify">Estos datos demuestran que la mayor parte de la aviaci&oacute;n en  Espa&ntilde;a es Aviaci&oacute;n General. A esta situaci&oacute;n se ha llegado con la explosi&oacute;n del  vuelo ultraligero en los a&ntilde;os 90, cuyo ritmo de matriculaciones ha superado  ininterrumpidamente al de las avionetas desde 1990. La aviaci&oacute;n ultraligera en  Espa&ntilde;a ha roto definitivamente las barreras que en nuestro pa&iacute;s se manten&iacute;an  entre la aviaci&oacute;n deportiva y el gran p&uacute;blico, y ha puesto al alcance de muchos  el pilotaje y la propiedad de aeronaves.</p>
+      <p align="center"><a href="images/ilustraciones/informe_graficocomparativa.gif" target="_blank"><img src="images/ilustraciones/informe_graficocomparativa_500.gif" width="520" height="281" border="0" /></a></p>
+      <p align="center" class="smallText">Evoluci&oacute;n de las matriculaciones desde 1951. En rosa, los ultraligeros, en azul, las avionetas (click para ampliar) </p>
+      <p align="justify">Sin embargo, si parec&iacute;a que en los 90 el futuro de la  aviaci&oacute;n ligera eran los ULM, esta tendencia ya no est&aacute; tan clara en los 2000,  porque desde el a&ntilde;o 2000 se observa una recuperaci&oacute;n de la matriculaci&oacute;n de  avionetas, y la situaci&oacute;n actual es al alza en las dos modalidades. Sin duda,  la actual crisis supondr&aacute; un cambio de tendencia en toda la aviaci&oacute;n deportiva,  pero est&aacute; por ver la magnitud de la ralentizaci&oacute;n de las ventas.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="informe.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

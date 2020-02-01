@@ -1,0 +1,14 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:13:05 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Fri, 29 Oct 2010 18:23:43 GMT
+ETag: "16262-493c58ef369c0"
+Accept-Ranges: bytes
+Content-Length: 90722
+Content-Range: bytes 0-90721/90722
+Keep-Alive: timeout=3, max=85
+Connection: Keep-Alive
+Content-Type: image/jpeg
+
+ÿØÿà

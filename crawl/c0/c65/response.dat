@@ -1,0 +1,176 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:52 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:05 GMT
+ETag: "2075-493fc6fe28340"
+Accept-Ranges: bytes
+Content-Length: 8309
+Content-Range: bytes 0-8308/8309
+Keep-Alive: timeout=3, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_mustang.jpg" alt="" name="Cabecera_menu" width="285" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="192" id="navigation">
+      <tr>
+        <td width="192"><img src="images/logos_cabeceras/tit_mustang.gif" alt="" name="Titulo_menu" width="100" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_naa.html" class="navText">North American Aviation </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_nacimiento.html" class="navText">El nacimiento </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_4meses.html" class="navText">Cuatro meses fren&eacute;ticos </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_na73x.html" class="navText">El NA-73X </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_enaccion.html" class="navText">El Mustang en acci&oacute;n </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_merlin.html" class="navText">Merlin el encantador </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_octava.html" class="navText">El Mustang y la octava </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_europa.html" class="navText">Los cielos de Europa </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_ligeros.html" class="navText">Los Mustang ligeros </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_leyenda.html" class="navText">La leyenda contin&uacute;a </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_produccion.html" class="navText">Todos los Mustang </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustang_biblio.html" class="navText">Enlaces y bibliograf&iacute;a </a></td>
+      </tr>
+      <tr>
+        <td><a href="maquinas.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="685" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="pageName"><div align="left" class="pageName">UN CABALLO GANADOR </div></td>
+          </tr>
+          <tr>
+            <td height="12"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="166" class="bodyText"><p align="justify">El Mustang lo ten&iacute;a   todo: velocidad, buena maniobrabilidad, potencia de fuego y sobre todo, un   alcance excelente. Su aparici&oacute;n en el teatro europeo en 1941 cambi&oacute; la forma de   hacer la guerra de los Aliados y en gran medida el curso de la batalla por los   cielos de Europa. </p>
+              <p align="justify">Su historia es una mezcla de trabajo bien hecho,   casualidades y alguna que otra pol&eacute;mica. Es, sin duda, uno de los episodios m&aacute;s   entretenidos de la Historia de la Aviaci&oacute;n.</p>              </td>
+          </tr>
+          <tr>
+            <td height="20" class="bodyText">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="13"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="270" class="bodyText"><p align="center"><img src="images/ilustraciones/mustangsqd2peq.jpg" width="300" height="200" border="1" /></p>              </td>
+          </tr>
+          <tr>
+            <td height="10" class="bodyText"><div align="center">
+              <p><img src="images/ilustraciones/354insignia.gif" width="250" height="84" /></p>
+              <p><span class="smallText">North American P-51B (Live Bait) pilotado por Clayton K. Gross </span></p>
+            </div></td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p>&nbsp;</p>
+		  <p><span class="subHeader">15.486</span><br />
+		    North American construy&oacute; 15.486 Mustang P-51. Al finalizar la Guerra, en mayo de 1945, era el caza m&aacute;s numeroso en la USAF. Un esfuerzo tit&aacute;nico, teniendo en cuenta que la producci&oacute;n comenz&oacute; en 1942. </p>
+		  <p><span class="subHeader">EL CAZA INGL&Eacute;S </span><br />
+		    La historia sobre el origen del Mustang es curiosa y se ha hecho c&eacute;lebre: el P-51 fue un encargo del gobierno ingl&eacute;s a una peque&ntilde;a factor&iacute;a americana sin experiencia en la fabricaci&oacute;n de cazas monomotores, la NAA. Finalmente, el gobierno norteamericano se rindi&oacute; a la evidencia y encarg&oacute; su producci&oacute;n masiva. </p>
+		  <p align="left"><span class="subHeader">TODAV&Iacute;A EN ACTIVO </span><br />
+		    Hay todav&iacute;a muchos Mustangs en orden de vuelo: coleccionistas, pilotos de carreras, asociaciones hist&oacute;ricas, particulares, vuelan todav&iacute;a este magn&iacute;fico avi&oacute;n, restaurado o modernizado
+		    .</p>
+		  <p align="justify">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"><a href="http://www.aviadores.org/phpBB2/index.php" target="_blank"></a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

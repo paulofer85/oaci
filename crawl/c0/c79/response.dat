@@ -1,0 +1,153 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:52 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:21 GMT
+ETag: "1d2f-493fc70d6a740"
+Accept-Ranges: bytes
+Content-Length: 7471
+Content-Range: bytes 0-7470/7471
+Keep-Alive: timeout=3, max=83
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_rafmuseo.gif" alt="" name="Cabecera_menu" width="250" height="51" hspace="30" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="204" id="navigation">
+      <tr>
+        <td width="204"><img src="images/logos_cabeceras/tit_rafmuseo.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="204" align="left"><a href="rafmuseo_elmuseo.html" class="navText">El museo   </a></td>
+      </tr>
+      <tr>
+        <td width="204"><a href="rafmuseo_hitos.html" target="" class="navText">Hitos del vuelo  </a></td>
+      </tr>
+      <tr>
+        <td width="204"><a href="rafmuseo_bombarderos.html" class="navText">Sala de Bombarderos </a></td>
+      </tr>
+      <tr>
+        <td><a href="galeria_RAF.html" class="navText">Galer&iacute;a de fotos </a></td>
+      </tr>
+      <tr>
+        <td width="204"><a href="maquinas.html" class="navText">Volver </a></td>
+      </tr>
+    </table>
+     <div align="center"><br />
+  &nbsp;<img src="images/ilustraciones/raf_hurricane_pilot.jpg" width="175" height="250" vspace="50" border="1" /><br />
+  &nbsp;<br />
+  &nbsp;<br />
+  &nbsp;  </div>
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="616" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="pageName"><div align="left" class="pageName">MUSEO DE LA RAF DE HENDON </div></td>
+          </tr>
+          <tr>
+            <td height="12"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class="bodyText"><div align="center"><img src="images/ilustraciones/raf_miniatura.jpg" width="225" height="150" border="1" /></div></td>
+          </tr>
+          
+          <tr>
+            <td height="20" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="212" class="bodyText"><p align="justify">Para comprobar el celo con el que los brit&aacute;nicos conservan su tradici&oacute;n aeron&aacute;utica s&oacute;lo hay que visitar el estupendo Museo de la RAF en Hendon (Londres). Posee una de las mejores colecciones de aviones cl&aacute;sicos del mundo, estupendamente conservada y muy bien expuesta.</p>
+            <p align="justify">All&iacute; es posible codearse con casi todos los protagonistas militares de la era del pist&oacute;n, admirarlos y leer sobre su historia. Hendon es una de esas visitas indispensables para cualquier amante de la Aviaci&oacute;n. </p></td>
+          </tr>
+          
+          <tr>
+            <td height="21" class="bodyText"><p align="justify"><img src="images/piezas/separador.gif" width="344" height="2" /></p>              </td>
+          </tr>
+          <tr>
+            <td height="31" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="3" class="bodyText"><div align="center"><img src="images/ilustraciones/raf_miniatura2.jpg" width="273" height="100" border="1" /></div></td>
+          </tr>
+          <tr>
+            <td height="5" class="bodyText">&nbsp;</td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">&nbsp;</p>
+		  <p align="justify" class="subHeader">RAF MUSEUM</p>
+		  <p align="justify" class="smallText">El Museo de la RAF tiene tres sedes en Inglaterra: Londres, Cosford y Stafford.</p>
+		  <p align="justify" class="smallText">La de Hendon es la m&aacute;s conocida y accesible para el visitante for&aacute;neo. Est&aacute; en el &aacute;rea metropolitana de Londres y la l&iacute;nea &quot;Northern&quot; (negra) del metro te deja a diez minutos a pie en su estaci&oacute;n de Colindale (zona 4). S&oacute;lamente cuarenta minutos de metro desde el centro te separan de las leyendas m&aacute;s carism&aacute;ticas de la Historia de la Aviaci&oacute;n: Spitfire, Mustang, B-17, Lancaster, y muchos m&aacute;s. Es un verdadero viaje a la &eacute;poca dorada de la aviaci&oacute;n a pist&oacute;n.</p>
+		  <p align="justify" class="smallText">&nbsp; </p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"><a href="http://www.aviadores.org/phpBB2/index.php" target="_blank"></a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

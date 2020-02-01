@@ -1,0 +1,90 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:58 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:35 GMT
+ETag: "260c-493fc71ac46c0"
+Accept-Ranges: bytes
+Content-Length: 9740
+Content-Range: bytes 0-9739/9740
+Keep-Alive: timeout=3, max=44
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Peso y empuje</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">PESO Y EMPUJE </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"> Mientras Mr. Taylor estaba comprometido con el trabajo de la construcci&oacute;n del motor,  Wilbur y yo est&aacute;bamos ocupados completando el dise&ntilde;o de la m&aacute;quina propiamente  dicha. La pruebas preliminares del motor nos hab&iacute;an convencido de que por lo  menos ten&iacute;amos asegurados 8 HP, por lo que nos sentimos con la libertad de  a&ntilde;adir el suficiente peso como para construir una m&aacute;quina superior a la  originalmente dise&ntilde;ada.</p>
+      <p align="justify"> Con nuestras tablas de presiones de aire y nuestra  experiencia de vuelo con el planeador de 1902 ser&iacute;amos capaces, pens&aacute;bamos,  de calcular exactamente el empuje necesario para mantener  la m&aacute;quina en vuelo.  Pero dise&ntilde;ar la h&eacute;lice que deb&iacute;a proporcionar este empuje con la potencia que  ten&iacute;amos prevista, era una cuesti&oacute;n que todav&iacute;a no hab&iacute;amos considerado seriamente.  No hab&iacute;a datos disponibles de h&eacute;lices, y siempre hab&iacute;amos  sobreentendido que  no era desacertado suponer un rendimiento del 50 % como se hac&iacute;a con h&eacute;lices marinas. Todo lo  que necesit&aacute;bamos era aprender la teor&iacute;a del funcionamiento de las h&eacute;lices  marinas de libros de ingenier&iacute;a marina, y entonces sustituir presiones de agua  por presiones de aire. En consecuencia, conseguimos varios libros de la  Biblioteca P&uacute;blica de Dayton. Para nuestra sorpresa, todas las f&oacute;rmulas sobre  h&eacute;lices contenidas en esos libros eran de naturaleza emp&iacute;rica. No hab&iacute;a forma  de adaptarlas a los c&aacute;lculos de h&eacute;lices a&eacute;reas.&nbsp; Como no podiamos permitirnos gastar nuestro tiempo en una larga  serie de experimentos para encontrar mediante ensayo una h&eacute;lice adecuada para  nuestra m&aacute;quina, decidimos confiar m&aacute;s en la teor&iacute;a que en la pr&aacute;ctica de los  ingenieros marinos.</p>
+      <p align="center"><img src="images/ilustraciones/wright_helice.jpg" width="373" height="289" border="1" /></p>
+      <p align="center" class="smallText">Una de las h&eacute;lices del Flyer, de la reconstrucci&oacute;n del avi&oacute;n realizada en 1948 </p>
+      <p align="justify"> Estaba claro que una h&eacute;lice era simplemente un ala  describiendo una trayectoria en espiral. Como &eacute;ramos capaces de de calcular el  efecto de un aeroplano volando en l&iacute;nea recta, &iquest;por qu&eacute; no pod&iacute;amos calcular el  efecto de uno describiendo una trayectoria en espiral? A primera vista no  parec&iacute;a dif&iacute;cil, pero considerado posteriormente, es complicado encontrar un punto  por donde empezar; nada relacionado con la h&eacute;lice, o con el medio en el que ella  actua, permanece constante ni por un momento. El empuje depende de la velocidad  y del &aacute;ngulo con el que el aspa ataca el aire; el &aacute;ngulo con el que el aspa ataca  el aire depende de la velocidad a la que la h&eacute;lice gira, la velocidad de  desplazamiento de la m&aacute;quina hacia delante&nbsp;  y la velocidad a la que el aire se desliza hacia atr&aacute;s; el  deslizamiento del aire hacia atr&aacute;s depende del empuje ejercido por la h&eacute;lice y  de la cantidad de aire que actua sobre ella. Cuando cualquiera de esas  variables cambia, var&iacute;a el resto, tal es la dependecia total de una sobre otra.  Pero esos son solamente unos pocos de los m&uacute;ltiples factores que deben ser  considerados y hallados para el c&aacute;lculo de h&eacute;lices. Nuestras mentes se  obsesionaron de tal modo con esto, que no pod&iacute;amos hacer ning&uacute;n otro trabajo  por peque&ntilde;o que fuera. Nos empe&ntilde;amos en innumerables discusiones, y a menudo  despu&eacute;s de una hora  de acalorados argumentos, descubr&iacute;amos que est&aacute;bamos  tan en desacuerdo como al principio, pero que cada uno hab&iacute;a cambiado a la posici&oacute;n  del otro durante la discusi&oacute;n. Despu&eacute;s de un par de meses de estudio y  debate, &eacute;ramos capaces de observar algunos fen&oacute;menos y sus intrincadas  relaciones lo bastante como para comprenderlos. Observamos que el empuje  generado por una h&eacute;lice en estado estacionario no era indicativo del empuje  cuando estaba en movimiento. El unico medio de probar el rendimiento de una  h&eacute;lice ser&iacute;a realmente probarla en el avi&oacute;n.</p>
+      <div align="justify">Dos razones nos inclinaron a emplear  dos h&eacute;lices. En primer lugar, con el uso de dos h&eacute;lices podr&iacute;amos asegurar un mayor empuje impulsando mayor cantidad de aire, y a la                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           vez usar un mayor &aacute;ngulo de  inclinaci&oacute;n del que era posible con una sola h&eacute;lice; y en segundo lugar,  haciendo girar las h&eacute;lices en direcciones opuestas, el efecto girosc&oacute;pico de  una neutralizar&iacute;a el de la otra. El m&eacute;todo usado para hacer girar las h&eacute;lices  en direcciones opuestas fue el de las cadenas, y ya es demasiado conocido para  ser descrito aqu&iacute;. Decidimos situar el motor al lado del piloto para que en  caso de caida en picado no pudiera caer sobre &eacute;l. En nuestros experimentos de  planeo tuvimos cierto n&uacute;mero de experiencias en las que aterrizamos sobre una  ala,&nbsp; pero el aplastamiento del ala  absorbi&oacute; el impacto, as&iacute; que no est&aacute;bamos preocupados por el motor en el caso  de un aterrizaje de esta clase. Para el carreteo durante el despegue, dise&ntilde;amos  patines parecidos a los de un trineo, que se extend&iacute;an delante de las  superficies principales. Por lo dem&aacute;s la construcci&oacute;n general y operaci&oacute;n de la  m&aacute;quina fue similar a la del planeador de 1902.&nbsp; </div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

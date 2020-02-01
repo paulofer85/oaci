@@ -1,0 +1,36 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:07 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 17:47:54 GMT
+ETag: "3ee-4940168626680"
+Accept-Ranges: bytes
+Content-Length: 1006
+Content-Range: bytes 0-1005/1006
+Keep-Alive: timeout=3, max=92
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Meteorología</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/cielo13.jpg);
+}
+-->
+</style></head>
+
+<frameset rows="125,*" cols="*" frameborder="no" border="0" framespacing="0">
+  <frame src="meteo_frame_cabecera.html" name="cabecera" scrolling="No" noresize="noresize" id="cabecera" title="cabecera" />
+  <frameset rows="*" cols="230,*" framespacing="0" frameborder="no" border="0">
+    <frame src="meteo_frame_menu.html" name="menu" scrolling="No" noresize="noresize" id="menu" title="menu" />
+    <frame src="meteo_frame_contenido.html" name="contenido" scrolling="auto" noresize="noresize" marginwidth="50" marginheight="30" id="contenido" title="contenido" />
+  </frameset>
+</frameset>
+<noframes><body>
+</body>
+</noframes></html>

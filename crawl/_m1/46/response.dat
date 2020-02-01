@@ -1,0 +1,105 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:58 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:34 GMT
+ETag: "2076-493fc719d0480"
+Accept-Ranges: bytes
+Content-Length: 8310
+Content-Range: bytes 0-8309/8310
+Keep-Alive: timeout=3, max=83
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chanute</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">LAS EXPERIENCIAS DE CHANUTE </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify">Mientras Mr. Chanute estuvo con nosotros,&nbsp; empleamos mucho mucho tiempo en discusiones  de los c&aacute;lculos matem&aacute;ticos en los que hab&iacute;amos basado nuestra m&aacute;quina. &Eacute;l nos  ense&ntilde;&oacute; que, dise&ntilde;ando maquinaria, se preve&iacute;a un 20 % de p&eacute;rdida de potencia en  la transmisi&oacute;n. C&oacute;mo nosotros hab&iacute;amos previsto s&oacute;lo un 5 %, pensamos que   hab&iacute;amos calculado mal  la fricci&oacute;n de que produc&iacute;an las cadenas.</p>
+      <p align="center"><img src="images/ilustraciones/wright_chanute.jpg" width="197" height="300" border="1" /></p>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p align="center" class="smallText">Octave Chanute (Ilustraci&oacute;n: Biblioteca del Congreso de los EEUU) </p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+      <p align="justify"> En los momentos en que prob&aacute;bamos  el motor con muy poca carga, eso nos preocupaba  mucho. Mr. Chanute estimaba que la fricci&oacute;n de las cadenas propulsoras consumir&iacute;a la totalidad de nuestro super&aacute;vit de potencia, y todav&iacute;a algo m&aacute;s. Despu&eacute;s de la partida de Mr. Chanute, pusimos una de las cadenas  sobre un engranaje, colgando sacos de arena a cada lado de la rueda dentada de  un peso aproximadamente igual al esfuerzo que ser&iacute;a ejercido sobre las cadenas  durante la impulsi&oacute;n de las h&eacute;lices. Midiendo la cantidad extra de peso  necesitado&nbsp; en&nbsp; un saco para levantar el otro, calculamos las p&eacute;rdidas de  transmisi&oacute;n. Esto nos revel&oacute; que las p&eacute;rdidas de transmisi&oacute;n por esta causa  eran s&oacute;lo de un 5%, como estimamos originalmente. No vimos   errores serios en este m&eacute;todo de determinar las p&eacute;rdidas, sin embargo nuestra preocupaci&oacute;n por conseguir el n&uacute;mero de revoluciones prevista se mantuvo hasta el momento de probar las h&eacute;lices con el motor.</p>
+      <p align="center"><img src="images/ilustraciones/wright_chanuteywright.jpg" width="400" height="319" border="1" /></p>
+      <blockquote>
+        <blockquote>
+          <p align="center" class="smallText">De izquierda a derecha, Edward C. Huffaker, Octave Chanute y George Spratt. De pie, Wilbur Wright, todos en Kitty Hawk, en agosto de 1901 (Foto: Archivos de la Universidad de Wright State) </p>
+        </blockquote>
+      </blockquote>
+      <p align="justify">El primer arranque de motor sobre la  m&aacute;quina nos mostr&oacute; un defecto de uno de los ejes de las h&eacute;lices que no hab&iacute;amos  descubierto en Dayton. El eje fue enviado de inmediato a Dayton para repararlo  y no fue recibido otra vez hasta el 20 de Noviembre, perdiendo de esta manera  dos semanas. Inmediatamente lo colocamos en la m&aacute;quina e hicimos otra prueba.  Apareci&oacute; un nuevo problema. Los engranajes atornillados en los ejes, y fijados  con tuercas de rosca opuesta, se aflojaban insistentemente. Despu&eacute;s de algunos intentos in&uacute;tiles de  fijarlos r&aacute;pidamente, tuvimos que desistir y nos fuimos a la cama desanimados.  Despues del descanso de la noche, nos levantamos con mejor &aacute;nimo para  intentarlo de nuevo.</p>
+      <p align="justify"> En el negocio de las bicicletas hab&iacute;amos adquirido mucha  experiencia en el uso de pegamento fuerte para unir los neum&aacute;ticos a las  llantas. Lo hab&iacute;amos usado tambi&eacute;n una vez con &eacute;xito para reparar&nbsp; un reloj despu&eacute;s de que varios relojeros nos  dijeran que no pod&iacute;a repararse. Si el pegamento de neum&aacute;tico pod&iacute;a ser bueno  para reparar los soportes de un reloj, &iquest;por qu&eacute; no pod&iacute;a valer para fijar  los engranajes de los ejes de las h&eacute;lices de una m&aacute;quina volante&nbsp;?&nbsp; Decidimos intentarlo. Calentamos los ejes y  los engranajes, disolvimos pegamento en las dos piezas, y las atornillamos  juntas otra vez. El problema se acab&oacute;. Los engranajes quedaron firmemente  fijados.</p>
+      <p align="justify"> El mal tiempo continu&oacute; hasta que la m&aacute;quina estuvo lista para las pruebas. Hab&iacute;a sido desagradablemente frio durante varias  semanas,&nbsp; tan frio que algunos d&iacute;as  apenas pudimos trabajar. Despu&eacute;s empezamos a tener lluvia y nieve, y sopl&oacute; un viento del norte de 25 a 30 millas  por hora durante varios d&iacute;as. Mientras el tiempo nos  retrasaba, preparamos un mecanismo para medir autom&aacute;ticamente la duraci&oacute;n de  los vuelos desde el momento en que la m&aacute;quina empezaba a moverse hasta que se paraba, la  distancia recorrida por el aire en ese tiempo, y el n&uacute;mero de revoluciones  completadas por el motor y la h&eacute;lice. Un cron&oacute;metro med&iacute;a el tiempo; un  anem&oacute;metro med&iacute;a el flujo de aire; y un contador tomaba el n&uacute;mero de  revoluciones giradas por las h&eacute;lices. El reloj, el anem&oacute;metro y el contador  de revoluciones se activaban todos autom&aacute;ticamente y se paraban  simult&aacute;neamente. De los datos as&iacute; obtenidos esper&aacute;bamos aprobar o desmentir la  exactitud de los c&aacute;lculos de nuestras h&eacute;lices.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

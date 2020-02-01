@@ -1,0 +1,176 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:07 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:33 GMT
+ETag: "23f2-493fc718dc240"
+Accept-Ranges: bytes
+Content-Length: 9202
+Content-Range: bytes 0-9201/9202
+Keep-Alive: timeout=3, max=89
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Cabecera_menu" width="234" height="120" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="219" id="navigation">
+      <tr>
+        <td width="219"><img src="images/logos_cabeceras/tit_wright.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="219" align="left"><a href="wright_preparativos.html" class="navText">Preparativos iniciales </a></td>
+      </tr>
+      <tr>
+        <td width="219"><a href="wright_pesoyempuje.html" target="" class="navText">Peso y empuje </a></td>
+      </tr>
+      <tr>
+        <td width="219"><a href="wright_motor.html" class="navText">La planta motriz </a></td>
+      </tr>
+      <tr>
+        <td width="219"><a href="wright_vueloprueba.html" class="navText">Vuelo de prueba </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_chanute.html" class="navText">Las experiencias de Chanute </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_ejes.html" class="navText">Problemas con los ejes </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_primerintento.html" class="navText">El primer intento </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_preparativosfinales.html" class="navText">Preparativos finales </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_audaciaycalculo.html" class="navText">Audacia y c&aacute;lculo </a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_elvuelo.html" class="navText">El Vuelo</a></td>
+      </tr>
+      <tr>
+        <td><a href="wright_vuelossiguientes.html" class="navText">Los vuelos siguientes </a></td>
+      </tr>
+      <tr>
+        <td width="219"><a href="index.html" class="navText"> Volver </a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="931" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="83" class="pageName"><div align="left" class="pageName">
+              <p align="center">C&Oacute;MO LOGRAMOS EL PRIMER VUELO</p>
+              <p align="center" class="subHeader">por Orville Wright </p>
+            </div></td>
+          </tr>
+          <tr>
+            <td height="7"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="20" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="20" class="bodyText"><div align="center"><img src="images/ilustraciones/wright_primervuelo.gif" width="300" height="154" border="1" /></div></td>
+          </tr>
+          <tr>
+            <td height="20" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="166" class="bodyText"><p align="justify">El relato del primer vuelo controlado de la Historia de un aparato m&aacute;s pesado que el aire es el relato de c&oacute;mo dos excepcionales autodidactas estudiosos del vuelo consiguieron completar el rompecabezas que otros muchos pioneros hab&iacute;an iniciado.</p>
+              <p align="justify">Los hermanos Wright no eran ingenieros, ni cient&iacute;ficos reputados. En cierto sentido, fueron los &quot;constructores amateur&quot; m&aacute;s famosos de la Historia. Y sin embargo, aplicaron un m&eacute;todo cient&iacute;fico al problema, descomponiendo su resoluci&oacute;n en partes m&aacute;s sencillas, y sentando las bases para el estudio serio y met&oacute;dico de la ingenier&iacute;a aeron&aacute;utica. Todo esto lo consiguieron dos fabricantes de bicicletas de la &quot;Am&eacute;rica profunda&quot;, simplemente con su inteligencia, su tes&oacute;n, su fe y su sentido com&uacute;n. </p>
+            <p align="justify">&Eacute;sta es la historia de c&oacute;mo dos personas corrientes, en un entorno corriente, consiguieron algo extraordinario que cambi&oacute; la vida de la gente para siempre. </p></td>
+          </tr>
+          <tr>
+            <td height="20" class="bodyText">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="23"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="78" class="bodyText"><img src="images/ilustraciones/wright_orville.jpg" width="150" height="200" border="1" align="left" /><img src="images/ilustraciones/wright_wilbur.jpg" width="150" height="200" border="1" align="right" /></td>
+          </tr>
+          <tr>
+            <td height="10" class="bodyText"><div align="center" class="smallText">Orville y Wilbur Wright </div></td>
+          </tr>
+      </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">&nbsp;</p>
+		  <p align="justify" class="subHeader">EL PROCESO</p>
+		  <p align="justify" class="smallText">Para conseguir el primer vuelo controlado de la Historia, los hermanos Wright siguieron un largo proceso de estudio ordenado y met&oacute;dico. En primer lugar, revisaron el trabajo de los principales pioneros que ya hab&iacute;an conseguido alg&uacute;n logro, como George Cayley, Otto Lilienthal, u Octave Chanute. Con este &uacute;ltimo mantuvieron una correspondencia abundante sobre sus progresos. Despu&eacute;s descompusieron el problema del vuelo en elementos sencillos que atacaron individualmente: la sustentaci&oacute;n del ala, el sistema de control, la planta motriz, las h&eacute;lices, etc. Cada parcela era probada separadamente, y los hermanos Wright pasaron cuatro a&ntilde;os viajando a las playas de Kitty Hawk, en Carolina del Norta, para realizar los ensayos sobre el terreno de cada uno de sus sistemas.</p>
+		  <p align="justify" class="smallText">El 17 de diciembre de 1903, lo &uacute;nico que hicieron fue reunir en el &quot;Flyer&quot; todas las soluciones estudiadas y ensayadas durante a&ntilde;os.</p>
+		  <p align="justify" class="smallText">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

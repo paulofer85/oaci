@@ -1,0 +1,38 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:11 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:13 GMT
+ETag: "554-493fc705c9540"
+Accept-Ranges: bytes
+Content-Length: 1364
+Content-Range: bytes 0-1363/1364
+Keep-Alive: timeout=3, max=88
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="1280" height="158" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="400" height="120" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><a href="normativa_frame_contenido.html" target="contenido"><img src="images/logos_cabeceras/cabecera_normativa.gif" width="200" height="115" border="0" /></a></td>
+    <td width="400" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><a href="index.html" target="_parent"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" border="0" /></a></td>
+    <td width="480" bordercolor="#FFFFFF" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bordercolor="#666666" background="images/mm_dashed_line.gif" bgcolor="#666666"><img src="images/piezas/bordegris_largoframe.gif" width="1280" height="26" /></td>
+  </tr>
+  
+  <tr>
+    <td colspan="9" bordercolor="#CC0000" bgcolor="#CC0000"><img src="images/piezas/bordemorado_largoframe.gif" width="1280" height="12" /></td>
+  </tr>
+</table>
+</body>
+</html>

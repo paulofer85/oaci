@@ -1,0 +1,94 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:58 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:36 GMT
+ETag: "1b73-493fc71bb8900"
+Accept-Ranges: bytes
+Content-Length: 7027
+Content-Range: bytes 0-7026/7027
+Keep-Alive: timeout=3, max=88
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Primeros preparativos</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">LOS PRIMEROS PREPARATIVOS </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"> Los vuelos del planeador de 1902 demostraron la eficacia  de nuestro sistema para mantener el control, y tambi&eacute;n la exactitud del trabajo  de laboratorio en el que hab&iacute;amos basado el dise&ntilde;o del planeador. Pensamos  entonces que est&aacute;bamos preparados para calcular por anticipado las prestaciones  de la m&aacute;quina con un grado de exactitud que nunca antes hab&iacute;an conseguido  nuestros predecesores con las tablas y datos que pose&iacute;an. Antes de dejar el  campo en 1902, est&aacute;bamos listos para trabajar en el dise&ntilde;o general de una nueva  m&aacute;quina que nos propusimos impulsar con un motor.</p>
+      <p align="center"><img src="images/ilustraciones/wright_planeador1902.jpg" width="465" height="300" border="1" /></p>
+      <blockquote>
+        <p align="center" class="smallText">Wilbur Wright, planeando en Kitty Hawk el 10 de octubre de 1902 (Fotograf&iacute;a: Bilbioteca del Congreso de los EEUU) </p>
+      </blockquote>
+      <p align="justify"> Inmediatamente despu&eacute;s de nuestro retorno a Dayton,  escribimos a varios fabricantes de motores y autom&oacute;viles, con el prop&oacute;sito de  pedir un motor,&nbsp; preguntando si  podr&iacute;an suministrarnos uno que desarrollara 8 caballos, con un peso total que  no excediera los 90 Kg. La mayor&iacute;a de las compa&ntilde;&iacute;as respondieron que  estaban demasiado ocupadas con sus negocios habituales para comprometerse a construir  ese motor para nosotros; pero una  contest&oacute; que  ten&iacute;an motores de  8 HP seg&uacute;n el sistema franc&eacute;s de medici&oacute;n, que pesaban s&oacute;lo 61 Kg, y que  si  consider&aacute;bamos que ese motor desarrollar&iacute;a la suficiente potencia  para nuestro prop&oacute;sito,  gustosamente nos vender&iacute;an uno. Despu&eacute;s de un  examen de las particularidades de este motor, del que averiguamos que s&oacute;lo  ten&iacute;a un cilindro de 4 pulgadas de di&aacute;metro y 5 pulgadas de carrera, temimos  que lo hubieran sobrevalorado. A menos que el motor desarrollara 8 HP netos, no  ser&iacute;a &uacute;til para nuestros prop&oacute;sitos.&nbsp; </p>
+    <p align="justify"> Finalmente decidimos emprender la construcci&oacute;n de un  motor nosotros mismos. Estimamos que podr&iacute;amos construir uno de 4 cilindros con  10 cm de di&aacute;metro y 10 cm de carrera, que no pesara m&aacute;s de 90 Kg  accesorios incluidos. Nuestra &uacute;nica experiencia hasta ese momento en la  construcci&oacute;n de motores de gasolina hab&iacute;a sido la construcci&oacute;n de uno  refrigerado por aire, de 13 cm de di&aacute;metro y 18 cm de carrera, que se usaba  para impulsar la maquinaria de nuestro peque&ntilde;o taller. Con la certeza de que  cuatro cilindros de las medidas adoptadas (10 x 10) desarrollar&iacute;an los necesarios  8 HP de potencia, iniciamos su construcci&oacute;n en un bastidor provisional de concepci&oacute;n  simple y barata. En seis semanas desde que empezamos el dise&ntilde;o, teniamos el  motor en el banco de pruebas. La capacidad para realizar este trabajo&nbsp; fue en gran medida debida a los entusiastas  y eficientes servicios de  Charles E. Taylor, quien realiz&oacute; toda la tarea de taller  en nuestra tienda para la primera y sucesivas m&aacute;quinas experimentales. </p>
+    <p align="center" class="smallText"><img src="images/ilustraciones/wright_cetaylor.jpg" width="125" height="200" border="1" /></p>
+    <p align="center" class="smallText">Charles E. Taylor, constructor del motor del Flyer </p>
+    <p align="justify">El motor no dispon&iacute;a de las reservas suficientes de lubricante para funcionar. Por esta raz&oacute;n no era posible usarlo m&aacute;s de un minuto o dos cada  vez. En esas cortas pruebas desarroll&oacute; unos 9 HP. Ten&iacute;amos la  esperanza de que, con una buena lubricaci&oacute;n y mejores ajustes, podr&iacute;amos  conseguir un poco m&aacute;s de potencia. De inmediato emprendimos la construcci&oacute;n del motor definitivo de  acuerdo con nuestro dise&ntilde;o.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

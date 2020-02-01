@@ -1,0 +1,82 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:09 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Sat, 27 Apr 2013 16:13:19 GMT
+ETag: "11f0-4db59ee0945c0"
+Accept-Ranges: bytes
+Content-Length: 4592
+Content-Range: bytes 0-4591/4592
+Keep-Alive: timeout=3, max=64
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Meteorolog&iacute;a</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0" id="navigation">
+  <tr>
+    <td width="288">&nbsp;<img src="images/logos_cabeceras/tit_meteo.png" width="140" height="30" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9" height="121"><form action="http://www.aviadores.eu/meteo.php" method="post" name="OACI" target="contenido" id="OACI">
+        <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="103" height="31" class="bodyText"><div align="center">Indicador OACI </div></td>
+            <td width="87"><label>
+              
+              <div align="center">
+                <input name="codOACI" type="text" class="bodyText" id="codOACI" size="4" maxlength="4" />
+              </div>
+            </label></td>
+          </tr>
+          <tr>
+            <td height="36" class="bodyText"><div align="center">Tipo de Informe </div></td>
+            <td><label>
+              <select name="tipoinforme" id="tipoinforme">
+                <option>METAR</option>
+                <option>TAFOR</option>
+              </select>
+            </label></td>
+          </tr>
+          <tr>
+            <td height="24" colspan="2"><label>
+              <div align="center">
+                <input name="Enviar" type="submit" class="bodyText" id="Enviar" value="Enviar" />              
+                </label>            
+            </div></td>
+          </tr>
+        </table>
+    </form></td>
+  </tr>
+  <tr>
+    <td width="288" height="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="7" class="Letrapieblanca"><div align="center"><a href="icao.htm" target="contenido">Buscar indicativos OACI</a> </div></td>
+  </tr>
+  <tr>
+    <td height="5" class="Letrapieblanca"><div align="center"><a href="http://ama.inm.es/login.jsp" target="contenido">AMA</a> </div></td>
+  </tr>
+  <tr>
+    <td height="5" class="Letrapieblanca"><div align="center"><a href="meteo_frame_menuhist.html" target="menu">Hist&oacute;rico de METAR </a> </div></td>
+  </tr>
+  
+  <tr>
+    <td width="288">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="288" height="50" bgcolor="#E9E9E9"><form action="http://www.aviadores.eu/fotos.php" method="post" name="fotos" target="contenido" id="fotos"

@@ -1,0 +1,90 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:48 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:34 GMT
+ETag: "182b-493fc719d0480"
+Accept-Ranges: bytes
+Content-Length: 6187
+Content-Range: bytes 0-6186/6187
+Keep-Alive: timeout=3, max=78
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Problemas con los ejes</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">PROBLEMAS CON LOS EJES DE LAS H&Eacute;LICES </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"> El 28 de noviembre, mientras hac&iacute;amos funcionar el motor  bajo techo,&nbsp; notamos que hab&iacute;a algo  defectuoso en uno de los ejes de las h&eacute;lices. Parando el motor,&nbsp;&nbsp; &iexcl;descubrimos que uno de los ejes tubulares  se hab&iacute;a roto!</p>
+      <p align="justify"> Hicimos inmediatamente los preparativos para volver a  Dayton para construir otro juego de ejes. Decidimos abandonar el uso de  tubos,&nbsp; pues &eacute;stos no proporcionaban la  suficiente elasticidad para soportar los esfuerzos debidos a las irregulares explosiones   del motor. Decidimos montar ejes macizos de acero, de  di&aacute;metro menor que el de los tubos anteriores. Esto permitir&iacute;a cierta  elasticidad. Si el par transmitido hubiera sido uniforme, los ejes tubulares habr&iacute;an sido m&aacute;s que suficientes para transmitir la potencia de nuestro motor.  Pero el&nbsp; hueco de los ejes no les daba  la elasticidad para absorber esfuerzos desiguales.</p>
+      <p align="center"><img src="images/ilustraciones/wright_flyerperfil.gif" width="500" height="226" border="1" /></p>
+      <p align="center" class="smallText">Perfil del Flyer en el que se muestran los ejes de tranmisi&oacute;n de las h&eacute;lices </p>
+      <p align="justify"> Wilbur permaneci&oacute; en el campo mientras yo fui a buscar  los nuevos ejes. No pude volver al campo de nuevo hasta el viernes, 11 de  diciembre. El s&aacute;bado por la ma&ntilde;ana la m&aacute;quina estaba otra vez lista para las  pruebas, pero el viento era demasiado flojo, y no pod&iacute;a hacerse un despegue desde  el nivel del suelo con una carrera de s&oacute;lo diecis&eacute;is pies que permit&iacute;a nuestra  pista monorail. Tampoco hab&iacute;a tiempo el mismo d&iacute;a para llevar la m&aacute;quina a una  de las colinas, donde, situando la pista con algo de inclinaci&oacute;n, asegurar&iacute;amos  la suficiente velocidad para despegar sin viento.</p>
+      <p align="justify"> El domingo d&iacute;a 14 de diciembre era un bonito d&iacute;a, pero tampoco  hac&iacute;a el suficiente viento para intentar un despegue en llano. Por lo tanto decidimos intentar un vuelo desde la ladera de la gran  colina de Kill Devil. Pedimos ayuda a los miembros de la Estaci&oacute;n de  Salvamento de Kill Devil, que estaba situada a un poco m&aacute;s de una milla de  nuestro campo, comunic&aacute;ndoles cu&aacute;ndo estar&iacute;amos listos para hacer la primera  prueba de la m&aacute;quina. Reunimos pronto a  J&nbsp;.T. Daniels, Robert Westcott, Thomas Beacham, W&nbsp;.S&nbsp;. Dough y el t&iacute;o  Benny O&rsquo;Neal, de la Estaci&oacute;n, quienes nos ayudaron&nbsp; a colocar la m&aacute;quina en la colina,&nbsp; a un cuarto de milla de distancia. Fijamos la pista a 150 pies  por encima de la ladera de la colina y con nueve grados de inclinaci&oacute;n. Con la  pendiente de la pista, el empuje de las h&eacute;lices, y la m&aacute;quina dirigi&eacute;ndose  directamente hacia el viento, no preve&iacute;amos ning&uacute;n problema para despegar en 60  pies de pista monorail. Pero no pod&iacute;amos estar seguros de que el piloto pudiera  mantener la m&aacute;quina equilibrada sobre la pista.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

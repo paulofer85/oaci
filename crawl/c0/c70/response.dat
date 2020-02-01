@@ -1,0 +1,73 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:12 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:13 GMT
+ETag: "ba1-493fc705c9540"
+Accept-Ranges: bytes
+Content-Length: 2977
+Content-Range: bytes 0-2976/2977
+Keep-Alive: timeout=3, max=71
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">NORMAS DE CERTIFICACI&Oacute;N EASA  </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/JARFCL1Indice1.pdf">Certifications Specifications for Sailplanes and Powered Saiplanes CS-22 </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/CS-23.pdf">Certif. Specifications for Normal, Utility, Aerobatic, and Conmuter Category Aeroplanes CS-23 </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/CS-E.pdf">Certifications Specificatons for Engines CS-E </a></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/CSVLA1.pdf">Certifications Specifications for Very Light Aircrafts CS-VLA </a></td>
+          </tr>
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+                <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

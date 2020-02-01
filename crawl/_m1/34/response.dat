@@ -1,0 +1,68 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:09 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 17:47:56 GMT
+ETag: "c03-494016880eb00"
+Accept-Ranges: bytes
+Content-Length: 3075
+Content-Range: bytes 0-3074/3075
+Keep-Alive: timeout=3, max=72
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Meteorolog&iacute;a</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url();
+	background-color: #E9E9E9;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="678" height="439" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="439" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">METEOROLOG&Iacute;A AERON&Aacute;UTICA </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="345" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="537" height="280" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><center>
+              <p align="justify" class="bodyText">&nbsp;</p>
+              <p align="justify" class="bodyText">En esta secci&oacute;n es posible consultar los METAR y los TAFOR de 9 horas de cualquier aeropuerto del mundo. Adem&aacute;s puedes consultar el hist&oacute;rico de las &uacute;ltimas 6, 12 &oacute; 24 horas. </p>
+              <p align="justify" class="bodyText">Est&aacute;n disponibles fotograf&iacute;as v&iacute;a sat&eacute;lite de la Pen&iacute;nsula Ib&eacute;rica, Europa y del mundo, adem&aacute;s de varios mapas meteorol&oacute;gicos de diversos organismos con an&aacute;lisis y pron&oacute;sticos. </p>
+              <p align="justify" class="bodyText">Para la informaci&oacute;n relativa a los METAR/TAFOR, escribe el indicativo OACI (ICAO) correspondiente y pulsa &quot;Enviar&quot;. Si no conoces el indicativo del aeropuerto, el enlace en el men&uacute; central te llevar&aacute; a una lista por orden alfab&eacute;tico.</p>
+              <p align="justify" class="bodyText">Para las fotos y mapas, selecciona el mapa o fotograf&iacute;a deseada y pulsa &quot;Enviar&quot;.</p>
+              </center></td>
+          </tr>
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+              <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

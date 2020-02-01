@@ -1,0 +1,78 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:12 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:15 GMT
+ETag: "1228-493fc707b19c0"
+Accept-Ranges: bytes
+Content-Length: 4648
+Content-Range: bytes 0-4647/4648
+Keep-Alive: timeout=3, max=81
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">NORMATIVA DE ULTRALIGEROS ESPA&Ntilde;OLA </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="50" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><p><a title="Real Decreto 2876/1982" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/CIRCULARES_DOCUMEN/MATRICULACION/rd2876_1982.htm',this);" href="normativa/Real_Decreto_2876_ULM.pdf">REAL   DECRETO 2876/1982 de octubre</a>, por el que se regula el Registro y Uso de   Aeronaves de Estructura Ultraligera y se modifica el Registro de Aeronaves   Privado y no Mercantiles.</p>
+              </td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a title="" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/CIRCULARES_DOCUMEN/AVIACION_DEPORTIVA/322002.htm',this);" href="normativa/Orden_ 24_ Abril_ 1986_vueloULM.pdf">Orden   de 24 de Abril de 1986</a>, por la que se regula el vuelo en Ultraligero<a href="normativa/CS-23.pdf"></a></td>
+          </tr>
+          <tr>
+            <td height="80" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><p align="justify"><a title="Real Decreto 1591/1999" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/LEGISLACION/DISPOSICIONES_COMPLEMENTARIAS/1999/rd_1591_99.htm',this);" href="normativa/REAL_DECRETO_1591_ULM.pdf">REAL   DECRETO 1591/1999 de 15 de noviembre</a>, que modifica el Real Decreto   2876/1982, de 15 de octubre, por el que se regula el registro y uso de aeronaves   de estructura ultraligera y se modifica el registro de aeronaves privadas no   mercantiles.(B.O.E. n&ordm; 254, de 23 de octubre de 1999).</p>              
+              </td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="http://www.fomento.es/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/AERONAVES/CERTIFICACION/ULTRALIGEROS/">Requisitos de certificaci&oacute;n para Ultraligeros </a></td>
+          </tr>
+          <tr>
+            <td height="50" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/PROYECTO_ORDEN_ULTRALlGERO.pdf">Proyecto de Orden</a> para sustituci&oacute;n de la Orden del 24 de abril de 1986, por la que se regula el vuelo en Ultraligero. Todav&iacute;a en fase de discusi&oacute;n y definici&oacute;n (septiembre de 2009). El nuevo reglamento de Ultraligeros en sus fases finales. </td>
+          </tr>
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+                <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

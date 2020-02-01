@@ -1,0 +1,142 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:14 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Tue, 02 Nov 2010 14:44:45 GMT
+ETag: "2159-49412f73af140"
+Accept-Ranges: bytes
+Content-Length: 8537
+Content-Range: bytes 0-8536/8537
+Keep-Alive: timeout=3, max=59
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_galeria.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Red Bull Barcelona '06</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+body {
+	background-color: #6A0000;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menufotos.gif);
+}
+-->
+</style><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="galeria.html"><img src="images/logos_cabeceras/cabecera_redbull.jpg" alt="" name="Imagen_Cabecera" width="305" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" hspace="70" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="34" colspan="3"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">CARRERA RED BULL BARCELONA '06 </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td width="50">&nbsp;</td>
+    <td width="488">&nbsp;</td>
+    <td width="50">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><!-- InstanceBeginEditable name="Tabla_imagenes" -->
+      <table width="750" border="0" align="center" cellpadding="0" cellspacing="10">
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull1.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull1.jpg" width="120" height="80" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull2.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull2.jpg" width="120" height="85" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull3.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull3.jpg" width="120" height="84" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull4.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull4.jpg" width="120" height="85" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Playa del Bogatell (Barcelona)  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Nigel Lamb (UK) - Extra 300 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Nigel Lamb (UK)  - Extra 300 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Mike Mangold (USA) - Edge 540 </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull5.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull5.jpg" width="120" height="85" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull6.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull6.jpg" width="120" height="84" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull7.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull7.jpg" width="120" height="85" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull8.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull8.jpg" width="120" height="83" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Nicolas Ivanoff (FRA)  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Kirby Chambilss (USA) - Edge 540 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Kirby Chambilss (USA) - Edge 540 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Alex McLean (ESP)  - Edge 540 </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull9.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull9.jpg" width="120" height="85" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull10.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull10.jpg" width="120" height="85" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull11.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull11.jpg" width="120" height="84" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull12.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull12.jpg" width="120" height="84" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Alex McLean (ESP) - Edge 540 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Frank Versteegh (NED) - Extra 300 L </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">MIchael Goulian (USA)- Extra 300 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Frank Versteegh (NED) - Extra 300 L</div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull13.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull13.jpg" width="120" height="83" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull14.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull14.jpg" width="120" height="80" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull15.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull15.jpg" width="120" height="83" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_redbull16.jpg" target="_blank"></a><a href="images/ilustraciones/galeria_redbull17.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_redbull17.jpg" width="120" height="86" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">MIchael Goulian (USA)- Extra 300</div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Jueces de la carrera </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">North American B-25J Mitchell </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Klaus Schrodt (GER) - Extra 300S </div></td>
+        </tr>
+      </table>
+    <!-- InstanceEndEditable --></td>
+    <td>&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="galeria.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

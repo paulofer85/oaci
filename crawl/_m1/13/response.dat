@@ -1,0 +1,108 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:52 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:47:05 GMT
+ETag: "2c22-493fc5e00e040"
+Accept-Ranges: bytes
+Content-Length: 11298
+Content-Range: bytes 0-11297/11298
+Keep-Alive: timeout=3, max=84
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Fairchild F24</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_f24.jpg" alt="" name="Imagen_Cabecera" width="268" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">FAIRCHILD F24: EL AVI&Oacute;N DE LAS ESTRELLAS </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify" class="bodyText">Fairchild Aviation fue golpeada duramente por la Gran   Depresi&oacute;n a principios de los 30, cuando la desaparici&oacute;n de muchas l&iacute;neas a&eacute;reas   provoc&oacute; que la compa&ntilde;&iacute;a se concentrara en el dise&ntilde;o de un monomotor fiable y   duro, para uso personal y de negocios.&nbsp;</p>
+      <p align="justify" class="bodyText">El Modelo 22 se convirti&oacute; pronto en algo parecido a un   &eacute;xito y evolucion&oacute; directamente al muy mejorado Modelo 24 que caus&oacute; sensaci&oacute;n en   los primeros a&ntilde;os 30, famoso por sus buenas caracter&iacute;sticas de manejo y su   interior amplio. Adopt&oacute; muchos componentes de la industria del autom&oacute;vil, como   los conductos expansibles para los frenos y las ventanillas correderas en la   cabina, y el avi&oacute;n era asequible y f&aacute;cil de mantener. En producci&oacute;n   continuamente desde 1932 hasta 1948, el dise&ntilde;o permaneci&oacute; inalterado tanto   aerodin&aacute;micamente con internamente, con la sola modificaci&oacute;n de la adici&oacute;n de   nuevos pasajeros y equipamiento opcional. Los primeros modelos estaban equipados   con dos asientos, pero en 1933 se instal&oacute; un tercer asiento y en 1938 un cuarto.   Los interiores fueron creados en 1937 por el c&eacute;lebre dise&ntilde;ador industrial   Raymond Loewy. En 1938 se le hizo una modificaci&oacute;n menor de c&eacute;lula con el   redise&ntilde;o de la aleta vertical de cola, cambiando su designaci&oacute;n de C8 a F24G   desde ese momento.</p>
+      <p align="center"><img height="340" src="images/ilustraciones/fairchild22.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">Fairchild   22C-7E, de 1933 (Cortes&iacute;a de The Fairchild Corporation v&iacute;a   1000aircraftphotos.com)</p>
+      <p align="justify" class="bodyText">Con una visi&oacute;n   innovadora para la &eacute;poca, el avi&oacute;n se ofrec&iacute;a con dos motorizaciones. El fiable   radial Scarab de Warner y el Ranger de 200 HP, un motor lineal de la propia   Fairchild para los modelos F24-C-8-D, E y F. Inicialmente el modelo Fairchild   24C-8-B montaba un fiable y popular motor radial Warner de 125 HP y el Fairchild   24C-8-C, un Warner de 145 HP. Se utilizaron motores American Cirrus y Menasco   Pirate tambi&eacute;n ocasionalmente en las primeras unidades. Los &uacute;ltimos modelos como   <a href="galeria_F24W.html" target="_blank">el difundido F24W</a> equiparon el Warner Super Scarab de 165 HP.</p>
+      <p align="center"><img height="375" src="images/ilustraciones/F241.JPG" width="500" border="1" /></p>
+      <p align="center" class="smallText">Fairchild 24W   de 1946&nbsp;</p>
+      <p align="justify" class="bodyText">Dise&ntilde;ado para campos de   hierba relativamente poco preparados, la robusta construcci&oacute;n del tren empleaba   un cilindro neum&aacute;tico vertical ba&ntilde;ado en aceite sobre la rueda, con una riostra   pivotante fijada en los bajos del fuselaje. El resultado era un complejo pero   innegablemente s&oacute;lido tren de aterrizaje que era capaz de absorber los impactos   m&aacute;s duros y pod&iacute;a ser equipado con flotadores para operar en agua.</p>
+      <p align="center"><img height="444" src="images/ilustraciones/F24tren.JPG" width="350" border="1" /></p>
+      <p align="center" class="smallText">Detalle   constructivo del tren. Amortiguador de aceite sobre la rueda.</p>
+      <p align="justify" class="bodyText">La solidez constructiva del   avi&oacute;n ha garantizado que muchos hayan sobrevivido hasta nuestros d&iacute;as. Algunos   sugieren que los macizos largueros principales de madera de p&iacute;cea pueden   soportar m&aacute;s de 10 g, y aunque esta suposici&oacute;n no est&aacute; probada, todas la   unidades de serie de preguerra estaban dise&ntilde;adas para resistir hasta 4,1 g a   diferencia de las unidades de la posguerra, que se construyeron con un l&iacute;mite   est&aacute;ndar de 3,6 g.</p>
+      <p align="center"><img height="343" src="images/ilustraciones/fairchild24bn2.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">Fairchild   24W-41A en 1944 (Cortes&iacute;a de The Fairchild Corporation v&iacute;a   1000aircraftphotos.com)</p>
+      <p align="justify" class="bodyText">Los Fairchild 24   construidos por Krieder-Reisner Aircraft en Hagerstown, Maryland, una divisi&oacute;n   de Fairchild Aviation Corporation, permanecieron en producci&oacute;n desde 1932 a   1948, b&aacute;sicamente con el mismo dise&ntilde;o de c&eacute;lula y &uacute;nicamente con cambios de   planta motriz y algunas mejoras en el equipamiento. En total, Fairchild   construy&oacute; 1.500 F24, m&aacute;s unos 280 adicionales manufacturados por Texas   Engineering &amp; Manufacturing Company (TEMCO), en Dallas (Texas), cuando esta   compa&ntilde;&iacute;a adquiri&oacute; la licencia de fabricaci&oacute;n despu&eacute;s de la Guerra.</p>
+      <p align="justify" class="bodyText">HISTORIA   OPERACIONAL</p>
+      <p align="justify" class="bodyText">En el &aacute;mbito civil, el   avi&oacute;n fue un r&aacute;pido &eacute;xito de ventas con clientes entre importantes hombres de   negocios y celebridades de Hollywood. Tyrone Power, Robert Taylor, Mary Pickford   y los hermanos Berger lo convirtieron en &quot;el avi&oacute;n de las estrellas&quot;. </p>
+      <p align="center"><img height="204" src="images/ilustraciones/argus1aust.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">Un Argus II   australiano, motorizado con Warner Scarab de 145 HP</p>
+      <p align="justify" class="bodyText">En 1936, la Marina encarg&oacute;   el modelo 24 design&aacute;ndolo GK-1 y JK-1, como aviones de investigaci&oacute;n y   entrenadores. El modelo fue utilizado tambi&eacute;n por el Ej&eacute;rcito como transporte   ligero y por la Guardia Costera, con la designaci&oacute;n J2-K. La Civil Air Patrol,   oper&oacute; muchos Fairchild UC-61/24, y algunos aviones fueron equipados con dos   bombas de 100 libras para misiones de reconocimiento en busca de U-boots   alemanes en la costa este norteamericana, durante las primeras etapas de la   Segunda Guerra Mundial. El UC-61 fue tambi&eacute;n proporcionado a la US Navy como   GK-1 y a Gran Breta&ntilde;a como el Fairchild Argus. </p>
+      <p align="justify" class="bodyText">En 1941, la USAAF&nbsp;encarg&oacute;   un pedido inicial de 163 C-61, aunque 161 de ellos fueron enviados a ultramar en   virtud de la ley de pr&eacute;stamo y arriendo. Bajo los auspicios de ese programa, la   mayor&iacute;a de los 525 Fairchild 24/C-61 equipados con Warner Scarab fueron   trasladados a Gran Breta&ntilde;a. Muchos de ellos sirvieron como Argus I y como los   mejorados Argus II, siendo adscritos a una nueva unidad adjunta a la RAF, el Air   Transport Auxiliary. Un pedido adicional de 306 Argus III motorizados con Ranger   se usaron tambi&eacute;n en el Air Transport Auxiliary. Durante su servicio brit&aacute;nico,   la mayor&iacute;a de los Argus se utilizaron para vuelos de transporte de tripulaciones   entre las bases de mantenimiento y las operacionales.</p>
+      <p align="justify" class="bodyText">El Argus I era un Fairchild   F24 motorizado con Warner Scarab y se distingu&iacute;a por su generador e&oacute;lico   instalado en el montante de estribor y su h&eacute;lice negra. El Argus II estaba   equipado tambi&eacute;n con el Warner y frecuentemente montaba un techo de cabina   transparente. Ese modelo fue certificado para una carga operacional mayor que el   Argus I y se distingu&iacute;a por su h&eacute;lice amarilla. El Argus III se equip&oacute; con el   motor Ranger de seis cilindros en l&iacute;nea invertidos.</p>
+      <p align="center"><img height="329" src="images/ilustraciones/argus3.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">El Argus III,   motorizado con el Ranger lineal de 6 cilindros invertidos</p>
+    <p align="justify" class="bodyText">Despu&eacute;s de la Guerra, el   avi&oacute;n sirvi&oacute; en diversas fuerzas a&eacute;reas como la finlandesa, la tailandesa, la   israel&iacute;, la canadiense, la estadounidense y la australiana, adem&aacute;s de en algunas   pocas compa&ntilde;&iacute;as civiles.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="maquinas.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

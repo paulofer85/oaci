@@ -1,0 +1,60 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:21 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:19 GMT
+ETag: "658-49401985db9c0"
+Accept-Ranges: bytes
+Content-Length: 1624
+Content-Range: bytes 0-1623/1624
+Keep-Alive: timeout=3, max=75
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+}
+-->
+</style></head>
+
+<body>
+<table border="0" cellspacing="0" cellpadding="0" width="174" id="navigation">
+  <tr>
+    <td width="174">&nbsp;
+        <div align="left"><img src="images/logos_cabeceras/tit_enlaces.gif" width="100" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td width="174"><a href="enlaces_revistas.html" target="contenido" class="navText">Revistas</a></td>
+  </tr>
+  <tr>
+    <td width="174"><a href="enlaces_asociaciones.html" target="contenido" class="navText">Asociaciones</a></td>
+  </tr>
+  <tr>
+    <td width="174"><a href="enlaces_paginastematicas.html" target="contenido" class="navText">P&aacute;ginas Tem&aacute;ticas </a></td>
+  </tr>
+  <tr>
+    <td width="174"><a href="enlaces_fabricantes.html" target="contenido" class="navText">Fabricantes</a></td>
+  </tr>
+  <tr>
+    <td width="174"><a href="enlaces_fotografias.html" target="contenido" class="navText">Fotograf&iacute;as</a></td>
+  </tr>
+  <tr>
+    <td><a href="enlaces_tiendas.html" target="contenido" class="navText">Tiendas Online </a></td>
+  </tr>
+  <tr>
+    <td><a href="index.html" target="_parent" class="navText">Volver</a></td>
+  </tr>
+  <tr>
+    <td><div align="left"></div></td>
+  </tr>
+</table>
+</body>
+</html>

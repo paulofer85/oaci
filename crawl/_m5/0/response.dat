@@ -1,0 +1,174 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:36 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:47:04 GMT
+ETag: "a12-493fc5df19e00"
+Accept-Ranges: bytes
+Content-Length: 2578
+Content-Range: bytes 0-2577/2578
+Keep-Alive: timeout=3, max=83
+Connection: Keep-Alive
+Content-Type: text/css
+
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	color:#000000;
+	}
+	
+a {
+	color: #993300;
+	}
+	
+a:hover {
+	color: #0033FF;
+	}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 1px solid #F4FFE4;
+	}
+	
+#navigation a {
+	color: #FFFFFF;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
+#navigation a:hover {
+	background: #CC0000;
+	color:#FFFFFF;
+	}
+	
+#logo 	{
+	font:24px Arial, Helvetica, sans-serif;
+	color: #CC0000;
+	letter-spacing:0.2em;
+	line-height:30px;
+	}
+
+#tagline 	{	
+	font:14px Arial, Helvetica, sans-serif;
+	color: #990000;
+	letter-spacing:0.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 1px dashed #5C743D;
+	}
+		
+#dateformat {
+	color: #FFFFFF;
+	}
+	
+#dateformat a {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	font-weight:bold;
+	letter-spacing:.1em;
+	text-decoration:none;
+	}
+	
+#dateformat a:hover {
+	color: #E1FFF4;
+	letter-spacing:0.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	color:#000000;
+	line-height:20px;
+	margin-top:0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+	
+.pageName{
+	color: #990000;
+	line-height:20px;
+	letter-spacing:0.15em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: oblique;
+	font-weight: bold;
+	}
+	
+.subHeader {
+	color: #990000;
+	line-height:20px;
+	letter-spacing:0.2em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	}
+
+.quote {
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #333333;
+	line-height: 22px;
+	}
+	
+.navText {
+	color: #003366;
+	line-height:16px;
+	letter-spacing:0.05em;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bolder;
+	}
+	
+.Letrapieblanca {
+	color: #FFFFFF;
+	font: 11px Arial, Helvetica, sans serif;
+}
+
+.Letrablanca {
+	color: #FFFFFF;
+	font: 12px Arial, Helvetica, sans serif;
+}
+
+.SUBTITULO {line-height: 26px; letter-spacing: 0.21em; font-size: 14px; color: #CC0000; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.TítuloTexto {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #990000;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 0.1ex;
+}
+
+.TítuloTextoMarron {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #660000;
+	font-weight: bold;
+	font-style: italic;
+	letter-spacing: 0.1ex;
+}
+
+.TituloEnlaces {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+

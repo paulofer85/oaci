@@ -1,0 +1,72 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:12 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:12 GMT
+ETag: "f2f-493fc704d5300"
+Accept-Ranges: bytes
+Content-Length: 3887
+Content-Range: bytes 0-3886/3887
+Keep-Alive: timeout=3, max=73
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">NORMATIVA DE CONSTRUCCI&Oacute;N AMATEUR ESPA&Ntilde;OLA </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText">&nbsp;</td>
+          </tr>
+          
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><a href="normativa/orden_31_mayo_1982.pdf">Orden de 31 de mayo de 1982</a> por la que se aprueba un nuevo Reglamento para la Construcci&oacute;n de Aeronaves por   Aficionados.</td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><div align="justify"><a title="" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/CIRCULARES_DOCUMEN/AVIACION_DEPORTIVA/322002.htm',this);" href="normativa/resolucion_15_ junio_1994.pdf">Resoluci&oacute;n de 15 de junio de 1994 </a>de la Direcci&oacute;n General de Aviaci&oacute;n Civil sobre: Limitaciones asociadas a los   certificados de aeronavegabilidad restringidos de las construidas por   aficionados.</div></td>
+          </tr>
+          <tr>
+            <td height="40" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9" class="bodyText"><p align="justify"><a title="Real Decreto 1591/1999" onclick="return abrirPopup('/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/_INFORMACION/NORMATIVA/LEGISLACION/DISPOSICIONES_COMPLEMENTARIAS/1999/rd_1591_99.htm',this);" href="normativa/entidades_colaboradoras.pdf">Entidades colaboradoras </a>, Real Decreto 282/2002, de 22 de marzo, por el que se establece el r&eacute;gimen de las   entidades colaboradoras de la Administraci&oacute;n en la realizaci&oacute;n de las   inspecciones y pruebas de vuelo necesarias para la concesi&oacute;n y renovaci&oacute;n de los   certificados de aeronavegabilidad de las aeronaves de construcci&oacute;n por   aficionados. (Bolet&iacute;n Oficial del Estado n&uacute;mero 82, del viernes 5 de abril de   2002).</p>              
+              </td>
+          </tr>
+          
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+                <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

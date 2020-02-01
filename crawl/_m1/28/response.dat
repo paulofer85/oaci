@@ -1,0 +1,145 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:02 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:00 GMT
+ETag: "1c68-493fc6f963800"
+Accept-Ranges: bytes
+Content-Length: 7272
+Content-Range: bytes 0-7271/7272
+Keep-Alive: timeout=3, max=89
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_informe.jpg" alt="" name="Cabecera_menu" width="331" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="174" id="navigation">
+      <tr>
+        <td width="174"><img src="images/logos_cabeceras/tit_informe.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="174" align="left"><a href="informe_elestudio.html" class="navText">El estudio  </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="informe_ultraligeros.html" target="" class="navText">Ultraligeros</a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="informe_avionetas.html" class="navText">Avionetas</a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="informe_motores.html" class="navText">Motores y amateurs </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="maquinas.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="579" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="30" colspan="3" class="pageName"><div align="left" class="pageName">EL INFORME </div></td>
+          </tr>
+          <tr>
+            <td height="17" colspan="3"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="16" height="166" class="bodyText"><p align="justify">&nbsp;</p>              
+            <a href="Templates/mustang.html"></a></td>
+            <td width="316" class="bodyText"><p align="justify">Uno no percibe la importancia de la Aviaci&oacute;n Deportiva en Espa&ntilde;a si no hace n&uacute;meros y juega con los datos objetivos. Entonces descubre que el 60 % de los aviones que tenemos matriculados son aparatos ligeros deportivos, y que ese hecho se ha gestado en los &uacute;ltimos 20 a&ntilde;os. Los ultraligeros han tenido mucho que ver, pero el parque de avionetas tambi&eacute;n ha aumentado en los &uacute;ltimos tiempos.</p>
+            <p align="justify">Este apartado pretende ser una radiograf&iacute;a del parque de aviones ligeros en Espa&ntilde;a, que es la parte m&aacute;s importante de la Aviaci&oacute;n de nuestro pa&iacute;s, por lo menos en n&uacute;mero de aparatos matriculados. </p></td>
+            <td width="12" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="24" colspan="3" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="216" colspan="3" class="pageName"><div align="center"><img src="images/ilustraciones/informe_S12airaileportada.jpg" width="280" height="190" border="1" /></div></td>
+          </tr>
+          <tr>
+            <td height="13" colspan="3"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td colspan="3" class="bodyText">&nbsp;</td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="pageName">&nbsp;</p>
+		  <p align="justify" class="pageName">LOS DATOS</p>
+		  <p align="justify" class="smallText">Los datos  de este informe han sido extra&iacute;dos de la lista de aeronaves matriculadas en Espa&ntilde;a y publicada en la web del Ministerio de Fomento espa&ntilde;ol con fecha de actualizaci&oacute;n de junio de 2007.</p>
+		  <p align="justify" class="smallText">Tras un trabajo de depuraci&oacute;n y procesado, se pueden obtener datos tan curiosos como la edad media de la flota por tipos, la avioneta m&aacute;s antigua que vuela en Espa&ntilde;a, el modelo m&aacute;s vendido, etc.</p>
+		  <p align="justify" class="smallText">Todo esto es lo que hemos querido averiguar y lo que conforma una peque&ntilde;a &quot;radiograf&iacute;a&quot; del parque a&eacute;reo ligero espa&ntilde;ol. </p>
+		  <p align="justify" class="smallText">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

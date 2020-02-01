@@ -1,0 +1,119 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:33 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:20 GMT
+ETag: "2483-49401986cfc00"
+Accept-Ranges: bytes
+Content-Length: 9347
+Content-Range: bytes 0-9346/9347
+Keep-Alive: timeout=3, max=57
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Home Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+<!--
+body {
+	background-color: #e9e9e9;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<table width="678" height="2399" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  
+
+ <tr>
+    <td width="69" height="2399" valign="top" bgcolor="#E9E9E9"> <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+            <p align="center" class="T&iacute;tuloTexto">REVISTAS</p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="2312" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+            
+            
+            <tr>
+              <td valign="top" bordercolorlight="#808080" width="682" bgcolor="#E9E9E9" bordercolordark="#ffffff" height="50"><center>
+              </center>
+                  <p>&nbsp;</p>
+                  <p><strong><a href="http://www.aviationconsumer.com/index.html" class="T&iacute;tuloTexto">Aviation   Consumer</a></strong></p>
+                  <p class="bodyText">Revista on-line con versi&oacute;n en papel centrada en las evaluaciones   de aviones y productos para Aviaci&oacute;n General.</p>
+                <p><strong><a href="http://www.aviationsafetymagazine.com/" class="T&iacute;tuloTexto">Aviation   Safety</a></strong></p>
+                <p class="bodyText">Centrada en la seguridad dentro de la Aviaci&oacute;n General.</p>
+                <p><strong><a href="http://www.sportpilot.org/magazine/" class="T&iacute;tuloTexto">EAA Sport Pilot   &amp; Light-Sport Aircraft</a></strong></p>
+                <p class="bodyText">La revista dedicada a la categor&iacute;a LSA americana de la   Experimental Aircraft Association. Constructores amateurs estadounidenses y   aviones ligeros.</p>
+                <p><strong><a href="http://www.flightjournal.com/ME2/Default.asp" class="T&iacute;tuloTexto">Flight   Journal</a></strong></p>
+                <p class="bodyText">Revista norteamericana con versi&oacute;n en papel dedicada a la aviaci&oacute;n   hist&oacute;rica, especialmente a la aviaci&oacute;n militar de la 2&ordf; Guerra Mundial.. Relatos   de &eacute;poca y excelentes fotograf&iacute;as.</p>
+                <p><strong><a href="http://www.kitplanes.com/" class="T&iacute;tuloTexto">Kitplanes.com</a></strong></p>
+                <p class="bodyText">Dedicada a la construcci&oacute;n amateur, con sede en Florida   (USA).</p>
+                <p><strong><a href="http://www.lightplane-maintenance.com/" class="T&iacute;tuloTexto">Light Plane   Maintenance</a></strong></p>
+                <p class="bodyText">Mantenimiento pr&aacute;ctico para pilotos y propietarios de aviones.   Norteamericana y con sede en Florida.</p>
+                <p><strong><a href="http://www.planeandpilotmag.com/" class="T&iacute;tuloTexto">Plane&amp;Pilot</a></strong></p>
+                <p class="bodyText">La revista americana para los pilotos deportivos activos. Con   versi&oacute;n en papel, editada en Los Angeles (CA - USA).</p>
+                <p><strong><a href="http://www.aeroplanemonthly.com/" class="T&iacute;tuloTexto">Aeroplane</a></strong></p>
+                <p class="bodyText">Revista inglesa sobre aviaci&oacute;n militar hist&oacute;rica. Con versi&oacute;n en   papel y sede en Londres.</p>
+                <p><strong><a href="http://www.flypast.com/" class="T&iacute;tuloTexto">Flypast</a></strong></p>
+                <p class="bodyText">Revista brit&aacute;nica sobre aviaci&oacute;n militar cl&aacute;sica. Con versi&oacute;n en   papel y sede en Stamford, UK.</p>
+                <p><strong><a href="http://www.aviation-pilote.com/" class="T&iacute;tuloTexto">Aviation et   Pilote</a></strong></p>
+                <p class="bodyText">Revista francesa con versi&oacute;n en papel sobre Aviaci&oacute;n General. Con   sede en el aer&oacute;dromo de Lognes (Francia).</p>
+                <p><strong><a href="http://www.flightglobal.com/Home/Default.aspx" class="T&iacute;tuloTexto">Flight   International</a></strong></p>
+                <p class="bodyText">Dedicada a la Aviaci&oacute;n Comercial y a los profesionales. Con   versi&oacute;n en papel.</p>
+                <p><strong><a href="http://www.aviatormag.com.au/" class="T&iacute;tuloTexto">Aviator</a></strong></p>
+                <p class="bodyText">Revista sobre Aviaci&oacute;n General y Comercial australiana.   Posibilidad de descargarla en formato pdf, pagando, claro. Con sede en   Washington (USA).</p>
+                <p><strong><a href="http://www.flug-revue.rotor.com/" class="T&iacute;tuloTexto">Flug   Revue</a></strong></p>
+                <p class="bodyText">Revista alemana sobre Aviaci&oacute;n Militar y Comercial, con versi&oacute;n en   ingl&eacute;s y alem&aacute;n. Con sede en Bonn, Alemania.</p>
+                <p><strong><a href="http://flighttraining.aopa.org/" class="T&iacute;tuloTexto">AOPA Flight   Training</a></strong></p>
+                <p class="bodyText">Revista dedicada a la formaci&oacute;n de pilotos de la Aviation Owners   and Pilots Association americana. Con versi&oacute;n en papel.&nbsp;</p>
+                <p><strong><a href="http://www.inflightusa.com/" class="T&iacute;tuloTexto">In Flight   USA</a></strong></p>
+                <p class="bodyText">Aviaci&oacute;n Militar cl&aacute;sica y moderna en los States. Versi&oacute;n en papel   y con sede en San Mateo (CA - USA)</p>
+                <p><strong><a href="http://www.classicwings.com/" class="T&iacute;tuloTexto">Classic   Wings</a></strong></p>
+                <p class="bodyText">Revista neozelandesa sobre Aviaci&oacute;n Militar cl&aacute;sica. Con versi&oacute;n   en papel y sede en Blenheim, Nueva Zelanda.</p>
+                <p><strong><a href="http://www.historicwings.com/" class="T&iacute;tuloTexto">Historic   Wings</a></strong></p>
+                <p class="bodyText">Este es un cl&aacute;sico de las revistas de Historia de la Aviaci&oacute;n en   la red. Revista exclusivamente online, con art&iacute;culos est&eacute;ticamente muy cuidados   sobre aviaci&oacute;n cl&aacute;sica, fundamentalmente militar. La pega es que se actualiza   poco.</p>
+                <p><strong><a href="http://www.pacificflyer.com/" class="T&iacute;tuloTexto">Pacific   Flyer</a></strong></p>
+                <p class="bodyText">Curioso &quot;fanzine&quot; con versi&oacute;n en papel sobre Aviaci&oacute;n General, con   sede en Oceanside, CA, USA.</p>
+                <p><strong><a href="http://www.us-aviator.com/" class="T&iacute;tuloTexto">Aero-News.net</a></strong></p>
+                <p class="bodyText">Revista online sobre Aviaci&oacute;n General. Con foro y versi&oacute;n   imprimible.</p>
+                <p><strong><a href="http://www.aviation-news.co.uk/" class="T&iacute;tuloTexto">Aviation   News</a></strong></p>
+                <p class="bodyText">Revista inglesa sobre Aviaci&oacute;n Militar y Comercial. Con versi&oacute;n   impresa y sede en St. Leonards on Sea, UK.</p>
+                <p><strong><a href="http://www.flyingmag.com/" class="T&iacute;tuloTexto">Flying   Magazine</a></strong></p>
+                <p class="bodyText">Revista sobre Aviaci&oacute;n General con versi&oacute;n impresa con sede en New   York, USA.</p>
+                <p><strong><a href="http://www.pilotweb.aero/" class="T&iacute;tuloTexto">Pilot</a></strong></p>
+                <p class="bodyText">Revista brit&aacute;nica online sobre Aviaci&oacute;n General, con versi&oacute;n   impresa y sede en Essex, UK.</p>
+                <p><strong><a href="http://www.swaviator.com/" class="T&iacute;tuloTexto">Southwest   Aviator</a></strong></p>
+                <p class="bodyText">Revista americana sobre Aviaci&oacute;n Deportiva, con versi&oacute;n en papel y   sede en Alburquerque, NM (USA).</p>
+                <p><strong><a href="http://www.airspacemag.com/" class="T&iacute;tuloTexto">Aviation &amp;   Space</a></strong></p>
+                <p class="bodyText">Aviaci&oacute;n Militar y tecnolog&iacute;a aerospacial.</p>
+                <p class="T&iacute;tuloTexto"><a href="http://www.codeonemagazine.com/index.html">Code One</a></p>
+                <p class="bodyText">Revista editada por Lockheed Martin con informaci&oacute;n e historia de sus de sus aviones. </p>
+                <p>&nbsp;</p>
+                <p align="center"><img src="images/piezas/pie_relato.gif" width="500" height="30" /></p>
+                <p>&nbsp;</p></td>
+            </tr>
+            
+            
+            
+          </table>          </td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

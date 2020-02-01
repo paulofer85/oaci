@@ -1,0 +1,168 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:47 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:18 GMT
+ETag: "28cc-493fc70a8e080"
+Accept-Ranges: bytes
+Content-Length: 10444
+Content-Range: bytes 0-10443/10444
+Keep-Alive: timeout=3, max=39
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="pilotaje.html"><img src="images/logos_cabeceras/cabecera_tecnica.jpg" alt="" name="Cabecera_menu" width="223" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="218" id="navigation">
+      <tr>
+        <td width="218"><img src="images/logos_cabeceras/tit_tecnica.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="218" align="left"><a href="lycoming.html" class="navText">Ajustando la mezcla </a></td>
+      </tr>
+      <tr>
+        <td align="left"><a href="densidad.html" class="navText">Altitud de densidad </a></td>
+      </tr>
+      <tr>
+        <td align="left"><a href="compraalquiler.html" class="navText">&iquest;Compra o alquiler? </a></td>
+      </tr>
+      
+      <tr>
+        <td width="218"><a href="virajes.html" target="" class="navText">Maniobras a bajo nivel </a></td>
+      </tr>
+      <tr>
+        <td width="218"><a href="mitosfalsos.html" class="navText">Mitos falsos </a></td>
+      </tr>
+      <tr>
+        <td><a href="desvio.html" class="navText">&iexcl;Qu&eacute;date en la pista!  </a></td>
+      </tr>
+      <tr>
+        <td width="218"><a href="brujula.html" class="navText">Reglando la br&uacute;jula </a></td>
+      </tr>
+      
+      <tr>
+        <td><a href="stickandrudder.html" class="navText">Stick and Rudder </a></td>
+      </tr>
+      <tr>
+        <td><a href="pilotaje_vientocruzado.html" class="navText">Viento cruzado </a></td>
+      </tr>
+      <tr>
+        <td width="218"><a href="pilotaje.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="463" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="5" class="pageName"><div align="left" class="pageName">MANIOBRAS EN FALSO </div></td>
+          </tr>
+          <tr>
+            <td height="12" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="166" colspan="2" class="bodyText"><p align="justify"><a href="virajes.html"><img src="images/ilustraciones/RAAus.jpg" width="191" height="100" border="1" /></a></p></td>
+            <td width="13" class="bodyText">&nbsp;</td>
+            <td width="140" class="bodyText"><div align="justify">Las maniobras a baja altitud son la causa de muchos accidentes. La Asociaci&oacute;n Australiana de Ultraligeros lo sabe y ha publicado un estupendo manual con todo lo que hay que conocer sobre ellas. </div></td>
+            <td width="9" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="5" colspan="5" class="pageName">&iexcl;QU&Eacute;DATE EN LA PISTA! </td>
+          </tr>
+          <tr>
+            <td height="13" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="18" height="78" class="bodyText"><p align="justify">&nbsp;</p></td>
+            <td width="175" class="bodyText"><p align="justify">Te alineas con el eje de la pista, das m&aacute;xima potencia, aceleras r&aacute;pidamente y de repente lo notas: por arte de magia, el avi&oacute;n vira solo a la izquierda. Sabes que ocurrir&aacute; y tienes el pie derecho preparado. Pero, &iquest;sabes por qu&eacute; ocurre?. Tenlo claro y... &iexcl;qu&eacute;date en la pista! </p>              
+            <a href="Templates/Iborra.html"></a></td>
+            <td height="78" class="bodyText">&nbsp;</td>
+            <td height="78" colspan="2" class="bodyText"><p align="center"><a href="desvio.html"><img src="images/logos_cabeceras/logo_desvio.jpg" width="150" height="89" border="1" /></a></p></td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+        </table>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <div align="center"><img src="images/ilustraciones/pilotaje_cockpit.jpg" width="259" height="120" border="1" /></div>
+    <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">&nbsp;</p>
+		  <p align="justify" class="subHeader">EL ARTE DE VOLAR</p>
+		  <p align="justify">El hecho de conducir un avi&oacute;n requiere de m&uacute;ltiples habilidades: conocimientos te&oacute;ricos, entrena-miento, experiencia, intuici&oacute;n, sentido com&uacute;n, aclimataci&oacute;n a las sensaciones del vuelo, comuni&oacute;n con el entorno... las variables son tantas que cada vuelo es &uacute;nico y su dominio es un arte. Mezclamos realidades objetivas con sensaciones, y a partir de ah&iacute; tomamos decisiones que nos pueden llevar al mejor o al &uacute;ltimo de nuestros viajes.</p>
+		  <p align="justify">Es por eso que no es posible dejar de aprender. No hay lugar para la relajaci&oacute;n. Este apartado te permite revisar las leyes fundamentales del Arte del Vuelo y refrescar conocimientos &uacute;tiles para el pilotaje. </p>
+		  <p align="justify">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"><a href="http://www.aviadores.org/phpBB2/index.php" target="_blank"></a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,36 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:05 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Fri, 29 Oct 2010 18:34:28 GMT
+ETag: "30fb3-493c5b5655500"
+Accept-Ranges: bytes
+Content-Length: 200627
+Content-Range: bytes 0-200626/200627
+Keep-Alive: timeout=3, max=81
+Connection: Keep-Alive
+Content-Type: application/pdf
+
+%PDF-1.6%âãÏÓ
+17 0 obj <</Linearized 1/L 162735/O 19/E 64215/N 3/T 162348/H [ 516 154]>>endobj                
+xref
+17 11
+0000000016 00000 n
+0000000670 00000 n
+0000000732 00000 n
+0000000953 00000 n
+0000001192 00000 n
+0000003226 00000 n
+0000003807 00000 n
+0000004154 00000 n
+0000004504 00000 n
+0000004859 00000 n
+0000000516 00000 n
+trailer
+<</Size 28/Prev 162337/Root 18 0 R/Info 16 0 R/ID[<CF9CA3A445B9704491112C9CA9A6251E><CF9CA3A445B9704491112C9CA9A6251E>]>>
+startxref
+0
+%%EOF
+            
+27 0 obj<</Length 76/Filter/FlateDecode/I 90/S 49>>stream
+xÚb```e``rb`b`H×f`@

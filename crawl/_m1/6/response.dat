@@ -1,0 +1,89 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:23 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:18 GMT
+ETag: "1351-49401984e7780"
+Accept-Ranges: bytes
+Content-Length: 4945
+Content-Range: bytes 0-4944/4945
+Keep-Alive: timeout=3, max=60
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Home Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+<!--
+body {
+	background-color: #e9e9e9;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<table width="678" height="889" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  
+
+ <tr>
+    <td width="69" height="889" valign="top" bgcolor="#E9E9E9"> <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+            <p align="center" class="T&iacute;tuloTexto">FOTOGRAF&Iacute;AS AERON&Aacute;UTICAS </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="802" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+            
+            
+            <tr>
+              <td valign="top" bordercolorlight="#808080" width="682" bgcolor="#E9E9E9" bordercolordark="#ffffff" height="900"><center>
+              </center>
+                  <p>&nbsp;</p>
+                  <p><strong><a href="http://www.airliners.net/" class="T&iacute;tuloTexto">Airliners.net</a></strong></p>
+                  <p class="bodyText">Un cl&aacute;sico de la red. Millones   de fotograf&iacute;as de calidad y bien clasificadas.</p>
+                  <p><strong><a href="http://www.jetphotos.net/" class="T&iacute;tuloTexto">JetPhotos.net</a></strong></p>
+                  <p class="bodyText">Al estilo de Airliners, con   algo menos de fotos pero organizada de forma muy parecida.</p>
+                  <p><strong><a href="http://1000aircraftphotos.com/index.html" class="T&iacute;tuloTexto">1000aircraftphotos.com</a></strong></p>
+                  <p class="bodyText">Estupenda colecci&oacute;n de   fotograf&iacute;as de &eacute;poca.</p>
+                  <p><strong><a href="http://www.flightlevel350.com/" class="T&iacute;tuloTexto">Flightlevel350.com</a></strong></p>
+                  <p class="bodyText">Otro enorme archivo fotogr&aacute;fico   online.</p>
+                  <p><strong><a href="http://www.cifuentes.biz/index.html" class="T&iacute;tuloTexto">Fotograf&iacute;as y perfiles   aeron&aacute;uticos</a></strong></p>
+                  <p class="bodyText">Buena colecci&oacute;n de fotograf&iacute;as   y perfiles aeron&aacute;uticos de aviones preferentemente espa&ntilde;oles.</p>
+                  <p><strong><a href="http://www.aviationcorner.net/index.asp" class="T&iacute;tuloTexto">Aviationcorner.net</a></strong></p>
+                  <p class="bodyText">P&aacute;gina espa&ntilde;ola con un archivo   interesante de fotograf&iacute;as realizadas por spotters de nuestro pa&iacute;s.</p>
+                  <p class="T&iacute;tuloTexto"><a href="http://www.planepictures.net/"><strong>Planepictures.net</strong></a></p>
+                  <p class="bodyText">Archivo alem&aacute;n de fotograf&iacute;as   sobre aviones.</p>
+                  <p class="T&iacute;tuloTexto"><a href="http://www.dfrc.nasa.gov/Gallery/Photo/index.html"><strong>Dryden Photo Collection</strong></a></p>
+                  <p class="bodyText">Colecci&oacute;n de fotos del Centro   de Investigaci&oacute;n del Vuelo Dryden de la NASA en Edwards, California.</p>
+                  <p class="T&iacute;tuloTexto"><a href="http://www.landings.com/_landings/pages/images.html"><strong>Landings.com</strong></a></p>
+                  <p class="bodyText">Esta p&aacute;gina sobre aviaci&oacute;n   contiene el listado m&aacute;s extenso de p&aacute;ginas de fotograf&iacute;as aeron&aacute;uticas.   Colecciones para aburrir.</p>
+                  <p class="T&iacute;tuloTexto"><a href="http://planepicture.com/"><strong>The Plane Picture Company</strong></a></p>
+                  <p class="bodyText">La p&aacute;gina de John Dibbs, uno de   los fot&oacute;grafos a&eacute;reos m&aacute;s reputados. Excelentes fotograf&iacute;as profesionales, pero   todas de pago, naturalmente. Una l&aacute;stima.</p>
+                  <p align="left" class="T&iacute;tuloTexto">&nbsp;</p>
+                  <p align="center"><img src="images/piezas/pie_relato.gif" width="500" height="30" /></p>
+                </td>
+            </tr>
+            
+            
+            
+          </table>          </td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

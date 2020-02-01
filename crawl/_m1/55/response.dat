@@ -1,0 +1,138 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:07 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:37 GMT
+ETag: "189f-493fc71cacb40"
+Accept-Ranges: bytes
+Content-Length: 6303
+Content-Range: bytes 0-6302/6303
+Keep-Alive: timeout=3, max=93
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_zero.jpg" alt="" name="Cabecera_menu" width="279" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="174" id="navigation">
+      <tr>
+        <td width="174"><img src="images/logos_cabeceras/tit_zero.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="174" align="left"><a href="zero_introduccion.html" class="navText">Introducci&oacute;n</a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="zero_conclusiones.html" target="" class="navText">Conclusiones y recomendaciones </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="zero_descripcion.html" class="navText">Descripci&oacute;n del avi&oacute;n </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="Zero_comparativas.html" class="navText">Comparativas</a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="maquinas.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="568" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="pageName"><div align="left" class="pageName">
+              <div align="center">RESUMEN INFORMATIVO DE INTELIGENCIA N&ordm; 85 </div>
+            </div></td>
+          </tr>
+          <tr>
+            <td height="11"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="433" class="bodyText"><p align="center"><img src="images/ilustraciones/zero_portada85.jpg" width="302" height="400" border="1" /></p>              </td>
+          </tr>
+          
+          
+          <tr>
+            <td height="13"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="59" class="bodyText"><p align="justify">&nbsp;</p>              </td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">&nbsp;</p>
+		  <p align="justify" class="subHeader">EL DOCUMENTO</p>
+		  <p align="justify">El Resumen Informativo de Inteligencia N&ordm; 85 fue desclasificado en 1958. Se escribi&oacute; en 1942 y evaluaba todas las caracter&iacute;sticas de vuelo del mejor caza japon&eacute;s de entonces, el Mitsubishi A6M Zeke (Zero). No hay mejor descripci&oacute;n de un caza que la que hacen sus oponentes, y en este informe se resumen todas las virtudes y debilidades del avi&oacute;n que impresion&oacute; a todos los pilotos aliados del Pac&iacute;fico durante los primeros a&ntilde;os de Guerra.</p>
+		  <p align="justify">&Eacute;sta es la traducci&oacute;n del documento, que incluye una comparaci&oacute;n uno a uno con los mejores cazas de la USAF y la Navy en aquellos momentos. </p>
+		  <p align="justify">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"><a href="http://www.aviadores.org/phpBB2/index.php" target="_blank"></a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

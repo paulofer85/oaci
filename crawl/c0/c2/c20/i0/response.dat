@@ -1,0 +1,602 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:05:35 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Fri, 29 Oct 2010 18:37:27 GMT
+ETag: "52284-493c5c010a7c0"
+Accept-Ranges: bytes
+Content-Length: 336516
+Content-Range: bytes 0-336515/336516
+Keep-Alive: timeout=3, max=41
+Connection: Keep-Alive
+Content-Type: application/pdf
+
+%PDF-1.4
+2 0 obj <<
+/Type /XObject
+/Subtype /Form
+/FormType 1
+/PTEX.FileName (/pdfs-dmp/BOE/BOE06-212/BOE06-212-01NU_116_31677.pdf)
+/PTEX.PageNumber 1
+/PTEX.InfoDict 3 0 R 
+/Matrix [1 0 0 1 0 0]
+/BBox [0 0 666 893]
+/Resources <<
+/ProcSet [ /PDF /Text ]
+/Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >>
+/ExtGState <<
+/GS1 7 0 R
+/GS2 8 0 R
+>>>>
+/Length 11733
+>>
+stream
+0 0 0 1 K
+0 J 0 j 0.5 w 10 M []0 d
+/GS2 gs
+1 i 
+39.685 815.99 m
+606.614 815.99 l
+S
+BT
+/F1 1 Tf
+9.45 0 0 9 39.685 818.3657 Tm
+0 0 0 1 k
+0 Tc
+0 Tw
+[(BOE n˙m. 21)15(2 )-16556(Mar)25(tes )-221.9(5 )-222(septiembre )-222(20)-39.8(06 )-20499.8(31)15(677)]TJ
+/F2 1 Tf
+13 0 0 13 39.685 789.958 Tm
+/GS1 gs
+( )Tj
+0 0 TD
+(15407 )Tj
+/F3 1 Tf
+10 0 0 10 90.8365 789.958 Tm
+-0.0212 Tw
+[(ORDEN PRE/2733/20)-40.5(06, de 28 de agosto, por la )]TJ
+0 -1.1019 TD
+0.0323 Tw
+[(que se introducen modificaciones en el R)19(egla-)]TJ
+T*
+0.1298 Tw
+[(mento de CirculaciÛn )49.5(AÈrea, aprobado por el )]TJ
+T*
+-0.0115 Tw
+[(R)20(e)0(al Decreto 57/20)-40.3(02, de 1)14.8(8)0( de enero, relati)-20.4(vas )]TJ
+T*
+-0.0243 Tw
+(a la gestiÛn de afluencia de tr·nsito aÈreo y las )Tj
+T*
+0 Tw
+(telecomunicaciones.)Tj
+/F1 1 Tf
+-3.4101 -2.2807 TD
+-0.01 Tc
+0.1248 Tw
+[(El R)19.9(eglamento de la CirculaciÛn )49.2(AÈrea, aprobado por )]TJ
+-1.7051 -1.0018 TD
+-0.0378 Tw
+[(R)20(e)0(al Decreto 57/20)-40.3(02, de 1)14.8(8)0( de enero, dictado en desar)24.3(rollo )]TJ
+T*
+-0.0447 Tw
+[(de la L)9.8(ey 48/1)59.8(960, de Normas reguladoras de la naveg)19(aciÛn )]TJ
+T*
+0.0103 Tw
+[(aÈrea, de 21 de junio, ha sido objeto de di)-21(ver)-20(sas modifica-)]TJ
+T*
+0.0157 Tw
+[(ciones deri)-20.3(vadas de los cambios introducidos por la Org)18.8(a-)]TJ
+T*
+0.3907 Tw
+[(nizaciÛn de )49.7(A)40(v)0(iaciÛn Ci)-20.2(vil Internacional \(O)49.5(A)20(C)0(I\) en los )]TJ
+T*
+0.0278 Tw
+[(anex)15(os y documentos al Con)19.5(venio de Chicago y la necesi-)]TJ
+T*
+-0.0516 Tw
+[(dad de adaptar las operaciones de vuelo a las inno)13.7(vaciones )]TJ
+T*
+0 Tw
+[(tÈcnicas producidas en materia de aeronaveg)20(aciÛn.)]TJ
+1.7051 -1.0018 TD
+0 Tc
+0.3411 Tw
+[(La disposiciÛn final primera del mencionado R)18.8(eal )]TJ
+-1.7051 -1.0019 TD
+0.0158 Tw
+[(Decreto, faculta a los Ministros de Defensa y de F)18.8(o)0(mento )]TJ
+T*
+-0.0491 Tw
+[(para introducir)54.7(, con sujeciÛn a lo dispuesto en la Orden de )]TJ
+T*
+0.1223 Tw
+[(la P)19.9(residencia de Gobierno de 8 de no)14.2(viembre de 1)59.6(979, )]TJ
+T*
+-0.0177 Tw
+(por la que se crea la ComisiÛn Interministerial prevista en )Tj
+T*
+0.02 Tw
+[(el ar)24.9(tÌculo 6.∫ del R)19.6(eal Decreto-ley 1)14.6(2/1)60(978, de 27 de abril, )]TJ
+T*
+-0.0543 Tw
+(sobre fijaciÛn y delimitaciÛn de facultades entre los Minis-)Tj
+T*
+0.0895 Tw
+[(terios de Defensa y de F)19.4(o)0(mento en materia de aviaciÛn, )]TJ
+T*
+0.0667 Tw
+(cuantas modificaciones de car·cter tÈcnico fuesen preci-)Tj
+T*
+0.0617 Tw
+(sas para la adaptaciÛn de las operaciones de vuelo a las )Tj
+T*
+0.0227 Tw
+[(inno)15(vaciones tÈcnicas que se produzcan y especialmente )]TJ
+0 -1.0018 TD
+0.1178 Tw
+[(a lo dispuesto en la normati)-20.7(va contenida en los anex)14.4(os )]TJ
+0 -1.0019 TD
+0.0001 Tc
+0.0047 Tw
+[(O)50.1(A)20.1(CI y en los tratados y con)19.5(venios internacionales de los )]TJ
+T*
+0 Tc
+0 Tw
+[(que EspaÒa sea par)25(te.)]TJ
+1.7051 -1.0018 TD
+0.094 Tw
+[(En la actualidad, es preciso modificar el R)19(eglamento )]TJ
+-1.7051 -1.0019 TD
+-0.011 Tw
+[(de la CirculaciÛn )49.5(AÈrea en lo concerniente a la GestiÛn de )]TJ
+T*
+0.3126 Tw
+[(Afluencia de )179.7(T)95(r·nsito )50(AÈreo para su adaptaciÛn a las )]TJ
+T*
+0.141 Tw
+[(enmiendas que la citada Org)19.3(anizaciÛn de )49.6(A)40(v)0(iaciÛn Ci)-20.2(vil )]TJ
+T*
+0.1222 Tw
+(Internacional ha introducido en los Documentos 7030/4/)Tj
+T*
+0.1787 Tw
+[(EUR/ \(S)19.8(erie n.∫ EUR/NA)74.7(T)170(-)0(S 0)55(1)-0.1(/49-EUR RA)19.8(C/1)15(7\) \(P)20(rocedi-)]TJ
+T*
+-0.0508 Tw
+[(mientos Suplementarios R)19.4(egionales\); 7754 \(Plan de Nave-)]TJ
+T*
+0.0155 Tw
+[(g)20(a)0(ciÛn )49.9(AÈrea\) )99.7(V)75(o)0(l. I, Basic )49.8(ANP \(S)19.8(erie n.∫: EUR/NA)74.7(T 0)54.9(1/50-)]TJ
+T*
+0.0434 Tw
+[(A)75(T)0(FM\) y )99.9(V)75(o)0(l.II, F)39.9(A)20(SID \(S)19.9(erie n.∫: EUR/NA)74.6(T)170(-)0(F 02/21 ñA)74.9(TFM\) )]TJ
+T*
+-0.015 Tw
+[(asÌ como en el Documento CFMU handbook de la Org)18.7(ani-)]TJ
+T*
+-0.0296 Tw
+[(zaciÛn Europea para la S)19.4(eguridad de la Naveg)19.5(aciÛn )50(AÈrea )]TJ
+T*
+-0.0068 Tw
+[(´Eurocontrolª)75(, de la que EspaÒa forma par)24.3(te. Estas modi-)]TJ
+T*
+0.1998 Tw
+(ficaciones contribuir·n a una circulaciÛn m·s segura y )Tj
+T*
+0.2327 Tw
+[(ordenada que g)19.6(arantice la utilizaciÛn al m·ximo de la )]TJ
+T*
+0 Tw
+(capacidad del servicio de control de tr·nsito aÈreo.)Tj
+1.7051 -1.0019 TD
+0.1468 Tw
+(Asimismo, es preciso adoptar las enmiendas que la )Tj
+-1.7051 -1.0018 TD
+0.2942 Tw
+[(citada Org)19.8(anizaciÛn de )49.7(A)40(viaciÛn Ci)-20.2(vil Internacional ha )]TJ
+0 -1.0019 TD
+0.0647 Tw
+[(introducido en los anex)14.5(os 1)54.9(0, 1)134.9(1)0( y 1)14.9(5)0( relati)-20.2(v)15(o)0(s a ´)199.9(T)115(eleco-)]TJ
+0 -1.0018 TD
+0.7047 Tw
+[(municaciones )50(Aeron·uticasª)74.3(, ´S)20(ervicios de )179.6(T)95(r·nsito )]TJ
+0 -1.0019 TD
+0.0038 Tw
+[(AÈreoª y ´S)19.7(ervicios de InformaciÛn )49.4(Aeron·uticaª respec-)]TJ
+T*
+0.1604 Tw
+[(ti)-20(vamente, asÌ como en los Documentos 4444 \(P)19.1(rocedi-)]TJ
+0 -1.0018 TD
+0.0745 Tw
+[(mientos para los S)19.6(ervicios de Naveg)19.5(aciÛn )50(AÈrea\) y 7030 )]TJ
+T*
+0.4436 Tw
+[(\(P)20(rocedimientos Suplementarios R)19.6(egionales\). En este )]TJ
+T*
+0.0295 Tw
+(sentido, las enmiendas incorporan criterios de seguridad )Tj
+T*
+0.112 Tw
+(para evitar la posibilidad de colisiÛn en las operaciones )Tj
+0 -1.0019 TD
+0.0747 Tw
+[(aÈreas \(sistema )49.6(A)20(C)0(A)20(S)-0.1(\), condiciones relati)-20.5(vas a la utiliza-)]TJ
+0 -1.0018 TD
+0.0651 Tw
+(ciÛn de las comunicaciones radiotelefÛnicas por los pro-)Tj
+T*
+0.0318 Tw
+(veedores de los servicios de tr·nsito aÈreo, y por ˙ltimo, )Tj
+T*
+0.047 Tw
+[(la actualizaciÛn de aspectos relati)-20.8(v)15(o)0(s al servicio de infor)94.6(-)]TJ
+T*
+0 Tw
+(maciÛn aeron·utica.)Tj
+1.7051 -1.0019 TD
+0.1156 Tw
+(Finalmente, como aspectos relevantes de la tramita-)Tj
+-1.7051 -1.0019 TD
+0.1469 Tw
+[(ciÛn pueden citar)-20.4(se, junto al tr·mite de audiencia a las )]TJ
+0 -1.0018 TD
+0.342 Tw
+[(entidades y asociaciones representati)-21(vas de intereses )]TJ
+0 -1.0019 TD
+0.21 Tw
+[(econÛmicos, profesionales y corporati)-20.9(v)15(o)0(s directamente )]TJ
+T*
+-0.0466 Tw
+[(afectados por el contenido de la norma, el informe fav)13.7(ora-)]TJ
+0 -1.0018 TD
+0.4537 Tw
+(ble de la ComisiÛn Interministerial entre Defensa y )Tj
+0 -1.0019 TD
+-0.0445 Tw
+[(F)20(omento \(CIDEFO\), de conformidad con lo dispuesto en el )]TJ
+0 -1.0018 TD
+0.0912 Tw
+[(R)20(e)0(al Decreto-ley 1)14.7(2/1)60(978, de 27 de abril, sobre fijaciÛn y )]TJ
+0 -1.0019 TD
+0.5482 Tw
+(delimitaciÛn de facultades entre los Ministerios de )Tj
+T*
+0.0179 Tw
+[(Defensa y de )179.7(T)95(ranspor)25(tes y Comunicaciones, y la disposi-)]TJ
+0 -1.0018 TD
+0.0683 Tw
+[(ciÛn adicional quinta de la L)9.3(ey 21/20)-40.2(03, de 7 de julio, de )]TJ
+0 -1.0019 TD
+0 Tw
+(seguridad aÈrea.)Tj
+31.3271 72.1264 TD
+0.0073 Tw
+[(En su vir)24.8(tud, a propuesta de la Ministra de F)19.1(o)0(mento y )]TJ
+-1.705 -1.0019 TD
+0.1492 Tw
+(del Ministro de Defensa, de acuerdo con el Consejo de )Tj
+0 -1.0018 TD
+0 Tw
+(Estado, dispongo:)Tj
+0 -2.174 TD
+-0.0367 Tw
+[(Ar)25(tÌculo ˙nico. )]TJ
+/F3 1 Tf
+7.8271 0 TD
+-0.0368 Tw
+[(ModificaciÛn del R)19.6(eglamento de la Circu-)]TJ
+-6.1221 -1.0019 TD
+0.1345 Tw
+[(laciÛn )49.9(AÈrea, aprobado por el R)19.6(eal Decreto 57/20)-40.4(02, )]TJ
+0 -1.0018 TD
+0 Tw
+[(de 1)15(8)0( de enero.)]TJ
+/F1 1 Tf
+0 -2.0659 TD
+0.0931 Tw
+[(El R)20(eglamento de CirculaciÛn )49.3(AÈrea aprobado por el )]TJ
+-1.705 -1.0018 TD
+0.0626 Tw
+[(R)20(e)0(al Decreto 57/20)-40.3(02, de 1)14.9(8)0( de enero, queda modificado )]TJ
+T*
+0 Tw
+(como sigue:)Tj
+1.705 -1.4281 TD
+0.2538 Tw
+[(Uno. )-468.2(S)19.8(e)0( modifican las definiciones y abreviaturas )]TJ
+-1.705 -1.0018 TD
+-0.0226 Tw
+[(que figuran en los CapÌtulos 1 y 2 del Libro P)19(rimero ´Defi-)]TJ
+T*
+0 Tw
+(niciones y abreviaturasª en los siguientes tÈrminos:)Tj
+1.705 -1.4281 TD
+0.722 Tw
+[(´1)100(.1 Definiciones:)]TJ
+T*
+0.2702 Tw
+[(DocumentaciÛn Integrada de InformaciÛn )48.9(Aeron·u-)]TJ
+-1.705 -1.0019 TD
+0.2877 Tw
+(tica. Un conjunto de documentos que comprende los )Tj
+T*
+0 Tw
+(siguientes elementos:)Tj
+1.705 -1.4281 TD
+[(las )50(AIP)209.8(, con las enmiendas cor)25(respondientes;)]TJ
+0 -1.0018 TD
+[(suplementos de la )49.5(AIP;)]TJ
+0 -1.0019 TD
+-0.0001 Tc
+[(NO)39.9(T)74.8(A)-0.1(M;)]TJ
+0 -1.0018 TD
+0 Tc
+(AIC;)Tj
+T*
+[(listas de verificaciÛn y listas de NO)40(T)74.1(A)0(M vigentes.)]TJ
+0 -1.6413 TD
+0.0001 Tw
+[(GestiÛn de )49.8(Afluencia del )179.8(T)95(r·nsito )50.1(AÈreo \(A)75(TFM\).)]TJ
+0 -1.0018 TD
+-0.0156 Tw
+[(S)20(e)0(rvicio )50.1(A)74.8(T)0(M establecido con el objeti)-20.7(v)15(o)0( de contribuir )]TJ
+-1.705 -1.0018 TD
+-0.0338 Tw
+(a una circulaciÛn segura, ordenada y expedita del tr·nsito )Tj
+T*
+0.2094 Tw
+(aÈreo, asegurando que se utiliza al m·ximo posible la )Tj
+T*
+0.0352 Tw
+[(capacidad )50(A)74.7(TC, y que el v)14.8(olumen de tr·nsito es compati-)]TJ
+T*
+0.0652 Tw
+[(ble con las capacidades declaradas por la autoridad )48.7(A)75(T)0(S )]TJ
+T*
+0 Tw
+(competente.)Tj
+1.705 -1.6412 TD
+[(GestiÛn del tr·nsito )49.5(AÈreo \(A)74.8(TM\))]TJ
+0 -1.4281 TD
+-0.0385 Tw
+[(S)20(e)0(rvicio que comprende la administraciÛn del espacio )]TJ
+-1.705 -1.0018 TD
+0.0213 Tw
+[(aÈreo, la gestiÛn de afluencia del tr·nsito aÈreo y los ser)93.6(-)]TJ
+T*
+0 Tw
+(vicios de tr·nsito aÈreo.)Tj
+1.705 -1.6412 TD
+[(P)30(o)0(siciÛn de GestiÛn de )49.5(Afluencia \(FMP\).)]TJ
+0 -1.4281 TD
+0.1695 Tw
+[(P)30(o)0(siciÛn de CoordinaciÛn en materia )49.2(A)75(T)0(FM ubicada )]TJ
+-1.705 -1.0018 TD
+0.1476 Tw
+[(en un centro de control de ·rea \(A)19.2(CC\) que act˙a como )]TJ
+T*
+0.1372 Tw
+[(nex)15(o de uniÛn entre CFMU y el )49.3(A)20(CC y sus aerÛdromos )]TJ
+T*
+0 Tw
+(asociados.ª)Tj
+1.705 -1.5688 TD
+0.672 Tw
+[(´1)100(.1 Abreviaturas: )]TJ
+ET
+335.906 269.72 m
+374.199 269.72 l
+374.699 269.72 m
+606.614 269.72 l
+374.449 337.323 m
+374.449 320.916 l
+374.699 337.073 m
+374.199 337.073 l
+374.449 320.416 m
+374.449 269.47 l
+374.699 269.72 m
+374.199 269.72 l
+335.906 337.073 m
+374.199 337.073 l
+374.699 337.073 m
+606.614 337.073 l
+335.906 320.666 m
+606.614 320.666 l
+S
+BT
+7 0 0 7 344.371 326.335 Tm
+0 Tw
+[(Abrev)60(.)-15178.9(Signi)]TJ
+20.9815 0 TD
+0.0275 Tw
+[( cado)]TJ
+-19.7337 -1.5696 TD
+19.0941 Tc
+0 Tw
+(  )Tj
+10 0 0 10 339.97 305.358 Tm
+0 Tc
+[(A)75(T)0(FM)-973.4(GestiÛn de afluencia del )179.4(T)95(r·nsito )50(AÈreo.)]TJ
+0.278 -0.9989 TD
+[(A)75(T)0(M)-1251.5(GestiÛn del )179.7(T)95(r·nsito )50(AÈreo.)]TJ
+-0.3715 -0.999 TD
+[(CFMU)-880(Unidad Central de GestiÛn de )49.2(Afluencia.)]TJ
+0.417 -0.9989 TD
+[(FMP)-1297(P)30(osiciÛn de GestiÛn de )49.5(Afluencia.ª)]TJ
+0.9751 -2.4498 TD
+( )Tj
+0 0 TD
+0.5488 Tw
+[(Dos. )-173.2(S)19.9(e)0( modifica el apar)24.6(tado 2.3.2.2 del Libro )]TJ
+-1.705 -1.0345 TD
+0.0017 Tw
+[(S)20(egundo ´R)19.8(eglamento del aireª)74.5(, que queda redactado en )]TJ
+T*
+0 Tw
+(los siguientes tÈrminos:)Tj
+1.705 -1.4608 TD
+[(´2.3.2.2 )-722(Derec)49.6(ho de paso.)]TJ
+T*
+-0.002 Tw
+[(La aeronave que teng)19.5(a el derec)49.7(ho de paso mantendr· )]TJ
+-1.705 -1.0345 TD
+0.0689 Tw
+(su rumbo y velocidad, pero ninguna de estas reglas exi-)Tj
+T*
+0.0177 Tw
+[(mir· al piloto al mando de ella de la oblig)19(aciÛn de proce-)]TJ
+T*
+-0.0194 Tw
+(der en la forma m·s eficaz para evitar una colisiÛn, lo que )Tj
+T*
+0.1201 Tw
+(incluye llevar a cabo las maniobras anticolisiÛn necesa-)Tj
+T*
+0.0728 Tw
+(rias bas·ndose en los avisos de resoluciÛn proporciona-)Tj
+T*
+0 Tw
+[(dos por el equipo )49.6(A)20(C)0(A)20(S)-0.1(.)]TJ
+1.705 -1.6739 TD
+0.0005 Tw
+[(Nota: El uso de las indicaciones del )49(A)20(C)0(A)20(S)-0.1( vienen des-)]TJ
+-1.705 -1.0345 TD
+0 Tw
+[(critos en los apar)24.6(tados 2.3.2.2.8 y siguientes.)]TJ
+1.705 -1.4608 TD
+0.722 Tw
+[(2.3.2.2.8 P)19.7(rocedimientos )772(A)19.6(C)0(A)20(S)0(.)]TJ
+0 -1.6014 TD
+0.0736 Tw
+[(2.3.2.2.8.1 )-648.4(L)9.7(os pilotos utilizar·n las indicaciones del )]TJ
+-1.705 -1.0345 TD
+0.1519 Tw
+[(A)20(C)0(A)20(S)0( en la evitaciÛn de posibles colisiones, el mejora-)]TJ
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ModDate (D:20060904225835+02'00')
+/CreationDate (D:20060904225835+02'00')
+/Producer (Acrobat Distiller 5.0.5 \(Windows\))
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/FirstChar 30
+/LastChar 252
+/Widths [ 611 0 278 0 0 0 0 889 0 0 333 333 556 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 0 584 0 500 0 722 667 667 722 611 556 778 722 278 556 667 556 944 778 778 611 778 667 667 611 778 667 1000 722 667 611 333 0 333 0 0 0 556 611 500 611 556 333 611 611 278 278 500 278 944 611 611 611 611 389 500 333 611 556 833 556 556 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 556 556 0 500 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 334 556 0 333 0 0 0 0 0 0 0 0 0 0 0 0 367 556 0 0 0 500 0 722 0 0 0 0 0 0 0 611 0 0 0 278 0 0 0 0 0 778 0 0 0 0 0 0 778 0 0 0 0 0 0 556 0 0 0 0 0 0 0 556 0 0 0 278 0 0 0 611 0 611 0 0 0 0 0 0 611 0 611]
+/Encoding 9 0 R
+/BaseFont /KOGFDG#2BUniversLTStd
+/FontDescriptor 10 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/FirstChar 32
+/LastChar 250
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 278 333 278 0 556 556 0 0 556 556 556 556 556 0 0 0 0 0 0 0 0 722 667 667 722 611 556 778 0 0 0 0 0 0 778 778 611 0 0 0 0 0 722 0 722 0 0 0 0 0 0 0 0 556 611 500 611 556 333 611 611 278 278 0 278 944 611 611 611 611 389 500 389 611 556 0 0 556 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 611 0 0 0 0 0 0 611]
+/Encoding /WinAnsiEncoding
+/BaseFont /KOGFDH#2BUniversLTStd-Bold
+/FontDescriptor 11 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/FirstChar 32
+/LastChar 243
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 722 0 667 722 611 0 778 0 0 556 0 556 944 778 778 611 0 667 0 611 778 0 0 0 0 0 0 0 0 0 0 0 556 611 500 611 556 333 611 611 278 0 0 278 944 611 611 611 611 389 500 333 611 556 0 556 556 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 556 0 0 0 278 0 0 0 0 0 611]
+/Encoding /WinAnsiEncoding
+/BaseFont /KOGFDI#2BUniversLTStd-Obl
+/FontDescriptor 12 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+8 0 obj
+<<
+/Type /ExtGState
+/SA true
+/SM 0.02
+/TR2 /Default
+>>
+endobj
+9 0 obj
+<<
+/Type /Encoding
+/BaseEncoding /WinAnsiEncoding
+/Differences [ 19/Lslash/lslash/minus/fraction/breve/caron/dotlessi/dotaccent/hungarumlaut/ogonek/ring/fi/fl]
+>>
+endobj
+10 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 712
+/CapHeight 712
+/Descent -232
+/Flags 32
+/FontBBox [ -168 -250 992 947]
+/FontName /KOGFDG#2BUniversLTStd
+/ItalicAngle 0
+/StemV 100
+/XHeight 472
+/StemH 86
+/CharSet (/B/O/E/space/n/uacute/m/period/two/one/M/a/r/t/e/s/five/p/i/b/zero/six/three/seven/I/D/o/c/g/l/N/S/T/R/L/A/P/C/four/eight/slash/comma/d/v/q/u/G/oacute/y/x/aacute/f/V/h/iacute/nine/z/eacute/hyphen/j/ntilde/parenright/guillemotleft/guillemotright/F/colon/U/ordmasculine/k/semicolon/Q/X/parenleft/J/Iacute/Aacute/Z/endash/fi/udieresis/H/asterisk/Oacute/Y/bracketleft/bracketright/W/Eacute/quotedblleft/quotedblright/w/K/Uacute/questiondown/question/plus/percent/quoteright/equal/ordfeminine)
+/FontFile3 13 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 712
+/CapHeight 0
+/Descent -232
+/Flags 262176
+/FontBBox [ -167 -250 995 938]
+/FontName /KOGFDH#2BUniversLTStd-Bold
+/ItalicAngle 0
+/StemV 155
+/StemH 120
+/CharSet (/space/one/five/four/zero/six/A/r/t/iacute/c/u/l/o/uacute/n/i/period/P/g/a/m/d/v/e/s/b/hyphen/oacute/h/p/aacute/z/comma/q/f/D/seven/eight/N/E/X/O/y/F/G/C/B/j/V)
+/FontFile3 14 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 712
+/CapHeight 712
+/Descent -232
+/Flags 96
+/FontBBox [ -174 -272 1145 947]
+/FontName /KOGFDI#2BUniversLTStd-Obl
+/ItalicAngle -12
+/StemV 100
+/XHeight 472
+/StemH 86
+/CharSet (/R/E/A/L/space/D/C/T/O/nine/six/five/slash/two/zero/comma/d/e/one/s/p/t/i/m/b/r/o/l/q/u/f/c/a/g/n/G/oacute/four/eight/three/v/period/M/U/h/z/hyphen/y/iacute/x/aacute/N/P/seven/eacute/J)
+/FontFile3 15 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter /FlateDecode
+/Length 6590
+/Subtype /Type1C
+>>
+stream
+HâTUmTWæ√d&ëè

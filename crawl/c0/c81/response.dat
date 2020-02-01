@@ -1,0 +1,148 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:09 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:23 GMT
+ETag: "2002-493fc70f52bc0"
+Accept-Ranges: bytes
+Content-Length: 8194
+Content-Range: bytes 0-8193/8194
+Keep-Alive: timeout=3, max=84
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_stick.gif" alt="" name="Cabecera_menu" width="254" height="120" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="207" id="navigation">
+      <tr>
+        <td width="207"><img src="images/logos_cabeceras/tit_stick.gif" alt="" name="Titulo_menu" width="150" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_bernouilli.html" class="navText">Olvida a Bernouilli </a></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_perdida.html" class="navText">&iquest;Por qu&eacute; entramos en p&eacute;rdida? </a></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_barrena.html" class="navText">La barrena </a></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_sustentacion.html" class="navText">Sustentaci&oacute;n y flotabilidad </a></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_colchon.html" class="navText">Tanteando el colch&oacute;n </a></td>
+      </tr>
+      <tr>
+        <td><a href="stickandrudder_aterrizaje.html" class="navText">El aterrizaje </a></td>
+      </tr>
+      <tr>
+        <td><a href="pilotaje_tecnica.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="681" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="4" class="pageName"><div align="left" class="pageName">STICK AND RUDDER </div></td>
+          </tr>
+          <tr>
+            <td height="12" colspan="4"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="117" height="166" class="bodyText"><p align="center"><img src="images/ilustraciones/stickrudderlogo.jpg" width="100" height="151" /></p></td>
+            <td width="23" class="bodyText">&nbsp;</td>
+            <td width="201" class="bodyText"><div align="justify">Cuando W.Langewiesche, piloto profesional americano,   public&oacute; en 1944 una recopilaci&oacute;n de art&iacute;culos sobre t&eacute;cnicas de pilotaje,   seguramente no imaginaba que el libro acabar&iacute;a convirti&eacute;ndose en un cl&aacute;sico   sobre las bases del pilotaje.</div></td>
+            <td width="3" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="405" colspan="4" class="bodyText"><p align="justify">Editado por Mc Graw Hill, el libro se ha reimpreso   ininterrumpidamente durante estos 60 a&ntilde;os, se renov&oacute; en 1972, y todav&iacute;a es   posible encontrarlo sin demasiados problemas en la librer&iacute;as de la red. Se ha   convertido en el libro de cabecera de todos los pilotos deportivos de habla   inglesa, y desgraciadamente, no se ha editado en castellano.</p>
+              <p align="justify">Para suplir esa carencia, el autor de este comentario ha traducido   algunas partes con la esperanza de hacerlo completamente en la medida del tiempo   disponible. De las secciones ya traducidas, se publican en esta web algunos   trozos interesantes y representativos que pueden dar idea al lector de la forma   en que el libro est&aacute; escrito y de su enorme valor pedag&oacute;gico. </p>
+            <p align="justify"><em>Stick and Rudder</em> explica qu&eacute; es lo que hay que hacer en una cabina de mando, cu&aacute;ndo hay que hacerlo y por qu&eacute;. Se han publicado muchos manuales de vuelo desde 1944, pero Stick and Rudder sigue siendo la referencia para pilotos e instructores.</p></td>
+          </tr>
+          
+          <tr>
+            <td height="13" colspan="4"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td colspan="4" class="bodyText"><p align="justify">&nbsp;</p>              </td>
+          </tr>
+        </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify">&nbsp;</p>
+		  <p align="justify"><span class="subHeader">WOLFGANG LANGEWIESCHE (1907-2002) </span><br />
+		    Wolfgang Langewiesche naci&oacute; en D&uuml;sseldorf en 1907 y emigr&oacute; a Estados Unidos en 1929, despu&eacute;s de estudiar en la London School of Economics. Curs&oacute; en la Universidad de Columbia un m&aacute;ster en econom&iacute;a y trabaj&oacute; en la Universidad de Chicago como doctorante y ayudante de investigaci&oacute;n en Ciencia Pol&iacute;tica. En esa &eacute;poca decide hacerse piloto y dedicarse a la Aviaci&oacute;n. Escribi&oacute; para numerosas revistas aeron&aacute;uticas, fue instructor de vuelo durante la Segunda Guerra Mundial y despu&eacute;s de la Guerra trabaj&oacute; como piloto de pruebas para Cessna y Vought Corporation. En los a&ntilde;os 50 se convirti&oacute; en editor de la revista &quot;Reader's Digest&quot;, retir&aacute;ndose en 1986. Wolfgang Langewiesche falleci&oacute; en 2002. </p>
+		  <p align="justify">&nbsp; </p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

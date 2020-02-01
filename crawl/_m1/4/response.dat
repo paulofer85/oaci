@@ -1,0 +1,109 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:23 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:17 GMT
+ETag: "21ca-49401983f3540"
+Accept-Ranges: bytes
+Content-Length: 8650
+Content-Range: bytes 0-8649/8650
+Keep-Alive: timeout=3, max=36
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Home Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style2 {font-size: 16}
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style>
+</head>
+<body>
+<table width="678" height="889" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  
+
+ <tr>
+    <td width="69" height="889" valign="top" bgcolor="#E9E9E9"> <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+            <p align="center" class="T&iacute;tuloTexto">ASOCIACIONES</p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="802" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+            
+            
+            <tr>
+              <td valign="top" bordercolorlight="#808080" width="682" bgcolor="#E9E9E9" bordercolordark="#ffffff" height="800">                <div align="left"></div>
+                <p align="left" class="T&iacute;tuloTexto">&nbsp;</p>
+                <p align="left" class="T&iacute;tuloTexto"><a href="http://www.aopa.org/"><strong>AOPA Online</strong></a> </p>
+                <p align="left" class="bodyText">Aircraft Owners and Pilot Association, la   asociaci&oacute;n americana de propietarios de aeronaves y pilotos. </p>
+                <p align="left" class="T&iacute;tuloTexto"><a href="http://www.aepul.aero/">AEPAL</a></p>
+                <p align="left" class="bodyText">La Asociaci&oacute;n Espa&ntilde;ola de Pilotos de Aeronaves Ligeras. Una de las m&aacute;s din&aacute;micas del pa&iacute;s, que estren&oacute; nueva web en 2008. </p>
+                <p align="left"><strong><a href="http://www.eaa.org/" class="T&iacute;tuloTexto">EAA</a></strong> </p>
+                    <p align="left" class="bodyText">Experimental Aircraft Association. La asociaci&oacute;n   americana de Aviaci&oacute;n Experimental. La asociaci&oacute;n m&aacute;s poderosa a nivel mundial   de construcci&oacute;n amateur. </p>
+                    <p align="left"><strong><a href="http://www.bellanca-championclub.com/index.html" class="T&iacute;tuloTexto">Bellanca Champion   Club</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n de pilotos y entusiastas de los   aviones Bellanca. </p>
+                    <p align="left"><strong><a href="http://www.copanational.org/non-members/index.htm" class="T&iacute;tuloTexto">COPA</a></strong> </p>
+                    <p align="left" class="bodyText">La AOPA canadiense. </p>
+                    <p align="left"><strong><a href="http://www.cessnaflyer.org/" class="T&iacute;tuloTexto">Cessna   Flyer Association</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n americana de pilotos y propietarios de   aviones Cessna. </p>
+                    <p align="left"><strong><a href="http://www.australianwarbirds.com.au/" class="T&iacute;tuloTexto">Australian Warbirds   Association</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n australiana para la preservaci&oacute;n de   aviones militares hist&oacute;ricos. </p>
+                    <p align="left"><strong><a href="http://www.pilotage.com/index.html" class="T&iacute;tuloTexto">Pilotage</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n de pilotos del sur de   California. </p>
+                    <p align="left"><strong><a href="http://www.piperflyer.org/" class="T&iacute;tuloTexto">Piper Flyer   Association</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n americana de pilotos y propietarios de   Piper. </p>
+                    <p align="left"><strong><a href="http://www.cfiamerica.com/id28.html" class="T&iacute;tuloTexto">Club Fournier   International</a></strong> </p>
+                    <p align="left" class="bodyText">Agrupaci&oacute;n de clubes internacionales que agrupan   a los pilotos y propietarios de aviones Fournier. </p>
+                    <p align="left"><strong><a href="http://www.vansairforce.net/" class="T&iacute;tuloTexto">Van's Air   Force</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n de constructores y pilotos de aviones   Van's. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.nzwarbirds.org.nz/"><strong>Warbirds Association   New Zealand</strong></a> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n neozelandesa para la preservaci&oacute;n de   aviones militares hist&oacute;ricos. </p>
+                    <p align="left"><strong><a href="http://www.asociacionaviacionexperimental.com/" class="T&iacute;tuloTexto">Asociaci&oacute;n de Aviaci&oacute;n   Experimental</a></strong> </p>
+                    <p align="left" class="bodyText">Asociaci&oacute;n espa&ntilde;ola de construcci&oacute;n   amateur. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.aopa-spain.org/"><strong>AOPA Spain</strong></a> </p>
+                    <p align="left" class="bodyText">La secci&oacute;n espa&ntilde;ola de AOPA. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.fio.es/"><strong>Fundaci&oacute;n Infante de   Orleans</strong></a> </p>
+                    <p align="left" class="bodyText">Fundaci&oacute;n para la preservaci&oacute;n de aviones   hist&oacute;ricos en vuelo. El primer domingo de cada mes sacan a volar sus p&aacute;jaros en   Cuatro Vientos. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.fpac.org/"><strong>Fundaci&oacute; Parc Aeron&agrave;utic de   Catalunya</strong></a> </p>
+                    <p align="left" class="bodyText">Fundaci&oacute;n catalana para la preservaci&oacute;n de   aviones hist&oacute;ricos. </p>
+                    <p align="left"><strong><a href="http://www.funaereacv.es/inicio.htm" class="T&iacute;tuloTexto">Fundaci&oacute;n A&eacute;rea de la Comunidad   Valenciana</a></strong> </p>
+                    <p align="left" class="bodyText">Dedicada a la difusi&oacute;n del deporte a&eacute;reo en la   Comunidad de Valencia </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.fag.es/"><strong>Fundaci&oacute;n Aeron&aacute;utica   Guadalquivir</strong></a> </p>
+                    <p align="left" class="bodyText">Dedicada a la preservaci&oacute;n del patrimonio   aeron&aacute;utico andaluz. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.fundacionelizalde.org/"><strong>Fundaci&oacute;n   Elizalde</strong></a> </p>
+                    <p align="left" class="bodyText">Dedicada a conservar y difundir la historia de la   industria Elizalde de Barcelona, uno de los pocos constructores espa&ntilde;oles de   motores de aviaci&oacute;n. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.adar.es/">Asociaci&oacute;n de Aviadores de la Rep&uacute;blica </a></p>
+                    <p align="left" class="bodyText">En recuerdo de los aviadores republicanos durante la Guerra Civil Espa&ntilde;ola.  Al margen de ideolog&iacute;as pol&iacute;ticas, un trabajo digno e interesante. </p>
+                    <p align="left" class="T&iacute;tuloTexto"><a href="http://www.alassolidarias.org/">Alas Solidarias Pilots </a></p>
+                    <p align="left" class="bodyText">ONG espa&ntilde;ola de car&aacute;cter humanitario que pretende ayudar a los desfavorecidos mediante vuelos privados y con la colaboraci&oacute;n de personal de vuelo voluntario. Una iniciativa nueva y muy interesante. </p>
+                    <p align="center"><img src="images/piezas/pie_relato.gif" width="500" height="30" /></p>
+                </td></tr>
+            
+            
+            
+          </table>          </td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

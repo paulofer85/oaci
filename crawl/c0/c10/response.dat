@@ -1,0 +1,34 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:21 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:18 GMT
+ETag: "490-49401984e7780"
+Accept-Ranges: bytes
+Content-Length: 1168
+Content-Range: bytes 0-1167/1168
+Keep-Alive: timeout=3, max=22
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Enlaces</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="1280" height="121" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="400" height="120" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><a href="enlaces_frame_contenido.html" target="contenido"><img src="images/logos_cabeceras/cabecera_enlaces.gif" width="300" height="120" border="0" /></a></td>
+    <td width="400" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><a href="index.html" target="_parent"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" border="0" /></a></td>
+    <td width="480" bordercolor="#FFFFFF" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="1" colspan="3" bordercolor="#FFFFFF" bgcolor="#FFFFFF"><img src="images/piezas/bordemorado_largoframe.gif" width="1280" height="6" /></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,93 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:11 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 17:47:58 GMT
+ETag: "9fe-49401689f6f80"
+Accept-Ranges: bytes
+Content-Length: 2558
+Content-Range: bytes 0-2557/2558
+Keep-Alive: timeout=3, max=15
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #666666;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="200" border="0" align="center" cellpadding="0" cellspacing="0" id="navigation">
+  <tr>
+    <td width="288">&nbsp;<img src="images/logos_cabeceras/tit_meteo.png" width="140" height="30" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#666666" height="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="288" height="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="150" bgcolor="#E0DFE3" class="Letrapieblanca"><div align="center">
+      <form action="http://meteocentre.com/cgi-bin/get_sao_stn" method="get" name="METHIST" target="contenido" class="bodyText" id="METHIST">
+        <table width="180" height="120" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="97">Indicador OACI </td>
+            <td width="83"><label>
+              <input name="STN" type="text" class="bodyText" id="STN" size="4" maxlength="4" />
+            </label></td>
+          </tr>
+          <tr>
+            <td>Tipo hist&oacute;rico </td>
+            <td><label>
+              <select name="DELT" id="DELT">
+                <option value="6">6 HR</option>
+                <option value="12">12 HR</option>
+                <option value="24">24 HR</option>
+              </select>
+            </label></td>
+          </tr>
+          <tr>
+            <td colspan="2"><div align="center">
+              <label>
+              <input name="Enviar" type="submit" class="bodyText" id="Enviar" value="Enviar" />
+              </label>
+            </div></td>
+            </tr>
+        </table>
+        </form>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="2" class="Letrapieblanca"><div align="left"></div></td>
+  </tr>
+  <tr>
+    <td height="3" class="Letrapieblanca">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="5" class="Letrapieblanca"><div align="center"><a href="meteo_frame_menu.html" target="menu">Volver</a> </div></td>
+  </tr>
+  
+  <tr>
+    <td width="288" height="14">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="288" height="14" bgcolor="#666666">      <div align="left"></div>
+    <div align="justify"></div></td></tr>
+  
+  <tr>
+    <td><div align="left"></div></td>
+  </tr>
+</table>
+</body>
+</html>

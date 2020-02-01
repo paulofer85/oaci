@@ -1,0 +1,149 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:52 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:47:00 GMT
+ETag: "6878-493fc5db49500"
+Accept-Ranges: bytes
+Content-Length: 26744
+Content-Range: bytes 0-26743/26744
+Keep-Alive: timeout=3, max=98
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Dornier Do X</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style7 {	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #003366;
+	font-weight: bold;
+	font-style: italic;
+}
+-->
+</style>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="maquinas.html"><img src="images/logos_cabeceras/cabecera_dox.jpg" alt="" name="Imagen_Cabecera" width="261" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">
+        <p align="center" class="T&iacute;tuloTexto">DORNIER   Do X </p>
+        <p align="center"><span class="pageName"><em><strong>&nbsp;</strong></em></span>LO QUE FUE Y LO QUE PUDO HABER SIDO</p>
+      </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"><span class="navText"><em><strong>por </strong></em></span><span class="style7"><a href="http://www.air-boyne.com/" class="subHeader">Walter J. Boyne</a></span><span class="navText"><em><strong> (art&iacute;culo original   publicado en ingl&eacute;s en el n&uacute;mero de Marzo de 2005 de <a href="http://www.flightjournal.com/ME2/Default.asp">Flight   Journal)</a></strong></em></span></p>
+      <p align="justify" class="bodyText">El nombre de Dornier, uno   de los m&aacute;s conocidos de la Historia de la Aviaci&oacute;n, honr&oacute; a una serie de   compa&ntilde;&iacute;as y aviones desde 1912 hasta 2002. Durante esos 80 a&ntilde;os, docenas de   brillantes dise&ntilde;os Dornier aparecieron, incluyendo hidroaviones bate-r&eacute;cords,   aviones militares para la Luftwaffe y, m&aacute;s recientemente, veloces turboh&eacute;lices y   aviones de l&iacute;nea. Pero todav&iacute;a al Dr. Claudius Dornier se le asocia muchas veces   con el Do X, un hidroavi&oacute;n gigante que fue el avi&oacute;n m&aacute;s grande del mundo en la   &eacute;poca en la que vol&oacute;. Desgraciadamente, a pesar de nueve a&ntilde;os de esfuerzos y de   la inmensa promoci&oacute;n acentuadamente nacionalista que le rode&oacute;, el Do X fue   t&eacute;cnicamente un fracaso total. </p>
+      <p align="justify" class="bodyText">Ir&oacute;nicamente, el Do X de   doce motores podr&iacute;a haber sido el mayor &eacute;xito de Dornier. En &eacute;l, el ingeniero   estaba dispuesto a probar nuevas combinaciones de propulsi&oacute;n, de la misma forma   que iba a apostar por un tama&ntilde;o nunca visto de aeronave. Por el contrario,   insist&iacute;a: &ldquo;Debemos evitar toda experimentaci&oacute;n&rdquo;, por lo visto, para no   comprometer el &eacute;xito potencial del avi&oacute;n gigante con modernas t&eacute;cnicas nunca   experimentadas. Desafortunadamente, esa aproximaci&oacute;n corta de miras llev&oacute; al   Do X al fracaso.</p>
+      <p align="center"><img height="270" src="images/ilustraciones/dornier01.jpg" width="400" border="1" /></p>
+      <p align="center" class="smallText">Claude   Dornier </p>
+      <p align="justify" class="bodyText">Nacido en Kempten,   Alemania, el 14 de mayo de 1884, Dornier no s&oacute;lo fue un gran dise&ntilde;ador y   emprendedor, sino tambi&eacute;n un acad&eacute;mico. Menos obvias, pero igual de importantes,   fueron sus cualidades de astuto pol&iacute;tico que no s&oacute;lo le permitieron sobrevivir,   sino tambi&eacute;n prosperar, a pesar de las privaciones de la derrota de Alemania en   la I&ordf; Guerra Mundial, las restricciones del Tratado de Versailles, la   depredadora mala gesti&oacute;n de la era Nazi, y la segunda derrota alemana en   1945. </p>
+      <p align="justify" class="bodyText">Dornier se gradu&oacute; con   distinciones en el Technische Hochschule de Munich en 1910, y fue captado por la   compa&ntilde;&iacute;a Zeppelin, donde su experiencia con estructuras met&aacute;licas era muy   valiosa para la construcci&oacute;n de aeronaves. Impresionado por el joven, y deseando   construir aviones e hidroaviones gigantes, el Conde von Zeppelin autoriz&oacute; el uso   exclusivo de Dornier de unas instalaciones en Seemos, en el Lago Constanza   (Bodensee). Alli, en 1915, s&oacute;lo 12 a&ntilde;os despu&eacute;s del primer vuelo de los hermanos   Wright, Dornier construy&oacute; el Zeppelin-Lindau Rs-1, un hidroavi&oacute;n de estructura   met&aacute;lica, de 43 metros de envergadura, trimotor, que pesaba 10.400 Kg.   Desgraciadamente, fue destru&iacute;do antes de que pudiera volar. Dornier complet&oacute;   tres hidros gigantes m&aacute;s antes del final de la guerra. Ninguno lleg&oacute; a ser un   avi&oacute;n de combate importante, pero cada uno de ellos le acercaba m&aacute;s a su f&oacute;rmula   cl&aacute;sica de avi&oacute;n completamente met&aacute;lico, aerodin&aacute;mico, con el casco en dos   niveles, aletas estabilizadoras Dornier-Stummel, monoplano de ala gigante, y   motores en t&aacute;ndem instalados sobre un pil&oacute;n. </p>
+      <p align="justify" class="bodyText">Dornier tambi&eacute;n construy&oacute;   cazas avanzados y aviones de observaci&oacute;n durante la I&ordf; Guerra Mundial. Estos   modelos fueron los primeros en emplear recubrimientos tensados completamente   met&aacute;licos utilizando duraluminio, procedimiento que se convirti&oacute; en una marca   registrada de Dornier. Entre los ingenieros formados por Dornier en sus m&eacute;todos   avanzados de construcci&oacute;n completamente met&aacute;lica, se incluy&oacute; el Dr. Alfred   Rohrbach, quien m&aacute;s tarde dise&ntilde;ar&iacute;a el transporte Staaken E.4/20, un avi&oacute;n   revolucionario, completamente met&aacute;lico y de cuatro motores. </p>
+      <p align="justify" class="bodyText">Como el Tratado de   Versailles imped&iacute;a a Alemania construir aviones grandes, Dornier traslad&oacute; sus   operaciones a Manzell, Suiza, en 1919. All&iacute; dise&ntilde;&oacute; el famoso Do J Wal (Ballena)   que vol&oacute; por primera vez el 12 de noviembre de 1922. Las restricciones del   Tratado obligaron a Dornier a fundar una compa&ntilde;&iacute;a, la &ldquo;Societ&eacute; di Construzionia   Meccaniche di Pisa&rdquo;, para producir aviones en Italia. El Wal tuvo tanto &eacute;xito   que fue constru&iacute;do tambi&eacute;n en Jap&oacute;n, Holanda, Espa&ntilde;a y Suiza, antes de que la   producci&oacute;n finalizara en Friedrichshafen en 1933. Los Wal bimotor batieron   varios r&eacute;cords y fueron usados por exploradores de varios pa&iacute;ses. En 1926, le   sigui&oacute; el Super Wal, que pod&iacute;a ser equipado con 2 &oacute; 4 motores, y que estableci&oacute;   una franquicia de hidroaviones Dornier que floreci&oacute; durante d&eacute;cadas.</p>
+      <p align="center"><img src="images/ilustraciones/Wal.jpg" width="500" height="185" border="1" /></p>
+      <p align="center" class="smallText">Dornier Wal, el hidro m&aacute;s exitoso de Dornier, con 320 constru&iacute;dos </p>
+      <p align="justify" class="bodyText">Los aviones de transporte   terrestres de Dornier incluyeron las series Komet y Mercur, que tuvieron &eacute;xito,   pero ninguno tanto con el Wal, del que se construyeron 320 unidades. Todos   ellos, sin embargo, aseguraron el &eacute;xito comercial de Dornier, por lo que decidi&oacute;   subir el list&oacute;n con su gigantesco Do X y comenz&oacute; los trabajos de dise&ntilde;o en 1924.   A causa de las restricciones del Tratado, el avi&oacute;n se construy&oacute; en la orilla   opuesta del Lago Constanza, en Alternhein, Suiza. Su emplearon m&aacute;s de 240.000   horas/hombre en los siguientes 5 a&ntilde;os, y se construy&oacute; una maqueta de madera a   tama&ntilde;o natural. </p>
+      <p align="justify" class="bodyText">En alg&uacute;n punto del proceso,   el Dr. Dornier perdi&oacute; el control del proyecto en t&eacute;rminos de peso y resistencia   aerodin&aacute;mica. Aunque instru&iacute;do en las t&eacute;cnicas de Zeppelin de construcci&oacute;n de   estructuras ligeras, y usando su famosa combinaci&oacute;n de acero y duraluminio,   Dornier pareci&oacute; ofuscarse con un estilo Art Dec&oacute; n&aacute;utico. Ve&iacute;a el Do X no tanto   como un hidroavi&oacute;n, sino como un barco volante (Flugschiffe). El proyecto se   torn&oacute; excesivamente complejo, as&iacute; como demasiado ornamentado. Desgraciadamente,   conforme su peso y resistencia crec&iacute;an, la potencia prevista disponible   disminu&iacute;a.</p>
+      <p align="justify" class="bodyText">Tal y como se complet&oacute;, el   Do X ten&iacute;a tres niveles. El superior estaba dividido en cinco compartimentos   para la tripulaci&oacute;n: pilotos, comandante, navegantes, operador de radio e   ingenieros. La segunda cubierta estaba profusamente equipada para los pasajeros,   su equipaje y (de forma muy optimista), para la carga. Recordando a los anuncios   del actual Airbus A-380, el Do X equipaba dormitorios, sala de fumadores, bar,   salas de escritura, cuartos de ba&ntilde;o, una cocina, y un enorme y elegante   sal&oacute;n-comedor. La tercera cubierta se usaba para almacenar combustible, aceite y   equipo.</p>
+      <p align="center"><img height="427" src="images/ilustraciones/DoXtaller.jpg" width="283" border="1" /></p>
+      <p align="center" class="smallText">El Do X en   construcci&oacute;n: &iquest;barco o avi&oacute;n? </p>
+      <p align="justify" class="bodyText">Con una envergadura de   47,85 metros y una superficie alar aproximadamente de 465 metros cuadrados,   Dornier consigui&oacute; su objetivo de construir el avi&oacute;n m&aacute;s grande del mundo.   Desgraciadamente, con 32.500 Kg en vacio, era tambi&eacute;n el m&aacute;s pesado. Dornier   esperaba adquirir 12 motores Curtiss Conqueror refrigerados por l&iacute;quido y de 640   HP para equiparlo, pero esas plantas motrices no estuvieron disponibles   inicialmente. En cambio, se instalaron 12 motores radiales Siemens-Halske de 525   HP, la versi&oacute;n constru&iacute;da bajo licencia del Bristol J&uacute;piter. De esta forma,   desde el principio ten&iacute;a s&oacute;lo un total de 6.300 HP disponibles, en vez de los   (a&uacute;n insuficientes) 7.680 HP que se hab&iacute;an previsto emplear.</p>
+      <p align="center"><img height="330" src="images/ilustraciones/Doxsiemens.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">Instalaci&oacute;n de   los motores Siemens-Halske de 525 CV</p>
+      <p align="justify" class="bodyText">Richard Wagner fue el   piloto del primer vuelo del avi&oacute;n, que despeg&oacute; del Lago Constanza el 12 de julio   de 1929. Como todos los pilotos de pruebas suelen hacer, describi&oacute; el vuelo en   t&eacute;rminos entusiastas, pero m&aacute;s tarde comentar&iacute;a los efectos adversos sobre las   prestaciones que provocaba operar desde el Lago Constanza. La altura de 1.300   pies del lago disminu&iacute;a la potencia de los motores un total de 240 HP. El Do X   tambi&eacute;n desplazaba un 2% m&aacute;s de agua dulce que navegando en agua salada, y eso   incrementaba la resistencia durante el despegue.</p>
+      <p align="justify" class="bodyText">Si las capacidades de   Dornier para controlar el peso hab&iacute;an flaqueado, sus habilidades promocionales   estaban en forma, y al avi&oacute;n se le dio una cobertura total por parte de los   medios de comunicaci&oacute;n. El 4 de septiembre de 1929, el Do X realiz&oacute; un vuelo de   exhibici&oacute;n para celebrar el regreso de su rival, el Graf Zeppelin, de su famoso   vuelo alrededor del mundo. Tres oficiales navales americanos que iban a bordo   del Graf Zeppelin fueron invitados a volar en el Do X junto con otros 57   pasajeros. Todos quedaron impresionados por el lujoso equipamiento y la   comodidad de los asientos. El Teniente Comodoro James M. Shoemaker (m&aacute;s tarde   capit&aacute;n del USS Franklin durante la II&ordf; GM), declar&oacute; que el avi&oacute;n &ldquo;era un salto   tecnol&oacute;gico&rdquo; y fue entusiasta con su aparente facilidad de manejo.</p>
+      <p align="center"><img src="images/ilustraciones/DoX1.jpg" width="500" height="205" border="1" /></p>
+      <p align="center" class="smallText">El Do X en   vuelo equipado con los motores Curtiss</p>
+      <p align="justify" class="bodyText">Shoemaker observ&oacute; que no se   empleaba ning&uacute;n servo u otro medio mec&aacute;nico para mover las enormes superficies   de control. En su lugar, se usaba el t&iacute;pico sistema de equilibrado ajustable de   Dornier en cada superficie de control. &Eacute;ste era efectivo, pero causaba un   notable aumento de la resistencia inducida. Observ&oacute; que el piloto ten&iacute;a s&oacute;lo dos   mandos de gases: uno para los motores de cada lado del avi&oacute;n. Las barras de   control de los aceleradores estaban enrutadas hacia atr&aacute;s a trav&eacute;s del   compartimento de navegaci&oacute;n hasta la sala de m&aacute;quinas, donde los motores se   controlaban individualmente por los ingenieros. </p>
+      <p align="justify" class="bodyText">La instalaci&oacute;n de los   motores era compleja. Seis motores tractores y seis empujadores se montaron en   t&aacute;ndems de dos sobre un sistema de soportes con forma de ala. Los motores n&uacute;mero   dos, cuatro y seis, se escalonaron ligeramente hacia atr&aacute;s para disminuir las   interferencias de las h&eacute;lices. Los motores traseros de los t&aacute;ndems tend&iacute;an a   sobrecalentarse. Cuatro ingenieros cuidaban de los motores. Dos estaban   emplazados en la sala de m&aacute;quinas, y dos divid&iacute;an su atenci&oacute;n entre los dos   grupos de seis motores. El grosor de las alas del Do X permit&iacute;a la existencia de   pasadizos a trav&eacute;s de los cuales los ingenieros pod&iacute;an alcanzar unas escotillas   que les permit&iacute;an acceder a los motores en vuelo.</p>
+      <p align="center"><img height="394" src="images/ilustraciones/DoXinstalacion.jpg" width="271" border="1" /></p>
+      <p align="center" class="smallText">Detalle de la   instalaci&oacute;n de los motores Siemens </p>
+      <p align="justify" class="bodyText">El 21 de octubre de 1929,   el Do X realiz&oacute; un vuelo r&eacute;cord con 169 personas a bordo, incluyendo nueve   polizones. Por aquel tiempo, las casi 35 horas de pruebas de vuelo hab&iacute;an   revelado que los motores Siemens eran completamente insuficientes, y entonces un   afortunado cambio de la pol&iacute;tica estadounidense, permiti&oacute; el pr&eacute;stamo de los   probados motores Curtiss Conqueror a Dornier. </p>
+      <p align="justify" class="bodyText">Los nuevos motores   mejoraron las prestaciones, pero s&oacute;lo marginalmente. El Do X, del que Dornier   afirmaba que ten&iacute;a una velocidad m&aacute;xima de 220 Km/h, en realidad ten&iacute;a un   crucero de 165 Km/h, pero con un techo de servicio de 1.650 pies, mucho menor   que los 5.000 pies previstos. Parte del problema era la insistencia de Dornier   en usar unas grandes h&eacute;lices de madera de paso fijo, que actuaban como volantes   de inercia para suavizar el funcionamiento de los motores. </p>
+      <p align="justify" class="bodyText">A pesar de las prestaciones   tan poco impresionantes, el 5 de noviembre de 1930 el Do X fue enviado a un tour   internacional de ventas. El &eacute;pico vuelo a America fue largo y estuvo plagado de   dificultades, pero sin embargo fue muy bien recibido. </p>
+      <p align="justify" class="bodyText">Dornier seleccion&oacute; a un   formidable as de la I&ordf; Guerra Mundial para comandar el Do X durante el vuelo: al   Kapit&auml;nleutnant Frederick Christiansen, el famoso &ldquo;luchador de Zeebrugge&rdquo;.   Christiansen hab&iacute;a volado hidroaviones de doble flotador, y hab&iacute;a conseguido 13   victorias oficiales y 8 no confirmadas haci&eacute;ndose con la Blue Max, que lucir&iacute;a   orgullosamente como Generalleutnant cuando dirigi&oacute; a la Wehrmacht alemana en   Holanda durante la II&ordf; GM. Muri&oacute; en 1972, a la edad de 93 a&ntilde;os. </p>
+      <p align="justify" class="bodyText">Christiansen tuvo a dos   excelentes pilotos bajo su mando. El Capit&aacute;n Horts Metz, reclutado de Lufthansa.   El segundo fue Clarence H. &ldquo;Dutch&rdquo; Schildhauer, un capit&aacute;n de la reserva de la   marina que hab&iacute;a establecido un r&eacute;cord de autonom&iacute;a en un hidroavi&oacute;n PN-9 de la   F&aacute;brica de Aviones Navales.</p>
+      <p align="center"><img height="231" src="images/ilustraciones/doxsteur.jpg" width="356" border="1" /></p>
+      <p align="center" class="smallText">La cabina de   pilotos del Dornier Do X </p>
+      <p align="justify" class="bodyText">El Do X vol&oacute; desde el Lago   Constanza, a trav&eacute;s de Amsterdam, Calshot (sede de las carreras de la Copa   Schneider brit&aacute;nica), Bordeaux, Santander, La Coru&ntilde;a y finalmente Lisboa, donde   un recubrimiento textil se inflam&oacute;, incendiando la estructura del ala. Los da&ntilde;os   fueron graves, y se tard&oacute; m&aacute;s de un mes en repararlos. Teniendo en cuenta la   relativa ligereza de la estructura de acero y duraluminio del Do X, es   sorprendente que el fuego no la dejara inutilizada para siempre. </p>
+      <p align="justify" class="bodyText">El Do X parti&oacute; el 31 de   enero y, con una impresionante velocidad media de 180 Km/h, alcanz&oacute; Las Palmas,   en las Islas Canarias. Varios intentos de despegue en Las Palmas causaron da&ntilde;os   graves que requirieron otros 90 d&iacute;as de trabajos de reparaci&oacute;n. Durante ese   tiempo, se desarroll&oacute; un programa de aligeramiento del Do X para mejorar sus   capacidades de despegue, y todo adorno pesado fue retirado. El n&uacute;mero de   tripulantes se redujo, y los que quedaron tuvieron que deshacerse de todas sus   posesiones personales. Adem&aacute;s, Dornier envi&oacute; a un veterano piloto de Wal, el   Capit&aacute;n Cramer von Clausbruch, para remplazar a Schildhauer. Clausbruch sab&iacute;a   como ampliar el alcance del Do X utilizando el efecto suelo, para el que el   enorme espesor del perfil&nbsp; del ala (con   una relaci&oacute;n de aspecto de 5 a 1) era particularmente adecuado. </p>
+      <p align="justify" class="bodyText">Las cosas no mejoraron   r&aacute;pidamente. El Do X volvi&oacute; de nuevo al aire el 3 de mayo de 1930, alcanzando   Villa Cisneros y despu&eacute;s directo a Bubaque, una isla en la costa de lo que era   entonces la Guinea Portuguesa. Despu&eacute;s de cuatro semanas desesperantes a la   espera de mejor meteorolog&iacute;a, el Do X despeg&oacute; para dirigirse a Natal, Brasil,   v&iacute;a Porto Praia y Fernando Noronha el 31 de mayo. Ese era el trayecto m&aacute;s corto   para cruzar el Atl&aacute;ntico Sur, pero a&uacute;n supon&iacute;an 2.000 Km, y von Clausbruch ten&iacute;a   que luchar con el pesado Do X en el aire balanceando el avi&oacute;n de lado a lado   hasta que venciera su masa y volara. Para aprovechar el efecto suelo, la mayor   parte del tramo inicial del vuelo se hizo a 30 pies de altitud. </p>
+      <p align="justify" class="bodyText">Despu&eacute;s de todas la   dificultades, el Do X disfrut&oacute; de un entusiasta recibimiento en Sudam&eacute;rica que   tuvo lugar por toda la costa de Brasil. La tripulaci&oacute;n recal&oacute; 47 d&iacute;as en R&iacute;o de   Janeiro; Christiansen protest&oacute; por el largo retraso y fue relevado por el   Capit&aacute;n Fritz Hammer, quien en aquel tiempo lideraba el Condor Syndikat, la   punta de lanza alemana en South American Aviation. </p>
+      <p align="justify" class="bodyText">El Do X alcanz&oacute; la costa   norte de Sudam&eacute;rica haciendo escala en Belem durante 10 d&iacute;as para cambiar un   motor. Parti&oacute; hacia Estados Unidos el 10 de agosto, recalando en ciudades   costeras y procediendo v&iacute;a Puerto Rico y Cuba. El 22 de agosto arrib&oacute; a Miami, y   ameriz&oacute; en Charleston y Norfolk, antes de su atronador recibimiento en Nueva York, el 27 de   agosto de 1931, nueve meses despu&eacute;s de su partida.</p>
+      <p align="center"><img height="342" src="images/ilustraciones/DoXinNY.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">El Do X en New   York </p>
+      <p align="justify" class="bodyText">A parte de la alegr&iacute;a   general por su llegada a Nueva York, con el t&iacute;pico y caluroso recibimiento   americano, y con el Mayor Jimmy Walker concediendo medallas a la tripulaci&oacute;n,   las noticias eran funestas. Curtiss reclamaba el pago de los 12 motores, pero   Dornier Co. hab&iacute;a sido golpeada duramente por la depresi&oacute;n y era incapaz de   reunir los 60.000 d&oacute;lares requeridos. Dornier intent&oacute; vender al avi&oacute;n a los   americanos en vano, y el Do X fue anclado para una larga, y quiz&aacute;s permanente,   estancia en Nueva York. </p>
+      <p align="justify" class="bodyText">Finalmente, Dornier recibi&oacute;   un pr&eacute;stamo del vacilante gobierno alem&aacute;n y compr&oacute; los reconstruidos motores   Curtiss. El vuelo de retorno comenz&oacute; el 19 de mayo de 1932, y transportaba a   Antonie Strasser, la segunda mujer que vol&oacute; a trav&eacute;s del Atl&aacute;ntico. Una actriz y   piloto, que hizo las funciones de azafata. </p>
+      <p align="justify" class="bodyText">El Do X vol&oacute; camino de   Newfoundland y las Azores. Aterriz&oacute; seis millas antes y tuvo que navegar por la   bah&iacute;a hasta Horta. Desde ese momento, el viaje de retorno fue notable por la   ausencia de incidentes; el Do X aterriz&oacute; triunfante en el M&uuml;ggelsee de Berl&iacute;n el   24 de mayo de 1932. Durante el mes siguiente, 200.000 personas fueron a verlo.   El avi&oacute;n hab&iacute;a volado 37.000 Km a una velocidad media de 169 Km/h. Ahora que el   viaje hab&iacute;a acabado, el control del Do X pas&oacute; al gobierno alem&aacute;n. </p>
+      <p align="justify" class="bodyText">En aquellos d&iacute;as, los   fascistas italianos ten&iacute;an sus miras puestas en la aviaci&oacute;n, y Dornier fue capaz   de venderles dos modelos: el Do X2 y el Do X3, bautizados Umberto Maddalena y   Alessandro Guidoni, respectivamente, dos talentos italianos de la aviaci&oacute;n. Los   dos Do X italianos fueron motorizados con Fiat A-22R de 550 HP en bloques de   dos, cuidadosamente refrigerados. El Umberto Maddalena fue entregado al gobierno   italiano el 28 de agosto de 1931, aparentemente volando a la impresionante   altura de 12.000 pies sobre los Alpes. El Alessandro Guidoni fue entregado el 13   de mayo de 1932, pocos d&iacute;as antes de que el prototipo llegara a Berl&iacute;n. Los   italianos investigaron el potencial civil y militar de los hidros gigantes sin   ning&uacute;n &eacute;xito, y ambos aviones fueron finalmente desguazados.</p>
+      <p align="center"><img height="327" src="images/ilustraciones/Dornier-Do-X3.jpg" width="500" border="1" /></p>
+      <p align="center" class="smallText">El Dornier   Do X3, el &quot;Alessandro Guidoni&quot;, equipado con motores Fiat de 550 CV. </p>
+    <p align="justify" class="bodyText">Con el deseo de recuperar   algo del dinero empleado en las pruebas del Do X, el gobierno alem&aacute;n envi&oacute; al   hidroavi&oacute;n a un tour por 32 ciudades del este de Prusia, Danzig, el norte de   Alemania y a lo largo del Rhin. El recorrido tuvo lugar desde el 23 de junio al   14 de noviembre de 1932, y fue otra ronda de propaganda triunfal para el   hidroavi&oacute;n gigante. Un viaje similar se prepar&oacute; en 1933: el Do X vol&oacute; a lo largo   del Danubio y al sur hasta Estambul. Desgraciadamente, un error de aterrizaje   del Capit&aacute;n Merz averi&oacute; el avi&oacute;n. Fue reparado y se hicieron unos pocos vuelos   m&aacute;s; entonces, se par&oacute; la m&aacute;quina. El Do X fue retirado del servicio y entregado   a la Colecci&oacute;n Alemana de Aviaci&oacute;n en Berl&iacute;n, en junio de 1936. All&iacute; permaneci&oacute;   en la buena compa&ntilde;&iacute;a de aviones tales como el Fokker Dr.I triplano con las   marcas de von Richthofhen, hasta que fue destru&iacute;do por un raid a&eacute;reo de la RAF   en la noche del 23 y 24 de noviembre de 1942.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="maquinas.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,70 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:11 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:13 GMT
+ETag: "b91-493fc705c9540"
+Accept-Ranges: bytes
+Content-Length: 2961
+Content-Range: bytes 0-2960/2961
+Keep-Alive: timeout=3, max=80
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Normativa</title>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-color: #E9E9E9;
+}
+-->
+</style></head>
+
+<body>
+<table width="678" height="432" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr>
+    <td width="69" height="432" valign="top" bgcolor="#E9E9E9">&nbsp;<br />
+      &nbsp;<br />
+      &nbsp;<br />
+    &nbsp;<br /></td>
+    <td width="538" bgcolor="#E9E9E9"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+              <p align="center" class="T&iacute;tuloTexto">NORMATIVA AVIACI&Oacute;N GENERAL  </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" bgcolor="#E9E9E9"><table align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><center>
+              <p align="justify" class="bodyText"><a href="normativa/reglamento_circulacion.pdf"></a>&Eacute;sta es una selecci&oacute;n de la normativa que afecta a la Aviaci&oacute;n General en Espa&ntilde;a.</p>
+              <p align="justify" class="bodyText">Desde el Convenio de Chicago de 1944, hasta las normas europeas adoptadas en los &uacute;ltimos tiempos. </p>
+              <p align="justify" class="bodyText">El documento de referencia es el Reglamento de Circulaci&oacute;n A&eacute;rea que recoge el esp&iacute;ritu del Convenio de Chicago con todos sus anexos y el documento 4444 de la OACI.</p>
+              <p align="justify" class="bodyText">Tambi&eacute;n se incluyen las JAR-FCL para la normativa que afecta a las tripulaciones, las directivas europeas de mantenimiento y certificaci&oacute;n, y la normativa para ultraligeros y construcci&oacute;n amateur.   </p>
+            </center>              </td>
+          </tr>
+          
+
+          <tr>
+            <td height="100" valign="top" bordercolorlight="#808080" bordercolordark="#ffffff" bgcolor="#E9E9E9"><div align="center">
+              <p><img src="images/piezas/pie_relato.gif" width="500" height="30" vspace="20" /></p>
+            </div></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

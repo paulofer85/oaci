@@ -1,0 +1,153 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:07 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:17 GMT
+ETag: "1c60-493fc70999e40"
+Accept-Ranges: bytes
+Content-Length: 7264
+Content-Range: bytes 0-7263/7264
+Keep-Alive: timeout=3, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><img src="images/logos_cabeceras/cabecera_pilotaje.jpg" alt="" name="Cabecera_menu" width="318" height="120" align="left" id="Cabecera_menu" /><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="174" id="navigation">
+      <tr>
+        <td width="174"><img src="images/logos_cabeceras/tit_pilotaje.gif" alt="" name="Titulo_menu" width="100" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td width="174" align="left"><a href="pilotaje_tecnica.html" class="navText">T&eacute;cnica de Vuelo  </a></td>
+      </tr>
+      
+      <tr>
+        <td width="174"><a href="pilotaje_experiencias.html" class="navText">Experiencias </a></td>
+      </tr>
+      <tr>
+        <td width="174"><a href="normativa.html" class="navText">Normativa</a></td>
+      </tr>
+      
+      <tr>
+        <td><a href="index.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="348" height="463" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="5" class="pageName"><div align="left" class="pageName">ROZAS: UN AER&Oacute;DROMO CON HISTORIA</div></td>
+          </tr>
+          <tr>
+            <td height="12" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="166" colspan="2" class="bodyText"><p align="justify">Cuando uno visita el estupendo aer&oacute;dromo de Rozas (Lugo), no imagina que en el momento de su creaci&oacute;n fue una base secreta alemana destinada al mantenimiento de radio-ayudas... </p></td>
+            <td width="22" class="bodyText">&nbsp;</td>
+            <td width="156" class="bodyText"><a href="rozas.html"><img src="images/ilustraciones/logo_rozas.jpg" width="150" height="72" border="1" /></a><a href="Templates/mustang.html"></a></td>
+            <td width="15" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="5" colspan="5" class="pageName">STICK AND RUDDER </td>
+          </tr>
+          <tr>
+            <td height="13" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="44" height="78" class="bodyText"><p align="justify">&nbsp;</p></td>
+            <td width="111" class="bodyText"><a href="stickandrudder.html"><img src="images/ilustraciones/stickrudderlogo.jpg" width="100" height="151" border="0" /></a></td>
+            <td height="78" class="bodyText">&nbsp;</td>
+            <td height="78" colspan="2" class="bodyText"><p align="justify">En 1944, W. Langewiesche reuni&oacute; en un solo volumen   sus habituales art&iacute;culos sobre pilotaje de <em>Air Facts.</em> As&iacute; naci&oacute; la biblia   del pilotaje cl&aacute;sico. Su t&iacute;tulo se ha convertido en una frase hecha que es   sin&oacute;nimo de las t&eacute;cnicas b&aacute;sicas de pilotaje que todo aviador debe   conocer.</p></td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+      </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p>&nbsp;</p>
+		  <p><span class="subHeader">T&Eacute;CNICA DE VUELO </span><br />
+		    Textos sobre los m&eacute;todos y las ideas para mejorar el pilotaje y el manejo de los sistemas de la aeronave.		  </p>
+		  <p><span class="subHeader">LISTA DE CAMPOS </span><br />
+		    La lista de Federico Iborra es una de las m&aacute;s completas de los aer&oacute;dromos de la pen&iacute;nsula, ahora en un formato amigable. </p>
+		  <p><span class="subHeader">EXPERIENCIAS </span><br />
+		    Relatos de vuelos y experiencias aeron&aacute;uticas.</p>
+		  <p><span class="subHeader">NORMATIVA </span><br />
+		    Todo lo que puedes necesitar para conocer la reglamentaci&oacute;n sobre Aviaci&oacute;n General a fondo. </p>
+		  <p align="justify">&nbsp;</p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,162 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:06:46 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Tue, 01 Feb 2011 20:49:59 GMT
+ETag: "1e22-49b3eacf72bc0"
+Accept-Ranges: bytes
+Content-Length: 7714
+Content-Range: bytes 0-7713/7714
+Keep-Alive: timeout=3, max=41
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_menu.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Aviadores. Temas de Aviación.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Aviadores. Temas de Aviación" />
+<meta name="keywords" content="aviación deportiva, pilotos, técnicas de pilotaje, aviones, historia, meteorología aeronáutica, enlaces, mustang"  />
+<meta name="description" content="Página temática dedicada a la Aviación Deportiva e Histórica. Para pilotos amateurs y amantes de la Aviación en general." />
+<meta name="DC.Languaje" scheme="RFC1766" content="Spanish" />
+<meta http-equiv="Content-Language" content="es" />
+<meta name="distribution" content="global" />
+
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style></head>
+<body>
+<table width="897" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  <tr bgcolor="#FFFFFF">
+    <td colspan="7" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="cabecera_menu" --><a href="pilotaje.html"><img src="images/logos_cabeceras/cabecera_experiencias.jpg" alt="" name="Cabecera_menu" width="200" height="120" border="0" align="left" id="Cabecera_menu" /></a><!-- InstanceEndEditable -->
+    <div align="center"><a href="index.html"><img src="images/logos_cabeceras/logo_aviadoresgrande.gif" width="399" height="120" hspace="70" border="0" align="right" /></a></div>      
+    <div align="center" class="smallText"></div></td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="7"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+
+ <tr>
+    <td width="203" height="446" valign="top" bgcolor="#666666" class="shadow"><!-- InstanceBeginEditable name="menu" -->
+    <table border="0" cellspacing="0" cellpadding="0" width="223" id="navigation">
+      <tr>
+        <td width="223"><img src="images/logos_cabeceras/tit_experiencias.gif" alt="" name="Titulo_menu" width="140" height="30" id="Titulo_menu" /></td>
+      </tr>
+      <tr>
+        <td align="left"><a href="corrigan.html" class="navText">Douglas &quot;Wrong Way&quot; Corrigan </a></td>
+      </tr>
+      <tr>
+        <td width="223" align="left"><a href="patincola.html" class="navText">Pat&iacute;n de cola </a></td>
+      </tr>
+      <tr>
+        <td width="223"><a href="vuelta.html" target="" class="navText">XVI Vuelta A&eacute;rea </a></td>
+      </tr>
+      <tr>
+        <td><a href="rozas.html" class="navText">Aer&oacute;dromo de Rozas </a></td>
+      </tr>
+      <tr>
+        <td><a href="mustangvsme109.html" class="navText">Mustang vs Messerchsmitt </a></td>
+      </tr>
+      <tr>
+        <td><a href="williams.html" class="navText">Volando al l&iacute;mite </a></td>
+      </tr>
+      <tr>
+        <td><a href="gibraltar.html" class="navText">Vuelo a Gibraltar </a></td>
+      </tr>
+      
+      <tr>
+        <td><a href="lapolar2011.html" class="navText">La polar 2011 </a></td>
+      </tr>
+      <tr>
+        <td width="223"><a href="pilotaje.html" class="navText">Volver</a></td>
+      </tr>
+    </table>
+     <br />
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+    <!-- InstanceEndEditable --></td>
+    <td width="30">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="365" valign="top"><!-- InstanceBeginEditable name="contenidos" --><br />
+        <table width="344" height="449" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="32" colspan="5" class="pageName"><div align="left" class="pageName">PAT&Iacute;N DE COLA </div></td>
+          </tr>
+          <tr>
+            <td height="12" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td height="166" colspan="2" class="bodyText"><p align="center"><a href="patincola.html"><img src="images/ilustraciones/andoverlogo.jpg" width="150" height="100" border="1" /></a></p></td>
+            <td width="14" class="bodyText">&nbsp;</td>
+            <td width="156" class="bodyText"><div align="justify">Jessica Ambats explica sus experiencias durante un curso de entrenamiento en la escuela de Aeroflex-Andover, en New Jersey. Traducci&oacute;n de un art&iacute;culo de la revista Plane&amp;Pilot. </div></td>
+            <td width="11" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="5" colspan="5" class="pageName">VIAJE A &quot;LA POLAR 2011&quot; </td>
+          </tr>
+          <tr>
+            <td height="13" colspan="5"><img src="images/piezas/separador.gif" width="344" height="2" /></td>
+          </tr>
+          <tr>
+            <td width="17" height="78" class="bodyText"><p align="justify">&nbsp;</p></td>
+            <td width="146" class="bodyText"><div align="justify">Volar a la concentraci&oacute;n invernal de &quot;La Polar&quot;, en Torremocha del Jiloca (Teruel), siempre es un reto, pero hacerlo desde C&aacute;diz se convierte en una proeza. Descubre como lo hizo la &quot;Patrulla Mosto&quot;. </div></td>
+            <td height="78" class="bodyText">&nbsp;</td>
+            <td height="78" colspan="2" class="bodyText"><p align="center"><a href="lapolar2011.html"><img src="images/ilustraciones/lapolar2011_repostaje_min.jpg" width="150" height="100" border="1" /></a></p></td>
+          </tr>
+          <tr>
+            <td height="10" colspan="5" class="bodyText">&nbsp;</td>
+          </tr>
+      </table>
+       <!-- InstanceEndEditable --></td>
+    <td width="12">&nbsp;</td>
+    <td width="245" valign="top"><br />
+		&nbsp;<br />
+		<table width="198" border="0" align="center" cellpadding="0" cellspacing="0" id="leftcol">
+
+	   <tr bgcolor="#E1E1E1">
+       <td width="19" height="446" bgcolor="#CEE1FB">&nbsp;</td>
+		<td width="157" bgcolor="#CEE1FB" class="smallText"><!-- InstanceBeginEditable name="reseña" -->
+		  <p align="justify" class="subHeader">HISTORIAS</p>
+		  <p align="justify">Los relatos sobre vuelos y experiencias de pilotaje siempre son interesantes. </p>
+		  <p align="justify">Todos los pilotos de todas las &eacute;pocas se han enfrentado a lo mismo, pero cada uno lo vive de forma diferente.</p>
+		  <p align="justify">Formaci&oacute;n, vuelos de placer, competici&oacute;n, combate... pero siempre la misma historia: el desaf&iacute;o del hombre controlando la m&aacute;quina en un medio que le es extra&ntilde;o. &iquest;No es esa la fuente de miles de relatos interesantes?</p>
+		  <p align="justify">Aqu&iacute; podr&aacute;s leer unos cuantos.  </p>
+		<!-- InstanceEndEditable --></td>
+         <td width="22" bgcolor="#CEE1FB" class="smallText">&nbsp;</td>
+         </tr>
+    </table>	
+		<table width="100" height="60" border="0" align="center">
+          <tr>
+            <td height="56"><!-- InstanceBeginEditable name="logo" -->
+              <div align="center"></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table></td>
+	<td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="9" colspan="6">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="25" colspan="6" bgcolor="#000000"><div align="center" class="Letrapieblanca">Aviadores - Aviso legal - 2008 </div></td>
+    <td width="4" bgcolor="#000000">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

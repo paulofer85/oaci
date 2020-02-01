@@ -1,0 +1,79 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:08:23 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 18:01:20 GMT
+ETag: "db7-49401986cfc00"
+Accept-Ranges: bytes
+Content-Length: 3511
+Content-Range: bytes 0-3510/3511
+Keep-Alive: timeout=3, max=96
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<title>Home Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+<!--
+body {
+	background-color: #e9e9e9;
+}
+-->
+</style>
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<table width="678" height="689" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" bgcolor="#FFFFFF">
+  
+
+ <tr>
+    <td width="69" height="689" valign="top" bgcolor="#E9E9E9"> <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /></td>
+    <td width="538" bgcolor="#E1E1E1"><table width="539" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="537" bgcolor="#E9E9E9" height="72"><p align="center" class="T&iacute;tuloTexto">&nbsp;</p>
+            <p align="center" class="T&iacute;tuloTexto">TIENDAS ONLINE </p></td>
+      </tr>
+      <tr>
+        <td bgcolor="#E9E9E9" height="13"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+      </tr>
+      <tr>
+        <td width="537" height="602" bgcolor="#E9E9E9"><table cellspacing="0" cellpadding="0">
+            
+            
+            <tr>
+              <td valign="top" bordercolorlight="#808080" width="682" bgcolor="#E9E9E9" bordercolordark="#ffffff" height="600"><center>
+              </center>
+                  <p>&nbsp;</p>
+                  <p><strong><a href="http://www.aircraftspruce.com/index.html" class="T&iacute;tuloTexto">Spruce</a></strong></p>
+                  <p align="left" class="bodyText">De lo m&aacute;s completo   en Aviaci&oacute;n Deportiva. De todo para nosotros y nuestros aviones.</p>
+                  <p><strong><a href="http://www.gulf-coast-avionics.com/" class="T&iacute;tuloTexto">Gulf Coast</a></strong></p>
+                  <p align="left" class="bodyText">Otra de las grandes   en Internet. Extenso cat&aacute;logo.</p>
+                  <p><strong><a href="http://www.aeroteca.com/presentacio/index.php?llengua=es" class="T&iacute;tuloTexto">L'Aeroteca</a></strong></p>
+                  <p align="left" class="bodyText">La librer&iacute;a   aeron&aacute;utica real y virtual m&aacute;s completa de nuestro pa&iacute;s. Cat&aacute;logo con 14.000   productos, no s&oacute;lo libros. Con sede en Barcelona.</p>
+                  <p align="left" class="T&iacute;tuloTexto"><a href="http://www.buckerbook.com/index.asp"><strong>Bucker   Book</strong></a></p>
+                  <p align="left" class="bodyText">Libros, cartas,   mapas, accesorios para pilotos, etc. Con sede en Madrid.</p>
+                  <p><strong><a href="http://www.sportys.com/pilotshop/" class="T&iacute;tuloTexto">Sporty's Pilot Shop</a></strong></p>
+                  <p align="left" class="bodyText">Centrada en   accesorios para el piloto: navegaci&oacute;n, formaci&oacute;n, comunicaciones, etc. Est&aacute;n en   Ohio, USA.</p>
+                  <p align="left" class="T&iacute;tuloTexto">&nbsp;</p>
+                  <p align="center"><img src="images/piezas/pie_relato.gif" width="500" height="30" /></p>
+                </td>
+            </tr>
+            
+            
+            
+          </table>          </td>
+      </tr>
+    </table></td>
+    <td width="71" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

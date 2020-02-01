@@ -1,0 +1,90 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:58 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:37 GMT
+ETag: "15f1-493fc71cacb40"
+Accept-Ranges: bytes
+Content-Length: 5617
+Content-Range: bytes 0-5616/5617
+Keep-Alive: timeout=3, max=1
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Vuelo de prueba</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="wright.html"><img src="images/logos_cabeceras/cabecera_wright.jpg" alt="" name="Imagen_Cabecera" width="234" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">VUELO DE PRUEBA EN KITTY HAWK </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify"> Dejamos Dayton el 23 de septiembre de 1903 y llegamos a nuestro  campo de Kill Devil Hill el viernes 25. All&iacute; encontramos provisiones y  herramientas, que hab&iacute;an sido enviadas mediante transportista varias semanas  antes. El edificio, levantado en 1901 y ampliado en 1902,&nbsp; hab&iacute;a sido derribado por una tormenta hasta  sus cimientos unos meses antes. Mientras esper&aacute;bamos la llegada del envio de  maquinaria y recambios de Dayton, estuvimos ocupados reparando el viejo  edificio, y levantando uno nuevo que servir&iacute;a de taller para ensamblar y alojar  la nueva m&aacute;quina.</p>
+      <p align="center"><img src="images/ilustraciones/wright_edificiokitty.jpg" width="400" height="290" border="1" /></p>
+      <p align="center" class="smallText">Edificio de madera en Kitty Hawk, en 1908 </p>
+      <p align="justify"> Justo cuando acabamos el edificio, llegaron las  piezas y el material de la m&aacute;quina acompa&ntilde;ado una de las m&aacute;s fuertes tormentas que  hab&iacute;an visitado Kitty Hawk en a&ntilde;os. La tormenta se levant&oacute; de pronto,&nbsp; soplando a 30 &oacute; 40 millas por hora. Arreci&oacute;  durante la noche, y al d&iacute;a siguiente soplaron vientos de unas 75 millas por  hora. Con el prop&oacute;sito de salvar el techo de papel alquitranado, decidimos&nbsp; salir durante la tormenta para clavar y  asegurar las partes m&aacute;s expuestas. Cuando ascend&iacute; por la escalera y alcanc&eacute; el  borde del tejado, el viento se meti&oacute; bajo mi gran abrigo, lo infl&oacute; alrededor de  mi cabeza e inmobiliz&oacute; mis brazos hasta que qued&eacute; totalmente imposibilitado. Wilbur  vino a ayudarme y me baj&oacute; el abrigo mientras intentaba usar los clavos. Cuando  el viento se hizo demasiado fuerte, no pod&iacute;a dirigir el martillo, y  alcanz&aacute;ba mis dedos m&aacute;s veces que a los clavos.</p>
+      <p align="justify"> Las siguientes tres semanas las empleamos en instalar el  motor en la m&aacute;quina. En d&iacute;as de vientos favorables, adquirimos experiencia  adicional en el pilotaje planeando con la m&aacute;quina de 1902, que hab&iacute;amos  encontrado en muy buenas condiciones dentro del viejo edificio, donde la  hab&iacute;amos dejado el a&ntilde;o anterior.</p>
+    <p align="justify"> Mr. Chanute y el Dr. Spratt, a los que hab&iacute;amos invitado a nuestro campo en 1901 y 1902,&nbsp;  pasaron alg&uacute;n tiempo con nosotros,&nbsp;  pero no se quedaron para ver las pruebas de la m&aacute;quina motorizada a  causa de los retrasos provocados por los problemas de desarrollo de los ejes de  las h&eacute;lices.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="wright.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

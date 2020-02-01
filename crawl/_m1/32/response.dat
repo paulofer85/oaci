@@ -1,0 +1,126 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:08 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:01 GMT
+ETag: "3b64-493fc6fa57a40"
+Accept-Ranges: bytes
+Content-Length: 15204
+Content-Range: bytes 0-15203/15204
+Keep-Alive: timeout=3, max=68
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Ultraligeros</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="informe.html"><img src="images/logos_cabeceras/cabecera_ultraligeros.jpg" alt="" name="Imagen_Cabecera" width="256" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">ULTRALIGEROS</div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify">Los ultraligeros suponen algo m&aacute;s de un tercio de todos los  aviones matriculados en nuestro pa&iacute;s. Algo extraordinario si se piensa que  aparecieron a principios de los 80. En Espa&ntilde;a se define ultraligero motorizado (ULM) a aquella aeronave con peso m&aacute;ximo al despegue menor o igual a 450 Kg y con ciertas limitaciones de velocidad y prestaciones. </p>
+      <p align="justify">Gran parte de las primeras m&aacute;quinas ultraligeras eran  simples alas delta con motor, los denominados &ldquo;trikes&rdquo; o &ldquo;dos ejes&rdquo;, por el m&eacute;todo  de control de la aeronave, basado en el movimiento de la totalidad del ala, que es  basculante. Casi a la par, aparecieron los primeros ultraligeros controlados en  tres ejes (alabeo, profundidad y gui&ntilde;ada), que en los inicios estaban  construidos en tubo de aluminio y tela. De ellos todav&iacute;a hay muchos en vuelo, y  pr&aacute;cticamente la mitad de del parque registrado en 2007 pertenece a esta  primera generaci&oacute;n. Sin embargo, el desarrollo de materiales y motores, ha  propiciado la aparici&oacute;n de varias nuevas generaciones de ultraligeros,  met&aacute;licos y en materiales compuestos, que han permitido alcanzar las  prestaciones de las avionetas m&aacute;s ligeras conteniendo el peso y manteniendo la  categor&iacute;a. Actualmente, algunos ultraligeros de 3&ordf; y 4&ordf; generaci&oacute;n sostienen  cruceros de 200 Km/h (108 nudos) sin demasiados problemas.</p>
+      <p align="center"><a href="images/ilustraciones/informe_Top25ULM.jpg" target="_blank"><img src="images/ilustraciones/informe_Top25ULM_500.jpg" width="500" height="267" border="0" /></a></p>
+      <p align="center" class="smallText">Los 25 primeros fabricantes de ultraligeros en Espa&ntilde;a, por n&uacute;mero de unidades (haz click para ampliar) </p>
+      <p align="justify">A d&iacute;a de hoy, el fabricante estrella de ultraligeros en  Espa&ntilde;a por n&uacute;mero de unidades matriculadas, es el estadounidense Rans. Rans  naci&oacute; en 1974 en el oeste de Kansas para fabricar triciclos de playa sobre  ruedas provistos de velas, actividad que llev&oacute; a cabo hasta 1981. Actualmente  fabrican ultraligeros y bicicletas.</p>
+      <p align="center"><img src="images/ilustraciones/informe_S12airaile.jpg" width="450" height="306" border="1" /></p>
+      <p align="center" class="smallText">Rans S-12 Airaile </p>
+      <p align="justify">El modelo estrella de Rans en Espa&ntilde;a es el S12 Airaile, del  que hay matriculadas 133 unidades. Se trata de un ala alta entelada con motor en  configuraci&oacute;n impulsora y cabina semiabierta o carenada, seg&uacute;n el modelo. Muchos  pilotos ultraligeristas han aprendido a volar con esta m&aacute;quina sencilla,  robusta y fiable. El segundo modelo exitoso de Rans, y que ha contribuido a ese  primer puesto, es el S6 Coyote, un ultraligero de segunda generaci&oacute;n de cabina  cerrada, ala alta y con estructura de tubo entelada. Existen 115 unidades  matriculadas en Espa&ntilde;a, en sus diferentes modelos, con tren cl&aacute;sico (pat&iacute;n de  cola) o triciclo.</p>
+      <p align="center"><img src="images/ilustraciones/informe_S6SCoyote.jpg" width="450" height="338" border="1" /></p>
+      <p align="center" class="smallText">Rans S-6 S Coyote </p>
+      <p align="justify">El segundo fabricante por n&uacute;mero unidades matriculadas es  tambi&eacute;n norteamericano y sus aviones son excelentes aparatos de tubo y tela y  primera generaci&oacute;n. Se trata de <em>Ultralight Aircraft of Iowa</em>, que fabrica los  ultraligeros Quicksilver. De hecho, la serie MX (Sport o Sprint), es el modelo  m&aacute;s vendido de ultraligero en Espa&ntilde;a con 183 aviones, del total de 210  Quicksilvers que vuelan en nuestro pa&iacute;s.</p>
+      <p align="center"><img src="images/ilustraciones/informe_MXSport.jpg" width="500" height="354" border="1" /></p>
+      <p align="center" class="smallText">Quicksilver MX Sport. La serie MX es el ULM m&aacute;s vendido en Espa&ntilde;a </p>
+      <p align="justify">Los MX representan el origen genuino de los ultraligeros, e  incluso de los pioneros de la aviaci&oacute;n. Cabina abierta, tres ejes, estructura  muy ligera de tubo, motor de dos tiempos en configuraci&oacute;n propulsora, equipado  con tren triciclo y con versiones monoplaza y biplaza.</p>
+      <p align="justify">Tecnam es la tercera f&aacute;brica en nuestro pa&iacute;s, y su auge es  mucho m&aacute;s reciente, ya que sus modelos son el ejemplo de las &uacute;ltimas  generaciones de ultraligeros, muy pr&oacute;ximos a las avionetas ligeras. Sus dos  modelos estandarte son el P-92 y el P-96, ala alta y ala baja respectivamente,  ambos en configuraci&oacute;n triciclo. De construcci&oacute;n met&aacute;lica (tubo de acero y  plancha de aluminio), biplazas de cabina cerrada y con motor de 4 tiempos de 80  y 100 CV. Tecnam es una f&aacute;brica italiana con factor&iacute;as es Capua (Caserta) y  Casoria (N&aacute;poles), y con una larga tradici&oacute;n de construcci&oacute;n de aviones ligeros  desde el primer modelo dise&ntilde;ado en 1948 por el creador de la firma Luigi  Pascale, el P-48B Astore.</p>
+      <p align="left"><img src="images/ilustraciones/informe_P92.jpg" width="250" height="178" border="1" /><img src="images/ilustraciones/informe_P96.jpg" width="250" height="153" hspace="15" border="1" /></p>
+      <p align="center" class="smallText">Tecnam P-92 y Tecnam P-96, ultraligeros met&aacute;licos de 3&ordf; generaci&oacute;n </p>
+      <p align="justify">El P-92 y el P-96 ocupan el sexto y s&eacute;ptimo lugar en  unidades matriculadas de ultraligeros, y son los primeros ULM de tercera  generaci&oacute;n por n&uacute;mero de ventas en nuestro pa&iacute;s, con 105 y 52 respectivamente.</p>
+      <p align="center"><img src="images/ilustraciones/informe_toptenULM.jpg" width="511" height="349" /></p>
+      <p align="center" class="smallText">Los 10 modelos de ultraligero m&aacute;s vendidos en Espa&ntilde;a desde 1951 hasta 2007 </p>
+      <p align="justify">Los trikes de Air Creation son la siguiente firma de la  lista. Existen matriculados 168 aviones de esta f&aacute;brica. Creada en 1982 por  Gilles Bru y Jean Yver Le Bihan en Ard&egrave;che (Francia), actualmente ocupa a 28  personas y produce tres modelos de ala combinables con tres gamas de carros  para trike. La motorizaci&oacute;n va desde los motores de dos tiempos hasta los  cuatro tiempos de 100 CV. Los trikes Safari de Air Creation son el quinto  modelo de ULM m&aacute;s vendido, con 114 unidades.</p>
+      <p align="center"><img src="images/ilustraciones/informe_GTBI.jpg" width="360" height="270" border="1" /></p>
+      <p align="center" class="smallText">Trike Air Creation GT BI </p>
+      <p align="justify">El primer ultraligero espa&ntilde;ol aparece como segundo de la  lista de modelos m&aacute;s vendidos. Es el Tango, en sus versiones I, II y II GT. Hay  135 unidades matriculadas en estos momentos, y aunque ha dejado de fabricarse,  est&aacute; muy difundidio como modelo barato de estructura de tubo forrada de tela,  para iniciarse. Lo fabricaba la empresa Sport Aircraft S.A., de Segovia. Se  trata de un monoplano de ala alta, en configuraci&oacute;n monoplaza o biplaza,  semicarenado en su versi&oacute;n GT y con motor tractor de dos tiempos. Al igual que  Quicksilver, es un modelo t&iacute;pico de los inicios del vuelo en ultraligero y un  representante genuino de esa filosof&iacute;a de vuelo. Sport Aircraft aparece como  quinta empresa de ultraligeros en nuestro pa&iacute;s por unidades vendidas, gracias  al Tango.</p>
+      <p align="center"><img src="images/ilustraciones/informe_tangoGTII.jpg" width="450" height="338" border="1" /></p>
+      <p align="center" class="smallText">El Tango GT II, uno de los pocos ULM fabricados en Espa&ntilde;a, y el segundo m&aacute;s vendido en nuestro pa&iacute;s </p>
+      <p align="justify">Con filosof&iacute;a y configuraci&oacute;n muy parecidas, pero con h&eacute;lice  impulsora, aparece ya a m&aacute;s distancia Dinaly, con sus modelos Chickinox  monoplaza y t&aacute;ndem y Chickinox Kot Kot. Esta f&aacute;brica belga, ubicada en  Bruselas, ha desaparecido, pero existe un parque de 53 aviones matriculados en  nuestro pa&iacute;s.</p>
+      <p align="justify">Como primer fabricante el la lista de ultraligeros de 2&ordf;  generaci&oacute;n, aparece ICP, la f&aacute;brica italiana de Piov&agrave; Massaia que comenz&oacute; como  distribuidor en Italia de Chickinox y ahora ofrece sus dos modelos estrella: el  Bingo y el Savannah. Biplazas met&aacute;licos de fuselaje cuadrado, ala alta, tren  triciclo y caracter&iacute;sticas STOL debido a la incoporaci&oacute;n de slats en el borde  de ataque. En nuestro pa&iacute;s vuelan 36 Bingo y 12 Savannah, lo que coloca a ICP  en la s&eacute;ptima posici&oacute;n del ranking de fabricantes.</p>
+      <p align="center"><img src="images/ilustraciones/informe_bingo.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">El Bingo, de la italiana ICP, ejemplo exitoso de ULM de 2&ordf; generaci&oacute;n </p>
+      <p align="justify">Como segundo fabricante de ULM de 3&ordf; generaci&oacute;n por unidades  matriculadas, despu&eacute;s de Tecnam, se situa TL Ultralight, f&aacute;brica checa radicada  en Hradec Kr&aacute;lov&eacute; y especializada en la construcci&oacute;n en fibra de carbono. Su  modelo estrella en Espa&ntilde;a es el TL-96, un biplaza lado a lado, ala baja y tren  triciclo, de dise&ntilde;o estilizado y moderno, que se puede equipar con motor de  cuatro tiempos de 80 y 100 CV. TL ha matriculado en Espa&ntilde;a 45 aviones, de los  cuales 38 son TL-96, 4 son TL-2000, la versi&oacute;n m&aacute;s deportiva y r&aacute;pida de TL, y  4 m&aacute;s son TL132/232, el ala alta de estructura de tubo recubierta de tela de TL  Ultralight.</p>
+      <p align="center"><img src="images/ilustraciones/informe_tl96star2.jpg" width="500" height="300" border="1" /></p>
+      <p align="center" class="smallText">TL 96 Star II, de TL Ultralight, ultraligero de fibra de carbono de 3&ordf; generaci&oacute;n </p>
+      <p align="justify">Los autogiros van ganando adeptos en Espa&ntilde;a, y tres f&aacute;bricas  aparecen entre las 25 m&aacute;s vendidas: Sallen, ELA y Airbet. Curiosamente, las tres  firmas son espa&ntilde;olas, algo poco usual en el mundo de los ultraligeros y de la  aviaci&oacute;n deportiva en general.</p>
+      <p align="justify">Sallen empez&oacute; su andadura en Huesca a principios de los 80  para desarrollar su serie Mach (modelos 10 y 15, monoplaza y biplaza), y  actualmente se ha centrado en trabajar como subcontratista en el sector  aeron&aacute;utico, de defensa y ferroviario.</p>
+      <p align="center"><img src="images/ilustraciones/informe_ELA-07.jpg" width="500" height="335" border="1" /></p>
+      <p align="center" class="smallText">Autogiro ELA 07, fabricado en Madrid (Espa&ntilde;a) </p>
+      <p align="justify">ELA mantiene su actividad en la construcci&oacute;n de autogiros, y  su modelo estrella es el 07, biplaza t&aacute;ndem de cabina semicarenada con motores  de 100 y 114 CV.</p>
+      <p align="justify">Airbet comercializa su serie Girabet, autogiros simple y  robustos, de cabina abierta y equipados con motores de dos y cuatro tiempos, en  sus versiones monoplaza y biplaza.</p>
+      <p align="center"><img src="images/ilustraciones/informe_pterodactylascenderII.jpg" width="450" height="270" border="1" /></p>
+      <p align="center" class="smallText">El ultraligero m&aacute;s antiguo matriculado en Espa&ntilde;a, el Pterodactyl Ascender II </p>
+      <p align="justify">La antig&uuml;edad media del parque de ultraligeros es de 11  a&ntilde;os. El ultraligero m&aacute;s antiguo matriculado tiene una edad de 28 a&ntilde;os y es un  Pterodactyl Ascender II, de fabricaci&oacute;n norteamericana y dise&ntilde;o de Jack  McCornack. Se trata de una ala volante con superficies verticales en sus extremos  para controlar la gui&ntilde;ada, y un peque&ntilde;o plano canard anterior para la  profundidad. El control lateral se consegu&iacute;a flexando las alas, tal y como idearon los Hermanos Wright.</p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="informe.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

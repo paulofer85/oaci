@@ -1,0 +1,214 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:07:14 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Tue, 02 Nov 2010 14:44:44 GMT
+ETag: "3f18-49412f72baf00"
+Accept-Ranges: bytes
+Content-Length: 16152
+Content-Range: bytes 0-16151/16152
+Keep-Alive: timeout=3, max=18
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_galeria.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Volando sobre nieve</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+body {
+	background-color: #6A0000;
+}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><style type="text/css">
+<!--
+body {
+	background-image: url(images/fondos/fondo_menu.gif);
+}
+-->
+</style><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="galeria.html"><img src="images/logos_cabeceras/cabecera_nieve.jpg" alt="" name="Imagen_Cabecera" width="328" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" hspace="70" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado_largo.gif" width="900" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="34" colspan="3"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">VOLANDO SOBRE NIEVE (Invierno 2008-2009) </div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td width="50">&nbsp;</td>
+    <td width="488">&nbsp;</td>
+    <td width="50">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><!-- InstanceBeginEditable name="Tabla_imagenes" -->
+      <table width="750" border="0" align="center" cellpadding="0" cellspacing="10">
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve37.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve38.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve32.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve32.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve34.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve34.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve33.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve33.jpg" width="112" height="149" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">En la carretera  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Las huellas del aterrizaje  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Sobre la pista </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Huellas de triciclo  </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve1.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve1.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve5.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve5.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve3.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve3.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve7.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve7.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Plataforma desde tierra  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">La manga de vuelo  </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Monta&ntilde;as nevadas </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Cabecera de la 19  </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve2.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve2.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve4.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve4.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve6.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve6.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve8.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve8.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">La laguna </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista de LERM </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista nevada </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">La Muela  </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve9.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve9.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve10.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve10.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve11.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve11.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve13.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve13.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">La Muela </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Taragudo (Guadalajara - Espa&ntilde;a) </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Hangares individuales </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Hita (Guadalajara - Espa&ntilde;a) </div></td>
+        </tr>
+        <tr>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve14.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve14.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve15.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve15.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve16.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve16.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td><div align="center"><a href="images/ilustraciones/galeria_nieve17.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve17.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Madrid a lo lejos </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Paisaje nevado </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Cruzando la pista </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Embalse de Bele&ntilde;a (Guadalajara) </div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve18.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve18.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve19.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve19.jpg" width="149" height="112" border="0" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve20.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve20.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve21.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve21.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Otro paisaje </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista general </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Plataforma con luz </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Monta&ntilde;as</div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve22.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve22.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve23.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve23.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve24.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve24.jpg" width="112" height="149" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve25.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve25.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Cabecera de la 01 desde el aire </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Pista y monta&ntilde;as </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Cabecera de la pista 19 </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Laguna congelada </div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve26.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve26.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve27.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve27.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve28.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve28.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve29.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve29.jpg" width="149" height="112" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Giro sobre nieve </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Giro sobre monta&ntilde;a </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">VOR de LERM </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Sombra</div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve30.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve30.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve31.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve31.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve35.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve35.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve36.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve36.jpg" width="112" height="149" border="1" /></a></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Arbol solitario </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Giro pronunciado </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Robledillo desde tierra </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Hangares</div></td>
+        </tr>
+        <tr>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve39.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve39.jpg" width="149" height="112" border="1" /></a></div></td>
+          <td class="Letrapieblanca"><div align="center"><a href="images/ilustraciones/galeria_nieve40.jpg" target="_blank"><img src="images/ilustraciones/galeria_min_nieve40.jpg" width="112" height="149" border="1" /></a></div></td>
+          <td class="Letrapieblanca">&nbsp;</td>
+          <td class="Letrapieblanca">&nbsp;</td>
+        </tr>
+        <tr>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista desde la 01 a lo lejos </div></td>
+          <td bgcolor="#990033" class="Letrapieblanca"><div align="center">Vista desde la 19 </div></td>
+          <td class="Letrapieblanca">dd</td>
+          <td class="Letrapieblanca">dd</td>
+        </tr>
+      </table>
+    <!-- InstanceEndEditable --></td>
+    <td>&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="images/piezas/separador_medio.gif" width="730" height="3" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="galeria.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

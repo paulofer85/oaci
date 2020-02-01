@@ -1,0 +1,108 @@
+HTTP/1.1 200 Partial Content
+Date: Wed, 29 Jan 2020 14:04:09 GMT
+Server: Apache/2.4.41 (Unix)
+Vary: User-Agent
+Last-Modified: Mon, 01 Nov 2010 11:52:23 GMT
+ETag: "327d-493fc70f52bc0"
+Accept-Ranges: bytes
+Content-Length: 12925
+Content-Range: bytes 0-12924/12925
+Keep-Alive: timeout=3, max=83
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/pagina_texto.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Aer&oacute;dromo de Rozas</title>
+<!-- InstanceEndEditable -->
+<link href="estilo_aviadores.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+.style1 {font-size: 9px}
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<table width="639" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="95" colspan="3"><!-- InstanceBeginEditable name="ImagenCabecera" --><a href="pilotaje_experiencias.html"><img src="images/logos_cabeceras/cabecera_rozas.jpg" alt="" name="Imagen_Cabecera" width="248" height="120" border="0" align="left" id="Imagen_Cabecera" /></a><!-- InstanceEndEditable --><a href="index.html"><img src="images/logos_cabeceras/logo_aviadorescorto.gif" width="368" height="120" border="0" align="right" /></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="638"><img src="images/piezas/bordemorado.gif" width="640" height="6" /></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><!-- InstanceBeginEditable name="TÍTULO" -->
+      <div align="center" class="T&iacute;tuloTexto">ROZAS: UN AER&Oacute;DROMO CON HISTORIA</div>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9"><div align="center"><img src="images/piezas/separador_fino.gif" width="500" height="5" /></div></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+    <td bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceBeginEditable name="Contenido" -->
+  <tr>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+    <td width="540" bgcolor="#E9E9E9" class="bodyText"><p align="justify" class="bodyText">A&ntilde;o 1943. La Batalla del Atl&aacute;ntico est&aacute; en pleno apogeo enfrentando a la Kriegsmarine alemana con las Armadas inglesa y norteamericana. El oc&eacute;ano est&aacute; plagado de submarinos y barcos de ambos bandos, que libran el juego del rat&oacute;n y el gato. Uno de los factores clave en esta batalla decisiva es el de la orientaci&oacute;n. Conocer en todo momento la posici&oacute;n propia y la del enemigo se torna vital para la pelea. A la navegaci&oacute;n con br&uacute;jula y sextante (insuficiente para los submarinos), se empiezan a sumar las primeras radio-ayudas. </p>
+      <p align="justify" class="bodyText">El Doctor Ernst Kramar, de la empresa alemana C. Lorenz AG de Berl&iacute;n, ha desarrollado el sistema Elektra Sonne. Se trata de una serie de radio faros instalados en puntos estrat&eacute;gicos, que emiten en la banda de 1 Km (300 Khz). Las instalaciones radiantes se componen de tres antenas alineadas de aproximadamente 100 metros de altura separadas entre s&iacute; por 1.500 metros. La antena central es la principal y las dos que la flanquean ejercen de secundarias. El haz de ondas transmitido  cubre un sector de unos 120&ordm; por delante de la estaci&oacute;n, y se compone de una se&ntilde;al central emitida por la antena principal, y dos se&ntilde;ales id&eacute;nticas pero desfasadas +90&ordm; y -90&ordm; emitidas por las antenas secundarias. La se&ntilde;al transmitida divide el espacio en una serie de sectores. Es una se&ntilde;al codificada en morse, c&iacute;clica, que se capta de forma diferente en funci&oacute;n de la posici&oacute;n del receptor con respecto a la estaci&oacute;n. Escuchando la se&ntilde;al, descifr&aacute;ndola (simplemente contando el n&uacute;mero de puntos y rayas morse recibidos), y con la ayuda de las cartas codificadas para el sistema, se puede averiguar el &quot;radial&quot; o la demora del m&oacute;vil con respecto a la estaci&oacute;n. Captando la se&ntilde;al de una segunda estaci&oacute;n y repitiendo el proceso, se puede trazar un segundo radial sobre la carta que interceptando al primero nos dar&aacute; la posici&oacute;n exacta. Una impresionante ayuda para l&aacute; &eacute;poca, predecesora de los VOR actuales. Estas radio ayudas pueden utilizarse por barcos, submarinos y aviones, con la ventaja de que s&oacute;lo es necesario un simple receptor en la banda de 300 Khz y un operador de radio instru&iacute;do en el m&eacute;todo. El sistema permite a los submarinos alemanes conocer en todo momento su posici&oacute;n sin tener que salir a la superficie. Se construyen estaciones Sonne a la lo largo de toda la costa norte de Europa. </p>
+      <p align="center" class="bodyText"><img src="images/ilustraciones/mapasonne.jpg" width="500" height="354" /></p>
+      <p align="justify" class="bodyText">En 1940, el gobierno alem&aacute;n pide permiso a Franco para instalar radio ayudas en territorio espa&ntilde;ol. El gobierno del General Franco, en deuda con el III Reich por su ayuda en la contienda civil que acaba de terminar, accede sin problemas a que la Kriegsmarine instale dos estaciones Elektra Sonne: una en Sevilla y otra en Arneiro (Lugo). Se denominar&iacute;an Sonne 16 y Sonne 15 respectivamente. El material, fabricado por Telefunken, desmontado y numerado, llega a Espa&ntilde;a en camiones junto con el equipo t&eacute;cnico que iba a instalar y operar el sistema. En poco tiempo, las tres antenas de ciento y pocos metros se levantan imponentes en la costa gallega.</p>
+      <p align="center" class="bodyText"><img src="images/ilustraciones/arneiro_torre.gif" width="300" height="446" border="1" /></p>
+      <p align="center" class="smallText">Una de las torres de el Elektra Sonne de Arneiro </p>
+      <p align="justify" class="bodyText">Tras unos  meses se revela la necesidad de transportar material y personal a unas instalaciones que ser&iacute;an vitales durante toda la Guerra. Para ello, se busca un terreno id&oacute;neo para la construcci&oacute;n de un aer&oacute;dromo que permita hacer sostenible la estaci&oacute;n. Se localiza una ubicaci&oacute;n en Rozas (Lugo), a unos 25 Km de Arneiro. All&iacute; la Luftwaffe construye una pista de 1200 metros y tres hangares de grandes dimensiones y &uacute;ltima tecnolog&iacute;a. En &eacute;l operaban regularmente los transportes Junkers Ju-52 que se encargaban del tr&aacute;fico de personal t&eacute;cnico y materiales. Todo el personal que trabajaba en el campo era alem&aacute;n. Se ha especulado  con la participaci&oacute;n del aer&oacute;dromo en misiones de combate, como la del 10 de noviembre de 1943, en la que tres Junkers Ju-88 derribaron un Short Sunderland en el Golfo de Vizcaya, pero ninguno de estos extremos ha podido ser confirmado. El gobierno espa&ntilde;ol de entonces siempre desminti&oacute; oficialmente que en nuestro pa&iacute;s existieran bases alemanas, cuesti&oacute;n por otro lado l&oacute;gica; las instalaciones siempre fueron secretas.</p>
+      <p align="justify" class="bodyText">Tras la captura por los ingleses del submarino U-505, en junio de 1944, con todos los manuales de utilizaci&oacute;n del sistema a bordo, su uso se extiende a la flota aliada, que bautiza el m&eacute;todo de orientaci&oacute;n como &quot;Consol&quot;. Tanto es as&iacute;, que circula la historia de que fueron los ingleses los que proporcionaron las piezas de repuesto para reparar una aver&iacute;a de la estaci&oacute;n de Arneiro en 1945. </p>
+      <p align="justify" class="bodyText">Al finalizar la Guerra, el aer&oacute;dromo pasa a ser propiedad del Ej&eacute;rcito del Aire y durante un corto periodo se utiliza como aeropuerto de Galicia por la compa&ntilde;ia Iberia, a falta de otro en el territorio, hasta que empieza a operar Labacolla, en Santiago. El aer&oacute;dromo permanece como base militar hasta 1953, en el que se dictamina su cierre. En 1958 se decide trasladar uno de los hangares alemanes a Mallorca, y en 1959 otro a Cuatro Vientos. Cuando se va a proceder a trasladar el tercero, y a desmantelar definitivamente el aeropuerto, el entonces alcalde de Lugo, D. Ramiro Rueda Fern&aacute;ndez, se mueve r&aacute;pidamente y funda el Aeroclub de Lugo en sus instalaciones, que ha sido dedicadas a la Aviaci&oacute;n Deportiva desde entonces.</p>
+      <p align="center" class="bodyText"><img src="images/ilustraciones/rozas_pista.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">El aer&oacute;dromo de Rozas en la actualidad. (Foto: <a href="http://www.aerolugo.com/" target="_blank">Real Aeroclub de Lugo</a>) </p>
+      <p align="justify" class="bodyText">Actualmente el aer&oacute;dromo de Rozas es una instalaci&oacute;n deportiva ejemplarmente conservada, con una notable actividad  de escuela y un aeroclub muy din&aacute;mico en el que opera una variada flota de aparatos de pist&oacute;n y veleros. El hangar alem&aacute;n superviviente todav&iacute;a se conserva en perfecto estado de uso. Nadie puede imaginar su curiosa historia, sus or&iacute;genes como instalaci&oacute;n secreta, y su estupenda transformaci&oacute;n en lo que es hoy uno de los mejores aer&oacute;dromos deportivos gallegos, sede del <a href="http://www.aerolugo.com/" target="_blank">Real Aeroclub de Lugo</a>. </p>
+      <p align="center" class="bodyText"><img src="images/ilustraciones/hangar_rozas.jpg" width="500" height="375" border="1" /></p>
+      <p align="center" class="smallText">Vista del hangar principal de Rozas, construido por la Luftwaffe en 1940 (Foto: <a href="http://www.aerolugo.com/" target="_blank">Real Aeroclub de Lugo</a>) </p>
+      <p align="justify" class="bodyText">Cuando acab&oacute; la Guerra, la estaci&oacute;n de Arneiro fue utilizada por el  Ej&eacute;rcito hasta 1962, en que pas&oacute; a Aviaci&oacute;n Civil donde prest&oacute; servicio en vuelos y navegaci&oacute;n oce&aacute;nicos hasta 1971, cuando las antenas fueron  desconectadas y sustitu&iacute;das por los sistemas v&iacute;a sat&eacute;lite. Actualmente pertenecen al Ministerio de Defensa y  todav&iacute;a resisten a su  abandono, por lo menos dos de ellas, pues una de las torres se derrumb&oacute; por efecto del viento en 2006. El que haya soportado 66 a&ntilde;os, la mitad de ellos sin ning&uacute;n tipo de mantenimiento, da idea de la solidez de la construcci&oacute;n. Municipios y asociaciones de la zona abogan por la restauraci&oacute;n y conservaci&oacute;n  de las antenas restantes como patrimonio hist&oacute;rico.</p>
+      <p align="justify" class="pageName">Bibliograf&iacute;a</p>
+      <p align="justify" class="bodyText">El presente texto ha sido extra&iacute;do de la informaci&oacute;n contenida en los siguientes art&iacute;culos:</p>
+      <p align="justify" class="bodyText"><a href="http://www.telecable.es/personales/submarinos/rozas/rozas.htm">El Aer&oacute;dromo de Rozas</a>, por Seraf&iacute;n R. Trashorras</p>
+      <p align="justify" class="bodyText"><a href="http://www.torresdearneiro.com">Las Torres de Arneiro</a>, por Seraf&iacute;n R. Trashorras </p>
+      <p align="justify" class="bodyText"><a href="http://anuariobrigantino.betanzos.es/Ab2006PDF/2006%20319-344-reiriz06.pdf">A Coru&ntilde;a y la II Guerra Mundial</a>, por Jes&uacute;s Mar&iacute;a Reiriz Rey</p>
+      <p align="justify" class="bodyText"><a href="http://www.vectorsite.net/ttwiz_10.html">Radio Navegation Systems</a>, por Greg Goebel</p>
+      <p align="justify" class="bodyText"><a href="http://jproc.ca/hyperbolic/consol.html">Sonne/Consol</a>, por W.F. Blanchard</p>
+      <p align="justify" class="bodyText"><a href="http://www.ibiblio.net/hyperwar/ETO/Ultra/SRH-025/SRH025-7.html">U-Boat Navigation</a>, por Ian Williams</p>
+    <p align="justify" class="bodyText"><a href="http://www.ea1ddo.es/consol.html">Estaci&oacute;n Consol de la II&ordf; Guerra Mundial</a>, por M&aacute;ximo Mart&iacute;n </p></td>
+    <td width="50" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <!-- InstanceEndEditable -->
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><img src="images/logos_cabeceras/pie_relato.gif" width="500" height="30" /></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9"><div align="center"><!-- InstanceBeginEditable name="Retorno" --><a href="pilotaje_experiencias.html"><img src="images/piezas/atras2.gif" width="25" height="28" border="0" /></a><!-- InstanceEndEditable --></div></td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#E9E9E9">&nbsp;</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
