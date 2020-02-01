@@ -17,12 +17,12 @@ def index():
   
 @app.route('/oaci/<code_oaci>')
 def get_oaci(code_oaci):
-    not_exist = "{}"
     try:
-        return airports[code_oaci.upper()]
+        return json.dumps(airports[code_oaci.upper()])
     except KeyError:
         return '{"lat": "S00°00","long": "W00°00","name": "NOT FOUND"}'
 
 @app.route('/oaci')
 def get_all_oaci():
     return json.dumps(airports)
+    
